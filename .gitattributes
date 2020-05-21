@@ -1,0 +1,2 @@
+*.tv4dl filter=lfs diff=lfs merge=lfs -text
+*.tv4l filter=lfs diff=lfs merge=lfs -text
