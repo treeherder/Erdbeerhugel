@@ -93,7 +93,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>3.216218</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-6.036390" Y="-0.560026" Z="-5.575291" />
         <BoundingMax X="5.426670" Y="5.872410" Z="5.119190" />
         <BoundingCenter X="-0.304860" Y="2.656192" Z="-0.228050" />
@@ -159,7 +159,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>3.511553</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-4.277220" Y="-0.221995" Z="-4.600880" />
         <BoundingMax X="3.768510" Y="6.801110" Z="4.069450" />
         <BoundingCenter X="-0.254355" Y="3.289557" Z="-0.265715" />
@@ -201,7 +201,7 @@
     <Template>
         <Name>b_prunusSpinosa_1s</Name>
         <File>dz\plants\bush\b_prunusspinosa_1s.p3d</File>
-        <Date>05/21/20 00:06:54</Date>
+        <Date>05/21/20 13:23:09</Date>
         <Archive></Archive>
         <Fill>-16711872</Fill>
         <Outline>-16777216</Outline>
@@ -234,7 +234,7 @@
     <Template>
         <Name>b_prunusSpinosa_2s</Name>
         <File>dz\plants\bush\b_prunusspinosa_2s.p3d</File>
-        <Date>05/21/20 00:06:54</Date>
+        <Date>05/21/20 13:23:09</Date>
         <Archive></Archive>
         <Fill>-16711872</Fill>
         <Outline>-16777216</Outline>
@@ -291,7 +291,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.333588</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-1.319390" Y="-0.393455" Z="-1.356370" />
         <BoundingMax X="1.372390" Y="2.273720" Z="1.300940" />
         <BoundingCenter X="0.026500" Y="0.940132" Z="-0.027715" />

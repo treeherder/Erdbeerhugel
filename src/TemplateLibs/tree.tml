@@ -3,7 +3,7 @@
     <Template>
         <Name>t_FagusSylvatica_2f_cut</Name>
         <File>dz\plants\tree\cutted_cut\t_fagussylvatica_2f_cut.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -36,7 +36,7 @@
     <Template>
         <Name>t_FagusSylvatica_2f_stump</Name>
         <File>dz\plants\tree\cutted_stump\t_fagussylvatica_2f_stump.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -102,7 +102,7 @@
     <Template>
         <Name>b_FagusSylvatica_1f</Name>
         <File>dz\plants\tree\b_fagussylvatica_1f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -135,7 +135,7 @@
     <Template>
         <Name>b_PiceaAbies_1f</Name>
         <File>dz\plants\tree\b_piceaabies_1f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -192,7 +192,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.487001</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-0.749005" Y="-0.799372" Z="-0.780988" />
         <BoundingMax X="0.783324" Y="2.174630" Z="0.690836" />
         <BoundingCenter X="0.017159" Y="0.687629" Z="-0.045076" />
@@ -201,7 +201,7 @@
     <Template>
         <Name>b_quercusRobur_1f</Name>
         <File>dz\plants\tree\b_quercusrobur_1f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -267,7 +267,7 @@
     <Template>
         <Name>d_FagusSylvatica_fallenb</Name>
         <File>dz\plants\tree\d_fagussylvatica_fallenb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -324,7 +324,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.710169</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-1.308780" Y="-0.093606" Z="-0.332510" />
         <BoundingMax X="1.190660" Y="1.326732" Z="0.938317" />
         <BoundingCenter X="-0.059060" Y="0.616563" Z="0.302904" />
@@ -333,7 +333,7 @@
     <Template>
         <Name>d_FagusSylvatica_stump</Name>
         <File>dz\plants\tree\d_fagussylvatica_stump.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -366,7 +366,7 @@
     <Template>
         <Name>d_FagusSylvatica_stumpb</Name>
         <File>dz\plants\tree\d_fagussylvatica_stumpb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -399,7 +399,7 @@
     <Template>
         <Name>d_FagusSylvatica_stumpc</Name>
         <File>dz\plants\tree\d_fagussylvatica_stumpc.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -432,7 +432,7 @@
     <Template>
         <Name>d_piceaabies_fallen</Name>
         <File>dz\plants\tree\d_piceaabies_fallen.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -465,7 +465,7 @@
     <Template>
         <Name>d_piceaabies_fallenb</Name>
         <File>dz\plants\tree\d_piceaabies_fallenb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -498,7 +498,7 @@
     <Template>
         <Name>d_piceaabies_fallenc</Name>
         <File>dz\plants\tree\d_piceaabies_fallenc.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -531,7 +531,7 @@
     <Template>
         <Name>d_piceaabies_stump</Name>
         <File>dz\plants\tree\d_piceaabies_stump.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -564,7 +564,7 @@
     <Template>
         <Name>d_piceaabies_stumpb</Name>
         <File>dz\plants\tree\d_piceaabies_stumpb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -663,7 +663,7 @@
     <Template>
         <Name>d_PinusSylvestris_fallenc</Name>
         <File>dz\plants\tree\d_pinussylvestris_fallenc.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -696,7 +696,7 @@
     <Template>
         <Name>d_PinusSylvestris_stump</Name>
         <File>dz\plants\tree\d_pinussylvestris_stump.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -729,7 +729,7 @@
     <Template>
         <Name>d_PinusSylvestris_stumpb</Name>
         <File>dz\plants\tree\d_pinussylvestris_stumpb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -762,7 +762,7 @@
     <Template>
         <Name>d_quercusRobur_fallenb</Name>
         <File>dz\plants\tree\d_quercusrobur_fallenb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -795,7 +795,7 @@
     <Template>
         <Name>d_quercusRobur_fallenc</Name>
         <File>dz\plants\tree\d_quercusrobur_fallenc.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -828,7 +828,7 @@
     <Template>
         <Name>d_quercusRobur_stump</Name>
         <File>dz\plants\tree\d_quercusrobur_stump.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -861,7 +861,7 @@
     <Template>
         <Name>d_quercusRobur_stumpb</Name>
         <File>dz\plants\tree\d_quercusrobur_stumpb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -894,7 +894,7 @@
     <Template>
         <Name>t_BetulaPendula_1f</Name>
         <File>dz\plants\tree\t_betulapendula_1f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -927,7 +927,7 @@
     <Template>
         <Name>t_BetulaPendula_1fb</Name>
         <File>dz\plants\tree\t_betulapendula_1fb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -960,7 +960,7 @@
     <Template>
         <Name>t_BetulaPendula_1s</Name>
         <File>dz\plants\tree\t_betulapendula_1s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -993,7 +993,7 @@
     <Template>
         <Name>t_BetulaPendula_2f</Name>
         <File>dz\plants\tree\t_betulapendula_2f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1026,7 +1026,7 @@
     <Template>
         <Name>t_BetulaPendula_2fb</Name>
         <File>dz\plants\tree\t_betulapendula_2fb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1059,7 +1059,7 @@
     <Template>
         <Name>t_BetulaPendula_2fc</Name>
         <File>dz\plants\tree\t_betulapendula_2fc.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1092,7 +1092,7 @@
     <Template>
         <Name>t_BetulaPendula_2s</Name>
         <File>dz\plants\tree\t_betulapendula_2s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1125,7 +1125,7 @@
     <Template>
         <Name>t_BetulaPendula_2w</Name>
         <File>dz\plants\tree\t_betulapendula_2w.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1158,7 +1158,7 @@
     <Template>
         <Name>t_BetulaPendula_3f</Name>
         <File>dz\plants\tree\t_betulapendula_3f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1191,7 +1191,7 @@
     <Template>
         <Name>t_BetulaPendula_3fb</Name>
         <File>dz\plants\tree\t_betulapendula_3fb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1224,7 +1224,7 @@
     <Template>
         <Name>t_BetulaPendula_3fc</Name>
         <File>dz\plants\tree\t_betulapendula_3fc.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1257,7 +1257,7 @@
     <Template>
         <Name>t_BetulaPendula_3s</Name>
         <File>dz\plants\tree\t_betulapendula_3s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1290,7 +1290,7 @@
     <Template>
         <Name>t_carpinus_2s</Name>
         <File>dz\plants\tree\t_carpinus_2s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1323,7 +1323,7 @@
     <Template>
         <Name>t_FagusSylvatica_1f</Name>
         <File>dz\plants\tree\t_fagussylvatica_1f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1356,7 +1356,7 @@
     <Template>
         <Name>t_FagusSylvatica_1fb</Name>
         <File>dz\plants\tree\t_fagussylvatica_1fb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1389,7 +1389,7 @@
     <Template>
         <Name>t_FagusSylvatica_1fc</Name>
         <File>dz\plants\tree\t_fagussylvatica_1fc.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1422,7 +1422,7 @@
     <Template>
         <Name>t_FagusSylvatica_1fd</Name>
         <File>dz\plants\tree\t_fagussylvatica_1fd.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1455,7 +1455,7 @@
     <Template>
         <Name>t_FagusSylvatica_1fe</Name>
         <File>dz\plants\tree\t_fagussylvatica_1fe.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1512,7 +1512,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>4.305808</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-2.050461" Y="-0.240056" Z="-2.353353" />
         <BoundingMax X="2.194749" Y="8.371560" Z="2.082048" />
         <BoundingCenter X="0.072144" Y="4.065752" Z="-0.135653" />
@@ -1545,7 +1545,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>9.475826</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-3.892820" Y="-0.965752" Z="-2.969090" />
         <BoundingMax X="3.141230" Y="17.985901" Z="3.510850" />
         <BoundingCenter X="-0.375795" Y="8.510075" Z="0.270880" />
@@ -1554,7 +1554,7 @@
     <Template>
         <Name>t_FagusSylvatica_2f</Name>
         <File>dz\plants\tree\t_fagussylvatica_2f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1587,7 +1587,7 @@
     <Template>
         <Name>t_FagusSylvatica_2fb</Name>
         <File>dz\plants\tree\t_fagussylvatica_2fb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1620,7 +1620,7 @@
     <Template>
         <Name>t_FagusSylvatica_2fc</Name>
         <File>dz\plants\tree\t_fagussylvatica_2fc.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1653,7 +1653,7 @@
     <Template>
         <Name>t_FagusSylvatica_2s</Name>
         <File>dz\plants\tree\t_fagussylvatica_2s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1686,7 +1686,7 @@
     <Template>
         <Name>t_FagusSylvatica_2sb</Name>
         <File>dz\plants\tree\t_fagussylvatica_2sb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1719,7 +1719,7 @@
     <Template>
         <Name>t_FagusSylvatica_2sb_Trail_B</Name>
         <File>dz\plants\tree\t_fagussylvatica_2sb_trail_b.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1752,7 +1752,7 @@
     <Template>
         <Name>t_FagusSylvatica_2sb_Trail_G</Name>
         <File>dz\plants\tree\t_fagussylvatica_2sb_trail_g.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1785,7 +1785,7 @@
     <Template>
         <Name>t_FagusSylvatica_2sb_Trail_R</Name>
         <File>dz\plants\tree\t_fagussylvatica_2sb_trail_r.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1818,7 +1818,7 @@
     <Template>
         <Name>t_FagusSylvatica_2sb_Trail_Y</Name>
         <File>dz\plants\tree\t_fagussylvatica_2sb_trail_y.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1851,7 +1851,7 @@
     <Template>
         <Name>t_FagusSylvatica_3d</Name>
         <File>dz\plants\tree\t_fagussylvatica_3d.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1884,7 +1884,7 @@
     <Template>
         <Name>t_FagusSylvatica_3f</Name>
         <File>dz\plants\tree\t_fagussylvatica_3f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1917,7 +1917,7 @@
     <Template>
         <Name>t_FagusSylvatica_3fb</Name>
         <File>dz\plants\tree\t_fagussylvatica_3fb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -1974,7 +1974,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>13.666039</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-7.449521" Y="-0.938962" Z="-7.463690" />
         <BoundingMax X="6.380710" Y="26.393116" Z="6.608530" />
         <BoundingCenter X="-0.534405" Y="12.727077" Z="-0.427580" />
@@ -1983,7 +1983,7 @@
     <Template>
         <Name>t_FagusSylvatica_3s</Name>
         <File>dz\plants\tree\t_fagussylvatica_3s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2049,7 +2049,7 @@
     <Template>
         <Name>t_FraxinusExcelsior_2s</Name>
         <File>dz\plants\tree\t_fraxinusexcelsior_2s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2106,7 +2106,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>4.502594</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-5.625374" Y="-1.147096" Z="-5.529063" />
         <BoundingMax X="5.944713" Y="7.858091" Z="4.934342" />
         <BoundingCenter X="0.159669" Y="3.355498" Z="-0.297360" />
@@ -2115,7 +2115,7 @@
     <Template>
         <Name>t_FraxinusExcelsior_3s</Name>
         <File>dz\plants\tree\t_fraxinusexcelsior_3s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2148,7 +2148,7 @@
     <Template>
         <Name>t_juglansRegia_2s</Name>
         <File>dz\plants\tree\t_juglansregia_2s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2181,7 +2181,7 @@
     <Template>
         <Name>t_juglansRegia_3s</Name>
         <File>dz\plants\tree\t_juglansregia_3s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2214,7 +2214,7 @@
     <Template>
         <Name>t_LarixDecidua_1f</Name>
         <File>dz\plants\tree\t_larixdecidua_1f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2247,7 +2247,7 @@
     <Template>
         <Name>t_LarixDecidua_1s</Name>
         <File>dz\plants\tree\t_larixdecidua_1s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2304,7 +2304,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>11.670551</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-5.433560" Y="-2.638700" Z="-5.550470" />
         <BoundingMax X="5.393420" Y="20.702402" Z="5.705120" />
         <BoundingCenter X="-0.020070" Y="9.031851" Z="0.077325" />
@@ -2337,7 +2337,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>11.754810</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-4.531350" Y="-2.989420" Z="-4.432880" />
         <BoundingMax X="3.772950" Y="20.520201" Z="4.375790" />
         <BoundingCenter X="-0.379200" Y="8.765390" Z="-0.028545" />
@@ -2346,7 +2346,7 @@
     <Template>
         <Name>t_LarixDecidua_2s</Name>
         <File>dz\plants\tree\t_larixdecidua_2s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2403,7 +2403,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>14.074796</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-6.148710" Y="-3.698290" Z="-6.395830" />
         <BoundingMax X="6.249930" Y="24.451302" Z="6.667231" />
         <BoundingCenter X="0.050610" Y="10.376506" Z="0.135700" />
@@ -2478,7 +2478,7 @@
     <Template>
         <Name>t_malusDomestica_2s</Name>
         <File>dz\plants\tree\t_malusdomestica_2s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2511,7 +2511,7 @@
     <Template>
         <Name>t_malusDomestica_3s</Name>
         <File>dz\plants\tree\t_malusdomestica_3s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2544,7 +2544,7 @@
     <Template>
         <Name>t_naked_1s</Name>
         <File>dz\plants\tree\t_naked_1s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2577,7 +2577,7 @@
     <Template>
         <Name>t_naked_2s</Name>
         <File>dz\plants\tree\t_naked_2s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2610,7 +2610,7 @@
     <Template>
         <Name>t_PiceaAbies_1f</Name>
         <File>dz\plants\tree\t_piceaabies_1f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2643,7 +2643,7 @@
     <Template>
         <Name>t_PiceaAbies_1s</Name>
         <File>dz\plants\tree\t_piceaabies_1s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2676,7 +2676,7 @@
     <Template>
         <Name>t_PiceaAbies_1sb</Name>
         <File>dz\plants\tree\t_piceaabies_1sb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2709,7 +2709,7 @@
     <Template>
         <Name>t_piceaabies_2d</Name>
         <File>dz\plants\tree\t_piceaabies_2d.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2742,7 +2742,7 @@
     <Template>
         <Name>t_PiceaAbies_2f</Name>
         <File>dz\plants\tree\t_piceaabies_2f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2775,7 +2775,7 @@
     <Template>
         <Name>t_PiceaAbies_2fb</Name>
         <File>dz\plants\tree\t_piceaabies_2fb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2808,7 +2808,7 @@
     <Template>
         <Name>t_PiceaAbies_2s</Name>
         <File>dz\plants\tree\t_piceaabies_2s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2841,7 +2841,7 @@
     <Template>
         <Name>t_PiceaAbies_2sb</Name>
         <File>dz\plants\tree\t_piceaabies_2sb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2874,7 +2874,7 @@
     <Template>
         <Name>t_PiceaAbies_2s_xmas</Name>
         <File>dz\plants\tree\t_piceaabies_2s_xmas.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2907,7 +2907,7 @@
     <Template>
         <Name>t_piceaabies_3d</Name>
         <File>dz\plants\tree\t_piceaabies_3d.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -2940,7 +2940,7 @@
     <Template>
         <Name>t_PiceaAbies_3f</Name>
         <File>dz\plants\tree\t_piceaabies_3f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16746752</Fill>
         <Outline>-16777216</Outline>
@@ -2973,7 +2973,7 @@
     <Template>
         <Name>t_PiceaAbies_3f_Trail_B</Name>
         <File>dz\plants\tree\t_piceaabies_3f_trail_b.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3006,7 +3006,7 @@
     <Template>
         <Name>t_PiceaAbies_3f_Trail_G</Name>
         <File>dz\plants\tree\t_piceaabies_3f_trail_g.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3039,7 +3039,7 @@
     <Template>
         <Name>t_PiceaAbies_3f_Trail_R</Name>
         <File>dz\plants\tree\t_piceaabies_3f_trail_r.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3072,7 +3072,7 @@
     <Template>
         <Name>t_PiceaAbies_3f_Trail_Y</Name>
         <File>dz\plants\tree\t_piceaabies_3f_trail_y.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3105,7 +3105,7 @@
     <Template>
         <Name>t_PiceaAbies_3s</Name>
         <File>dz\plants\tree\t_piceaabies_3s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16761856</Fill>
         <Outline>-16777216</Outline>
@@ -3138,7 +3138,7 @@
     <Template>
         <Name>t_PinusSylvestris_1f</Name>
         <File>dz\plants\tree\t_pinussylvestris_1f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3171,7 +3171,7 @@
     <Template>
         <Name>t_PinusSylvestris_1s</Name>
         <File>dz\plants\tree\t_pinussylvestris_1s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3204,7 +3204,7 @@
     <Template>
         <Name>t_PinusSylvestris_2f</Name>
         <File>dz\plants\tree\t_pinussylvestris_2f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3237,7 +3237,7 @@
     <Template>
         <Name>t_PinusSylvestris_2fb</Name>
         <File>dz\plants\tree\t_pinussylvestris_2fb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3270,7 +3270,7 @@
     <Template>
         <Name>t_PinusSylvestris_2s</Name>
         <File>dz\plants\tree\t_pinussylvestris_2s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3303,7 +3303,7 @@
     <Template>
         <Name>t_PinusSylvestris_2sb</Name>
         <File>dz\plants\tree\t_pinussylvestris_2sb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3336,7 +3336,7 @@
     <Template>
         <Name>t_PinusSylvestris_3d</Name>
         <File>dz\plants\tree\t_pinussylvestris_3d.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3369,7 +3369,7 @@
     <Template>
         <Name>t_PinusSylvestris_3f</Name>
         <File>dz\plants\tree\t_pinussylvestris_3f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3402,7 +3402,7 @@
     <Template>
         <Name>t_PinusSylvestris_3fb</Name>
         <File>dz\plants\tree\t_pinussylvestris_3fb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3435,7 +3435,7 @@
     <Template>
         <Name>t_PinusSylvestris_3fc</Name>
         <File>dz\plants\tree\t_pinussylvestris_3fc.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3468,7 +3468,7 @@
     <Template>
         <Name>t_PinusSylvestris_3s</Name>
         <File>dz\plants\tree\t_pinussylvestris_3s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3501,7 +3501,7 @@
     <Template>
         <Name>t_populusAlba_1f</Name>
         <File>dz\plants\tree\t_populusalba_1f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3558,7 +3558,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>8.349287</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-6.284670" Y="-0.639072" Z="-5.607450" />
         <BoundingMax X="5.413210" Y="16.059502" Z="5.701799" />
         <BoundingCenter X="-0.435730" Y="7.710215" Z="0.047174" />
@@ -3567,7 +3567,7 @@
     <Template>
         <Name>t_populusAlba_3s</Name>
         <File>dz\plants\tree\t_populusalba_3s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3600,7 +3600,7 @@
     <Template>
         <Name>t_populusNigra_3s</Name>
         <File>dz\plants\tree\t_populusnigra_3s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3633,7 +3633,7 @@
     <Template>
         <Name>t_prunusDomestica_2s</Name>
         <File>dz\plants\tree\t_prunusdomestica_2s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3666,7 +3666,7 @@
     <Template>
         <Name>t_pyrusCommunis_2s</Name>
         <File>dz\plants\tree\t_pyruscommunis_2s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3723,7 +3723,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>6.729022</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-5.206690" Y="-0.451444" Z="-4.666181" />
         <BoundingMax X="4.643430" Y="13.006600" Z="5.021131" />
         <BoundingCenter X="-0.281630" Y="6.277578" Z="0.177475" />
@@ -3732,7 +3732,7 @@
     <Template>
         <Name>t_pyrusCommunis_3sb</Name>
         <File>dz\plants\tree\t_pyruscommunis_3sb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3765,7 +3765,7 @@
     <Template>
         <Name>t_quercusRobur_1f</Name>
         <File>dz\plants\tree\t_quercusrobur_1f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3798,7 +3798,7 @@
     <Template>
         <Name>t_quercusRobur_1fb</Name>
         <File>dz\plants\tree\t_quercusrobur_1fb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3831,7 +3831,7 @@
     <Template>
         <Name>t_quercusRobur_1fc</Name>
         <File>dz\plants\tree\t_quercusrobur_1fc.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3864,7 +3864,7 @@
     <Template>
         <Name>t_quercusRobur_1fd</Name>
         <File>dz\plants\tree\t_quercusrobur_1fd.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3897,7 +3897,7 @@
     <Template>
         <Name>t_quercusRobur_1s</Name>
         <File>dz\plants\tree\t_quercusrobur_1s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3930,7 +3930,7 @@
     <Template>
         <Name>t_quercusRobur_2d</Name>
         <File>dz\plants\tree\t_quercusrobur_2d.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3963,7 +3963,7 @@
     <Template>
         <Name>t_quercusRobur_2f</Name>
         <File>dz\plants\tree\t_quercusrobur_2f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -3996,7 +3996,7 @@
     <Template>
         <Name>t_quercusRobur_2fb</Name>
         <File>dz\plants\tree\t_quercusrobur_2fb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -4029,7 +4029,7 @@
     <Template>
         <Name>t_quercusRobur_2fc</Name>
         <File>dz\plants\tree\t_quercusrobur_2fc.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -4062,7 +4062,7 @@
     <Template>
         <Name>t_quercusRobur_2s</Name>
         <File>dz\plants\tree\t_quercusrobur_2s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -4095,7 +4095,7 @@
     <Template>
         <Name>t_quercusRobur_2sb</Name>
         <File>dz\plants\tree\t_quercusrobur_2sb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -4128,7 +4128,7 @@
     <Template>
         <Name>t_quercusRobur_2sc</Name>
         <File>dz\plants\tree\t_quercusrobur_2sc.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -4161,7 +4161,7 @@
     <Template>
         <Name>t_quercusRobur_3d</Name>
         <File>dz\plants\tree\t_quercusrobur_3d.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -4194,7 +4194,7 @@
     <Template>
         <Name>t_quercusRobur_3f</Name>
         <File>dz\plants\tree\t_quercusrobur_3f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -4227,7 +4227,7 @@
     <Template>
         <Name>t_quercusRobur_3fb</Name>
         <File>dz\plants\tree\t_quercusrobur_3fb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -4260,7 +4260,7 @@
     <Template>
         <Name>t_quercusRobur_3s</Name>
         <File>dz\plants\tree\t_quercusrobur_3s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -4293,7 +4293,7 @@
     <Template>
         <Name>t_quercusRobur_3sb</Name>
         <File>dz\plants\tree\t_quercusrobur_3sb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -4326,7 +4326,7 @@
     <Template>
         <Name>t_robiniaPseudoacacia_1f</Name>
         <File>dz\plants\tree\t_robiniapseudoacacia_1f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -4383,7 +4383,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>11.396490</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-6.218600" Y="-1.709780" Z="-5.422830" />
         <BoundingMax X="6.405870" Y="21.083200" Z="5.902650" />
         <BoundingCenter X="0.093635" Y="9.686710" Z="0.239910" />
@@ -4416,7 +4416,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>13.241140</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-9.920211" Y="-3.606180" Z="-10.442900" />
         <BoundingMax X="10.357100" Y="22.876101" Z="9.106531" />
         <BoundingCenter X="0.218445" Y="9.634960" Z="-0.668184" />
@@ -4425,7 +4425,7 @@
     <Template>
         <Name>t_robiniaPseudoacacia_3f</Name>
         <File>dz\plants\tree\t_robiniapseudoacacia_3f.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -4458,7 +4458,7 @@
     <Template>
         <Name>t_salixAlba_2s</Name>
         <File>dz\plants\tree\t_salixalba_2s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -4515,7 +4515,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>7.366179</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-7.475290" Y="-1.613506" Z="-8.922009" />
         <BoundingMax X="9.408159" Y="13.118851" Z="8.566132" />
         <BoundingCenter X="0.966435" Y="5.752672" Z="-0.177938" />
@@ -4548,7 +4548,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>7.366179</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-7.475290" Y="-1.613506" Z="-8.922009" />
         <BoundingMax X="9.408159" Y="13.118851" Z="8.566132" />
         <BoundingCenter X="0.966435" Y="5.752672" Z="-0.177938" />
@@ -4581,7 +4581,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>8.785644</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-6.129676" Y="-1.667063" Z="-6.552977" />
         <BoundingMax X="5.817974" Y="15.904224" Z="5.474024" />
         <BoundingCenter X="-0.155851" Y="7.118581" Z="-0.539476" />
@@ -4590,7 +4590,7 @@
     <Template>
         <Name>t_town_1s</Name>
         <File>dz\plants\tree\t_town_1s.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
@@ -4623,7 +4623,7 @@
     <Template>
         <Name>t_town_1sb</Name>
         <File>dz\plants\tree\t_town_1sb.p3d</File>
-        <Date>05/21/20 00:06:55</Date>
+        <Date>05/21/20 13:23:10</Date>
         <Archive></Archive>
         <Fill>-16711936</Fill>
         <Outline>-16777216</Outline>
