@@ -3,7 +3,7 @@
     <Template>
         <Name>Airfield_Lamp</Name>
         <File>dz\structures\specific\airfields\airfield_lamp.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -36,7 +36,7 @@
     <Template>
         <Name>Airfield_Light_Edge</Name>
         <File>dz\structures\specific\airfields\airfield_light_edge.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -69,7 +69,7 @@
     <Template>
         <Name>Airfield_Light_Navig</Name>
         <File>dz\structures\specific\airfields\airfield_light_navig.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -102,7 +102,7 @@
     <Template>
         <Name>Airfield_Light_PAPI1</Name>
         <File>dz\structures\specific\airfields\airfield_light_papi1.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -135,7 +135,7 @@
     <Template>
         <Name>Airfield_Light_PAPI2</Name>
         <File>dz\structures\specific\airfields\airfield_light_papi2.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -168,7 +168,7 @@
     <Template>
         <Name>Airfield_Light_PAPI3</Name>
         <File>dz\structures\specific\airfields\airfield_light_papi3.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -201,7 +201,7 @@
     <Template>
         <Name>Airfield_Light_PAPI4</Name>
         <File>dz\structures\specific\airfields\airfield_light_papi4.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -234,7 +234,7 @@
     <Template>
         <Name>Airfield_Light_Reflector</Name>
         <File>dz\structures\specific\airfields\airfield_light_reflector.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -267,7 +267,7 @@
     <Template>
         <Name>Airfield_Small_Control</Name>
         <File>dz\structures\specific\airfields\airfield_small_control.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -300,7 +300,7 @@
     <Template>
         <Name>Airfield_Small_Hangar</Name>
         <File>dz\structures\specific\airfields\airfield_small_hangar.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -333,7 +333,7 @@
     <Template>
         <Name>Cableway_Base</Name>
         <File>dz\structures\specific\cableway\cableway_base.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -366,7 +366,7 @@
     <Template>
         <Name>Cableway_Base_Rope1</Name>
         <File>dz\structures\specific\cableway\cableway_base_rope1.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -399,7 +399,7 @@
     <Template>
         <Name>Cableway_Base_Rope2</Name>
         <File>dz\structures\specific\cableway\cableway_base_rope2.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -432,7 +432,7 @@
     <Template>
         <Name>Cableway_Cart</Name>
         <File>dz\structures\specific\cableway\cableway_cart.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -465,7 +465,7 @@
     <Template>
         <Name>Cableway_Rope</Name>
         <File>dz\structures\specific\cableway\cableway_rope.p3d</File>
-        <Date>02/10/20 04:22:35</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -483,22 +483,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.315039</BBRadius>
-        <BBHScale>11.681153</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="0.000000" Y="-0.012649" Z="-2.329948" />
-        <BoundingMax X="54.084656" Y="9.245349" Z="2.300130" />
-        <BoundingCenter X="27.042328" Y="4.616350" Z="-0.014909" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Cableway_Tower</Name>
         <File>dz\structures\specific\cableway\cableway_tower.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -531,7 +531,7 @@
     <Template>
         <Name>Cableway_Tower_Slope</Name>
         <File>dz\structures\specific\cableway\cableway_tower_slope.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -564,7 +564,7 @@
     <Template>
         <Name>Camp_House_brown</Name>
         <File>dz\structures\specific\camps\camp_house_brown.p3d</File>
-        <Date>02/10/20 04:22:37</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -582,22 +582,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>5.188835</BBRadius>
-        <BBHScale>0.735184</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-4.309210" Y="-1.033735" Z="-4.562780" />
-        <BoundingMax X="3.320290" Y="5.588350" Z="5.814890" />
-        <BoundingCenter X="-0.494460" Y="2.277308" Z="0.626055" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Camp_House_red</Name>
         <File>dz\structures\specific\camps\camp_house_red.p3d</File>
-        <Date>02/10/20 04:22:37</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -615,22 +615,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>5.188835</BBRadius>
-        <BBHScale>0.735184</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-4.309210" Y="-1.033735" Z="-4.562780" />
-        <BoundingMax X="3.320290" Y="5.588350" Z="5.814890" />
-        <BoundingCenter X="-0.494460" Y="2.277308" Z="0.626055" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Camp_House_white</Name>
         <File>dz\structures\specific\camps\camp_house_white.p3d</File>
-        <Date>02/10/20 04:22:37</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -648,22 +648,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>5.238375</BBRadius>
-        <BBHScale>0.728232</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-4.309210" Y="-1.033735" Z="-4.562780" />
-        <BoundingMax X="3.320290" Y="5.588350" Z="5.913970" />
-        <BoundingCenter X="-0.494460" Y="2.277308" Z="0.675595" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Castle_Bastion</Name>
         <File>dz\structures\specific\castles\castle_bastion.p3d</File>
-        <Date>02/10/20 04:22:38</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -681,22 +681,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>9.712709</BBRadius>
-        <BBHScale>1.388531</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-13.634501" Y="-5.103200" Z="-11.570099" />
-        <BoundingMax X="13.338301" Y="12.077001" Z="7.855319" />
-        <BoundingCenter X="-0.148100" Y="3.486900" Z="-1.857390" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Castle_Bastion_nolc</Name>
         <File>dz\structures\specific\castles\castle_bastion_nolc.p3d</File>
-        <Date>02/10/20 04:22:38</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -714,22 +714,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>9.712709</BBRadius>
-        <BBHScale>1.388531</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-13.634501" Y="-5.103200" Z="-11.570099" />
-        <BoundingMax X="13.338301" Y="12.077001" Z="7.855319" />
-        <BoundingCenter X="-0.148100" Y="3.486900" Z="-1.857390" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Castle_Bergfrit</Name>
         <File>dz\structures\specific\castles\castle_bergfrit.p3d</File>
-        <Date>02/10/20 04:22:38</Date>
+        <Date>02/10/20 11:22:38</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -753,7 +753,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>18.338566</Height>
         <BoundingMin X="-6.077550" Y="-5.002030" Z="-7.879490" />
         <BoundingMax X="5.682721" Y="31.675102" Z="7.686450" />
         <BoundingCenter X="-0.197414" Y="13.336536" Z="-0.096520" />
@@ -762,7 +762,7 @@
     <Template>
         <Name>Castle_Donjon</Name>
         <File>dz\structures\specific\castles\castle_donjon.p3d</File>
-        <Date>02/10/20 04:22:38</Date>
+        <Date>02/10/20 11:22:38</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -786,7 +786,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>14.403736</Height>
         <BoundingMin X="-7.599181" Y="-5.051970" Z="-7.599181" />
         <BoundingMax X="7.599181" Y="23.755501" Z="7.599181" />
         <BoundingCenter X="0.000000" Y="9.351765" Z="0.000000" />
@@ -795,7 +795,7 @@
     <Template>
         <Name>Castle_Gate</Name>
         <File>dz\structures\specific\castles\castle_gate.p3d</File>
-        <Date>02/10/20 04:22:38</Date>
+        <Date>02/10/20 11:22:38</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -819,7 +819,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>8.594541</Height>
         <BoundingMin X="-9.478571" Y="-5.213381" Z="-10.573301" />
         <BoundingMax X="11.589800" Y="11.975700" Z="10.715200" />
         <BoundingCenter X="1.055614" Y="3.381160" Z="0.070950" />
@@ -828,7 +828,7 @@
     <Template>
         <Name>Castle_Stairs</Name>
         <File>dz\structures\specific\castles\castle_stairs.p3d</File>
-        <Date>02/10/20 04:22:38</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -846,22 +846,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>3.031355</BBRadius>
-        <BBHScale>3.351488</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-10.000000" Y="-5.002951" Z="-3.092200" />
-        <BoundingMax X="10.319099" Y="12.150600" Z="2.970510" />
-        <BoundingCenter X="0.159550" Y="3.573825" Z="-0.060845" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Castle_Stairs_nolc</Name>
         <File>dz\structures\specific\castles\castle_stairs_nolc.p3d</File>
-        <Date>02/10/20 04:22:38</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -879,22 +879,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>3.031355</BBRadius>
-        <BBHScale>1.817810</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.701756" Y="-5.002951" Z="-3.092200" />
-        <BoundingMax X="10.319100" Y="12.150600" Z="2.970510" />
-        <BoundingCenter X="4.808672" Y="3.573825" Z="-0.060845" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Castle_Wall1_20</Name>
         <File>dz\structures\specific\castles\castle_wall1_20.p3d</File>
-        <Date>02/10/20 04:22:38</Date>
+        <Date>02/10/20 11:22:38</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -918,7 +918,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>8.593719</Height>
         <BoundingMin X="-13.445661" Y="-5.103752" Z="-3.560992" />
         <BoundingMax X="13.499600" Y="12.083685" Z="1.157300" />
         <BoundingCenter X="0.026970" Y="3.489966" Z="-1.201846" />
@@ -927,7 +927,7 @@
     <Template>
         <Name>Castle_Wall1_20_Turn</Name>
         <File>dz\structures\specific\castles\castle_wall1_20_turn.p3d</File>
-        <Date>02/10/20 04:22:39</Date>
+        <Date>02/10/20 11:22:39</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -951,7 +951,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>8.597220</Height>
         <BoundingMin X="-12.686401" Y="-5.117440" Z="-5.682960" />
         <BoundingMax X="13.074402" Y="12.077001" Z="1.044890" />
         <BoundingCenter X="0.194000" Y="3.479780" Z="-2.319035" />
@@ -960,7 +960,7 @@
     <Template>
         <Name>Castle_Wall1_Corner1</Name>
         <File>dz\structures\specific\castles\castle_wall1_corner1.p3d</File>
-        <Date>02/10/20 04:22:39</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -978,22 +978,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.695325</BBRadius>
-        <BBHScale>0.982533</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.105230" Y="-5.103201" Z="-4.285570" />
-        <BoundingMax X="4.191260" Y="11.859600" Z="1.105080" />
-        <BoundingCenter X="1.543015" Y="3.378200" Z="-1.590245" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Castle_Wall1_Corner2</Name>
         <File>dz\structures\specific\castles\castle_wall1_corner2.p3d</File>
-        <Date>02/10/20 04:22:39</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1011,22 +1011,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.301915</BBRadius>
-        <BBHScale>1.691531</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.242860" Y="-5.289230" Z="-3.377280" />
-        <BoundingMax X="4.544661" Y="12.115200" Z="1.226550" />
-        <BoundingCenter X="0.650900" Y="3.412985" Z="-1.075365" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Castle_Wall1_End1</Name>
         <File>dz\structures\specific\castles\castle_wall1_end1.p3d</File>
-        <Date>02/10/20 04:22:39</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1044,22 +1044,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.334165</BBRadius>
-        <BBHScale>4.980325</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-10.000000" Y="-5.103201" Z="-3.554520" />
-        <BoundingMax X="13.249802" Y="11.859600" Z="1.113810" />
-        <BoundingCenter X="1.624901" Y="3.378200" Z="-1.220355" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Castle_Wall1_End2</Name>
         <File>dz\structures\specific\castles\castle_wall1_end2.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1092,7 +1092,7 @@
     <Template>
         <Name>Castle_Wall2_30</Name>
         <File>dz\structures\specific\castles\castle_wall2_30.p3d</File>
-        <Date>02/10/20 04:22:39</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1110,22 +1110,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>3.726455</BBRadius>
-        <BBHScale>4.096900</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-15.361702" Y="-3.898021" Z="-5.131730" />
-        <BoundingMax X="15.172127" Y="16.093201" Z="2.321180" />
-        <BoundingCenter X="-0.094788" Y="6.097590" Z="-1.405275" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Castle_Wall2_Corner1</Name>
         <File>dz\structures\specific\castles\castle_wall2_corner1.p3d</File>
-        <Date>02/10/20 04:22:39</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1143,22 +1143,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>3.267615</BBRadius>
-        <BBHScale>1.009554</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-5.807340" Y="-3.898020" Z="-5.481491" />
-        <BoundingMax X="0.790327" Y="16.022902" Z="1.053740" />
-        <BoundingCenter X="-2.508507" Y="6.062441" Z="-2.213875" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Castle_Wall2_Corner2</Name>
         <File>dz\structures\specific\castles\castle_wall2_corner2.p3d</File>
-        <Date>02/10/20 04:22:39</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1176,22 +1176,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.179352</BBRadius>
-        <BBHScale>2.486257</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-6.141773" Y="-3.898020" Z="-2.997371" />
-        <BoundingMax X="4.695083" Y="16.010801" Z="1.361332" />
-        <BoundingCenter X="-0.723345" Y="6.056391" Z="-0.818019" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Castle_Wall2_End1</Name>
         <File>dz\structures\specific\castles\castle_wall2_end1.p3d</File>
-        <Date>02/10/20 04:22:39</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1209,22 +1209,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>7.555083</BBRadius>
-        <BBHScale>2.627913</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-24.477110" Y="-8.012754" Z="-4.283361" />
-        <BoundingMax X="15.231100" Y="15.902025" Z="10.826805" />
-        <BoundingCenter X="-4.623005" Y="3.944635" Z="3.271722" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Castle_Wall2_End2</Name>
         <File>dz\structures\specific\castles\castle_wall2_end2.p3d</File>
-        <Date>02/10/20 04:22:40</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1242,22 +1242,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.936206</BBRadius>
-        <BBHScale>6.835767</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-15.220901" Y="-3.830760" Z="-4.283367" />
-        <BoundingMax X="11.250000" Y="16.093201" Z="-0.410956" />
-        <BoundingCenter X="-1.985451" Y="6.131220" Z="-2.347162" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Castle_WallS_10</Name>
         <File>dz\structures\specific\castles\castle_walls_10.p3d</File>
-        <Date>02/10/20 04:22:40</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1275,22 +1275,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.179300</BBRadius>
-        <BBHScale>2.604339</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-5.749440" Y="-1.773890" Z="-2.102020" />
-        <BoundingMax X="5.601830" Y="3.526140" Z="2.256580" />
-        <BoundingCenter X="-0.073805" Y="0.876125" Z="0.077280" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Castle_WallS_5_D</Name>
         <File>dz\structures\specific\castles\castle_walls_5_d.p3d</File>
-        <Date>02/10/20 04:22:40</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1308,22 +1308,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.922745</BBRadius>
-        <BBHScale>2.914932</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-5.519200" Y="-1.686810" Z="-1.530080" />
-        <BoundingMax X="5.690141" Y="1.844890" Z="2.315410" />
-        <BoundingCenter X="0.085470" Y="0.079040" Z="0.392665" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Castle_WallS_End</Name>
         <File>dz\structures\specific\castles\castle_walls_end.p3d</File>
-        <Date>02/10/20 04:22:40</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1341,22 +1341,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.158503</BBRadius>
-        <BBHScale>1.319341</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.076303" Y="-1.452640" Z="-1.679876" />
-        <BoundingMax X="5.619300" Y="3.554270" Z="2.637130" />
-        <BoundingCenter X="2.771498" Y="1.050815" Z="0.478627" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Cemetery_Fence1</Name>
         <File>dz\structures\specific\cemeteries\cemetery_fence1.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>02/10/20 11:22:40</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1374,22 +1374,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>1.386430</BBRadius>
+        <BBHScale>0.982567</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.476191</Height>
+        <BoundingMin X="-1.359640" Y="-0.386731" Z="-1.370080" />
+        <BoundingMax X="1.364880" Y="0.565650" Z="1.402780" />
+        <BoundingCenter X="0.002620" Y="0.089460" Z="0.016350" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Cemetery_Fence2</Name>
         <File>dz\structures\specific\cemeteries\cemetery_fence2.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>02/10/20 11:22:40</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1407,22 +1407,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>1.337825</BBRadius>
+        <BBHScale>0.567655</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.608117</Height>
+        <BoundingMin X="-0.781479" Y="-0.386446" Z="-1.302230" />
+        <BoundingMax X="0.737366" Y="0.829787" Z="1.373420" />
+        <BoundingCenter X="-0.022056" Y="0.221671" Z="0.035595" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Cemetery_Fence3</Name>
         <File>dz\structures\specific\cemeteries\cemetery_fence3.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1455,7 +1455,7 @@
     <Template>
         <Name>Cemetery_Fence4</Name>
         <File>dz\structures\specific\cemeteries\cemetery_fence4.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1488,7 +1488,7 @@
     <Template>
         <Name>Cemetery_Fence_straight</Name>
         <File>dz\structures\specific\cemeteries\cemetery_fence_straight.p3d</File>
-        <Date>02/10/20 04:22:41</Date>
+        <Date>02/10/20 11:22:41</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1512,7 +1512,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.476124</Height>
         <BoundingMin X="-2.631730" Y="-0.176124" Z="-0.079490" />
         <BoundingMax X="2.631725" Y="0.776124" Z="0.079490" />
         <BoundingCenter X="-0.000002" Y="0.300000" Z="0.000000" />
@@ -1521,7 +1521,7 @@
     <Template>
         <Name>Cemetery_Grave1</Name>
         <File>dz\structures\specific\cemeteries\cemetery_grave1.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>02/10/20 11:22:41</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1539,22 +1539,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>1.479562</BBRadius>
+        <BBHScale>0.619891</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.261924</Height>
+        <BoundingMin X="-0.937695" Y="-0.386446" Z="-1.564090" />
+        <BoundingMax X="0.896641" Y="0.137401" Z="1.395034" />
+        <BoundingCenter X="-0.020527" Y="-0.124522" Z="-0.084528" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Cemetery_Grave2</Name>
         <File>dz\structures\specific\cemeteries\cemetery_grave2.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1587,7 +1587,7 @@
     <Template>
         <Name>Cemetery_Grave3</Name>
         <File>dz\structures\specific\cemeteries\cemetery_grave3.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1620,7 +1620,7 @@
     <Template>
         <Name>Cemetery_Grave4</Name>
         <File>dz\structures\specific\cemeteries\cemetery_grave4.p3d</File>
-        <Date>02/10/20 04:22:41</Date>
+        <Date>02/10/20 11:22:41</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1644,7 +1644,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.256177</Height>
         <BoundingMin X="-0.895445" Y="-0.287309" Z="-1.512913" />
         <BoundingMax X="0.903375" Y="0.225045" Z="1.289151" />
         <BoundingCenter X="0.003965" Y="-0.031132" Z="-0.111881" />
@@ -1653,7 +1653,7 @@
     <Template>
         <Name>Cemetery_SmallCross</Name>
         <File>dz\structures\specific\cemeteries\cemetery_smallcross.p3d</File>
-        <Date>02/10/20 04:22:41</Date>
+        <Date>02/10/20 11:22:41</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1677,7 +1677,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.464945</Height>
         <BoundingMin X="-0.316155" Y="-0.006784" Z="-0.210396" />
         <BoundingMax X="0.319799" Y="0.923105" Z="0.179984" />
         <BoundingCenter X="0.001822" Y="0.458160" Z="-0.015206" />
@@ -1686,7 +1686,7 @@
     <Template>
         <Name>Cemetery_Tombstone1</Name>
         <File>dz\structures\specific\cemeteries\cemetery_tombstone1.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1719,7 +1719,7 @@
     <Template>
         <Name>Cemetery_Tombstone10</Name>
         <File>dz\structures\specific\cemeteries\cemetery_tombstone10.p3d</File>
-        <Date>02/10/20 04:22:41</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1737,22 +1737,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.077915</BBRadius>
-        <BBHScale>4.916874</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.388853" Y="-0.005684" Z="-0.076880" />
-        <BoundingMax X="0.377348" Y="1.270420" Z="0.078951" />
-        <BoundingCenter X="-0.005752" Y="0.632368" Z="0.001036" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Cemetery_Tombstone11</Name>
         <File>dz\structures\specific\cemeteries\cemetery_tombstone11.p3d</File>
-        <Date>02/10/20 04:22:41</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1770,22 +1770,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.118061</BBRadius>
-        <BBHScale>4.145275</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.496415" Y="-0.005501" Z="-0.100367" />
-        <BoundingMax X="0.482376" Y="1.369449" Z="0.135755" />
-        <BoundingCenter X="-0.007020" Y="0.681974" Z="0.017694" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Cemetery_Tombstone2</Name>
         <File>dz\structures\specific\cemeteries\cemetery_tombstone2.p3d</File>
-        <Date>02/10/20 04:22:42</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1803,22 +1803,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.096051</BBRadius>
-        <BBHScale>5.244660</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.507852" Y="-0.387266" Z="-0.095199" />
-        <BoundingMax X="0.499657" Y="1.763980" Z="0.096903" />
-        <BoundingCenter X="-0.004097" Y="0.688357" Z="0.000852" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Cemetery_Tombstone3</Name>
         <File>dz\structures\specific\cemeteries\cemetery_tombstone3.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1851,7 +1851,7 @@
     <Template>
         <Name>Cemetery_Tombstone4</Name>
         <File>dz\structures\specific\cemeteries\cemetery_tombstone4.p3d</File>
-        <Date>02/10/20 04:22:42</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1869,22 +1869,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.216989</BBRadius>
-        <BBHScale>1.048030</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.227685" Y="-0.389992" Z="-0.217490" />
-        <BoundingMax X="0.227136" Y="1.133080" Z="0.216487" />
-        <BoundingCenter X="-0.000274" Y="0.371544" Z="-0.000502" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Cemetery_Tombstone5</Name>
         <File>dz\structures\specific\cemeteries\cemetery_tombstone5.p3d</File>
-        <Date>02/10/20 04:22:42</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1902,22 +1902,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.140840</BBRadius>
-        <BBHScale>2.711488</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.387407" Y="-0.386446" Z="-0.137102" />
-        <BoundingMax X="0.376365" Y="0.735046" Z="0.144578" />
-        <BoundingCenter X="-0.005521" Y="0.174300" Z="0.003738" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Cemetery_Tombstone5_damaged</Name>
         <File>dz\structures\specific\cemeteries\cemetery_tombstone5_damaged.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1950,7 +1950,7 @@
     <Template>
         <Name>Cemetery_Tombstone6</Name>
         <File>dz\structures\specific\cemeteries\cemetery_tombstone6.p3d</File>
-        <Date>02/10/20 04:22:42</Date>
+        <Date>02/10/20 11:22:42</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1974,7 +1974,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.595930</Height>
         <BoundingMin X="-0.225607" Y="-0.388300" Z="-0.145229" />
         <BoundingMax X="0.222975" Y="0.803560" Z="0.150813" />
         <BoundingCenter X="-0.001316" Y="0.207630" Z="0.002792" />
@@ -1983,7 +1983,7 @@
     <Template>
         <Name>Cemetery_Tombstone7</Name>
         <File>dz\structures\specific\cemeteries\cemetery_tombstone7.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2016,7 +2016,7 @@
     <Template>
         <Name>Cemetery_Tombstone8</Name>
         <File>dz\structures\specific\cemeteries\cemetery_tombstone8.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2049,7 +2049,7 @@
     <Template>
         <Name>Cemetery_Tombstone8_damaged</Name>
         <File>dz\structures\specific\cemeteries\cemetery_tombstone8_damaged.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2082,7 +2082,7 @@
     <Template>
         <Name>Cemetery_Tombstone9</Name>
         <File>dz\structures\specific\cemeteries\cemetery_tombstone9.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2115,7 +2115,7 @@
     <Template>
         <Name>Chapel</Name>
         <File>dz\structures\specific\churches\chapel.p3d</File>
-        <Date>02/10/20 04:22:44</Date>
+        <Date>02/10/20 11:22:44</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2139,7 +2139,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.738373</Height>
         <BoundingMin X="-2.812466" Y="-1.467570" Z="-3.092332" />
         <BoundingMax X="7.285458" Y="10.009175" Z="2.869989" />
         <BoundingCenter X="2.236496" Y="4.270802" Z="-0.111171" />
@@ -2148,7 +2148,7 @@
     <Template>
         <Name>Church1_Yellow</Name>
         <File>dz\structures\specific\churches\church1_yellow.p3d</File>
-        <Date>02/10/20 04:22:45</Date>
+        <Date>02/10/20 11:22:45</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2172,7 +2172,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>8.692513</Height>
         <BoundingMin X="-9.791921" Y="-2.382224" Z="-6.705912" />
         <BoundingMax X="7.677371" Y="15.002801" Z="6.990593" />
         <BoundingCenter X="-1.057275" Y="6.310288" Z="0.142341" />
@@ -2181,7 +2181,7 @@
     <Template>
         <Name>Church2_1</Name>
         <File>dz\structures\specific\churches\church2_1.p3d</File>
-        <Date>02/10/20 04:22:46</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2199,22 +2199,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>8.874810</BBRadius>
-        <BBHScale>1.345095</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-6.924431" Y="-2.947619" Z="-10.404000" />
-        <BoundingMax X="16.950500" Y="25.086302" Z="7.345620" />
-        <BoundingCenter X="5.013035" Y="11.069342" Z="-1.529190" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Church2_2</Name>
         <File>dz\structures\specific\churches\church2_2.p3d</File>
-        <Date>02/10/20 04:22:48</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2232,22 +2232,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>8.874810</BBRadius>
-        <BBHScale>1.345095</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-6.924431" Y="-1.950142" Z="-10.404000" />
-        <BoundingMax X="16.950500" Y="25.086302" Z="7.345620" />
-        <BoundingCenter X="5.013035" Y="11.568080" Z="-1.529190" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Church3</Name>
         <File>dz\structures\specific\churches\church3.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2280,7 +2280,7 @@
     <Template>
         <Name>Chapel_table_proxy</Name>
         <File>dz\structures\specific\churches\proxy\chapel_table_proxy.p3d</File>
-        <Date>02/10/20 04:22:42</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2298,22 +2298,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.976731</BBRadius>
-        <BBHScale>0.357973</BBHScale>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
         <AutoCenter>0</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.421810" Y="0.364217" Z="-0.969441" />
-        <BoundingMax X="-0.722523" Y="2.899880" Z="0.984021" />
-        <BoundingCenter X="-1.072167" Y="1.632048" Z="0.007290" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Chapel_table_proxy2</Name>
         <File>dz\structures\specific\churches\proxy\chapel_table_proxy2.p3d</File>
-        <Date>02/10/20 04:22:42</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2331,22 +2331,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.976731</BBRadius>
-        <BBHScale>0.357973</BBHScale>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
         <AutoCenter>0</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.421810" Y="0.364217" Z="-0.969441" />
-        <BoundingMax X="0.277477" Y="1.736260" Z="0.984021" />
-        <BoundingCenter X="-0.072167" Y="1.050238" Z="0.007290" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>church_02_woodwall</Name>
         <File>dz\structures\specific\churches\proxy\church_02_woodwall.p3d</File>
-        <Date>02/10/20 04:22:43</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2364,22 +2364,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>7.691957</BBRadius>
-        <BBHScale>1.173570</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.938650" Y="-0.036084" Z="-8.839790" />
-        <BoundingMax X="16.115454" Y="6.513575" Z="6.544123" />
-        <BoundingCenter X="7.088402" Y="3.238745" Z="-1.147834" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>church_03_interier</Name>
         <File>dz\structures\specific\churches\proxy\church_03_interier.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2412,7 +2412,7 @@
     <Template>
         <Name>church_03_woodwall</Name>
         <File>dz\structures\specific\churches\proxy\church_03_woodwall.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2445,7 +2445,7 @@
     <Template>
         <Name>church_03_woodwall_asset1</Name>
         <File>dz\structures\specific\churches\proxy\church_03_woodwall_asset1.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2478,7 +2478,7 @@
     <Template>
         <Name>church_cross_1a</Name>
         <File>dz\structures\specific\churches\proxy\church_cross_1a.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2511,7 +2511,7 @@
     <Template>
         <Name>church_cross_1b</Name>
         <File>dz\structures\specific\churches\proxy\church_cross_1b.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2544,7 +2544,7 @@
     <Template>
         <Name>Dead_MassGrave</Name>
         <File>dz\structures\specific\deadbodies\dead_massgrave.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2577,7 +2577,7 @@
     <Template>
         <Name>Dead_MassGrave_15m</Name>
         <File>dz\structures\specific\deadbodies\dead_massgrave_15m.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2610,7 +2610,7 @@
     <Template>
         <Name>Dead_MassGrave_8m</Name>
         <File>dz\structures\specific\deadbodies\dead_massgrave_8m.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2643,7 +2643,7 @@
     <Template>
         <Name>Dead_pile1</Name>
         <File>dz\structures\specific\deadbodies\dead_pile1.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2676,7 +2676,7 @@
     <Template>
         <Name>Dead_pile2</Name>
         <File>dz\structures\specific\deadbodies\dead_pile2.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2709,7 +2709,7 @@
     <Template>
         <Name>Dead_pile3</Name>
         <File>dz\structures\specific\deadbodies\dead_pile3.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2742,7 +2742,7 @@
     <Template>
         <Name>Dead_pile4</Name>
         <File>dz\structures\specific\deadbodies\dead_pile4.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2775,7 +2775,7 @@
     <Template>
         <Name>Hanged_civil</Name>
         <File>dz\structures\specific\deadbodies\hanged_civil.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2808,7 +2808,7 @@
     <Template>
         <Name>Hanged_doctor</Name>
         <File>dz\structures\specific\deadbodies\hanged_doctor.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2841,7 +2841,7 @@
     <Template>
         <Name>FuelStation_Build</Name>
         <File>dz\structures\specific\fuelstation\fuelstation_build.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2874,7 +2874,7 @@
     <Template>
         <Name>FuelStation_Feed</Name>
         <File>dz\structures\specific\fuelstation\fuelstation_feed.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2907,7 +2907,7 @@
     <Template>
         <Name>FuelStation_Shed</Name>
         <File>dz\structures\specific\fuelstation\fuelstation_shed.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2940,7 +2940,7 @@
     <Template>
         <Name>FuelStation_Sign</Name>
         <File>dz\structures\specific\fuelstation\fuelstation_sign.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2973,7 +2973,7 @@
     <Template>
         <Name>Hotel</Name>
         <File>dz\structures\specific\hotel\hotel.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3006,7 +3006,7 @@
     <Template>
         <Name>Hotel_Damaged</Name>
         <File>dz\structures\specific\hotel\hotel_damaged.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>02/10/20 11:22:59</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3024,22 +3024,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>15.393080</BBRadius>
+        <BBHScale>1.266437</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>22.562855</Height>
+        <BoundingMin X="-16.653301" Y="-1.201410" Z="-20.302408" />
+        <BoundingMax X="22.335438" Y="43.924301" Z="10.483751" />
+        <BoundingCenter X="2.841068" Y="21.361446" Z="-4.909328" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Hotel_Damaged_Airplane_Back</Name>
         <File>dz\structures\specific\hotel\hotel_damaged_airplane_back.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3072,7 +3072,7 @@
     <Template>
         <Name>Hotel_Damaged_Airplane_Wing</Name>
         <File>dz\structures\specific\hotel\hotel_damaged_airplane_wing.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3105,7 +3105,7 @@
     <Template>
         <Name>Hotel_Damaged_Decal1</Name>
         <File>dz\structures\specific\hotel\hotel_damaged_decal1.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3138,7 +3138,7 @@
     <Template>
         <Name>Hotel_Damaged_Decal2</Name>
         <File>dz\structures\specific\hotel\hotel_damaged_decal2.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3171,7 +3171,7 @@
     <Template>
         <Name>Hotel_Damaged_Rubble</Name>
         <File>dz\structures\specific\hotel\hotel_damaged_rubble.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3204,7 +3204,7 @@
     <Template>
         <Name>HouseB_Tenement_DayZ_airplane</Name>
         <File>dz\structures\specific\hotel\proxy\houseb_tenement_dayz_airplane.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3237,7 +3237,7 @@
     <Template>
         <Name>HouseB_Tenement_DayZ_alfa</Name>
         <File>dz\structures\specific\hotel\proxy\houseb_tenement_dayz_alfa.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3270,7 +3270,7 @@
     <Template>
         <Name>HouseB_Tenement_DayZ_proxy</Name>
         <File>dz\structures\specific\hotel\proxy\houseb_tenement_dayz_proxy.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3303,7 +3303,7 @@
     <Template>
         <Name>Lunapark_Autodrome</Name>
         <File>dz\structures\specific\lunapark\lunapark_autodrome.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3336,7 +3336,7 @@
     <Template>
         <Name>Lunapark_Bumper_Car</Name>
         <File>dz\structures\specific\lunapark\lunapark_bumper_car.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3369,7 +3369,7 @@
     <Template>
         <Name>Lunapark_Carousel_Small</Name>
         <File>dz\structures\specific\lunapark\lunapark_carousel_small.p3d</File>
-        <Date>02/10/20 04:23:38</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3387,22 +3387,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.167420</BBRadius>
+        <BBRadius>-1.000000</BBRadius>
         <BBHScale>1.000000</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-2.167420" Y="-0.000000" Z="-2.167420" />
-        <BoundingMax X="2.167420" Y="4.267238" Z="2.167420" />
-        <BoundingCenter X="0.000000" Y="2.133619" Z="0.000000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Lunapark_Carousel_Swan</Name>
         <File>dz\structures\specific\lunapark\lunapark_carousel_swan.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3435,7 +3435,7 @@
     <Template>
         <Name>Lunapark_Ferris_wheel</Name>
         <File>dz\structures\specific\lunapark\lunapark_ferris_wheel.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3468,7 +3468,7 @@
     <Template>
         <Name>Lunapark_Shooting_Gallery</Name>
         <File>dz\structures\specific\lunapark\lunapark_shooting_gallery.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3501,7 +3501,7 @@
     <Template>
         <Name>Autodrome_01</Name>
         <File>dz\structures\specific\lunapark\proxy\autodrome_01.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3534,7 +3534,7 @@
     <Template>
         <Name>Autodrome_02</Name>
         <File>dz\structures\specific\lunapark\proxy\autodrome_02.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3567,7 +3567,7 @@
     <Template>
         <Name>Autodrome_03</Name>
         <File>dz\structures\specific\lunapark\proxy\autodrome_03.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3600,7 +3600,7 @@
     <Template>
         <Name>Autodrome_04</Name>
         <File>dz\structures\specific\lunapark\proxy\autodrome_04.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3633,7 +3633,7 @@
     <Template>
         <Name>Autodrome_05</Name>
         <File>dz\structures\specific\lunapark\proxy\autodrome_05.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3666,7 +3666,7 @@
     <Template>
         <Name>Ferris_wheel_Cab</Name>
         <File>dz\structures\specific\lunapark\proxy\ferris_wheel_cab.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3699,7 +3699,7 @@
     <Template>
         <Name>Ferris_wheel_Wheel</Name>
         <File>dz\structures\specific\lunapark\proxy\ferris_wheel_wheel.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3732,7 +3732,7 @@
     <Template>
         <Name>Swan_black_cab</Name>
         <File>dz\structures\specific\lunapark\proxy\swan_black_cab.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3765,7 +3765,7 @@
     <Template>
         <Name>Swan_carousel_Arms</Name>
         <File>dz\structures\specific\lunapark\proxy\swan_carousel_arms.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3798,7 +3798,7 @@
     <Template>
         <Name>Swan_carousel_Hydraulic</Name>
         <File>dz\structures\specific\lunapark\proxy\swan_carousel_hydraulic.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3831,7 +3831,7 @@
     <Template>
         <Name>Swan_carousel_Wheels</Name>
         <File>dz\structures\specific\lunapark\proxy\swan_carousel_wheels.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3864,7 +3864,7 @@
     <Template>
         <Name>Swan_carousel_Woodstairs</Name>
         <File>dz\structures\specific\lunapark\proxy\swan_carousel_woodstairs.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3897,7 +3897,7 @@
     <Template>
         <Name>Swan_white_cab</Name>
         <File>dz\structures\specific\lunapark\proxy\swan_white_cab.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3930,7 +3930,7 @@
     <Template>
         <Name>Prison_Main</Name>
         <File>dz\structures\specific\prison\prison_main.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>02/10/20 11:23:56</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3948,22 +3948,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>23.727501</BBRadius>
+        <BBHScale>0.847072</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>19.747240</Height>
+        <BoundingMin X="-15.725200" Y="-2.132080" Z="-25.626802" />
+        <BoundingMax X="24.472599" Y="37.362400" Z="21.828199" />
+        <BoundingCenter X="4.373700" Y="17.615160" Z="-1.899302" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Prison_Side</Name>
         <File>dz\structures\specific\prison\prison_side.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3996,7 +3996,7 @@
     <Template>
         <Name>Prison_Wall_Large</Name>
         <File>dz\structures\specific\prison\prison_wall_large.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4029,7 +4029,7 @@
     <Template>
         <Name>Prison_Wall_Small</Name>
         <File>dz\structures\specific\prison\prison_wall_small.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4062,7 +4062,7 @@
     <Template>
         <Name>Prison_MainCastle_bars</Name>
         <File>dz\structures\specific\prison\proxy\prison_maincastle_bars.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4095,7 +4095,7 @@
     <Template>
         <Name>Prison_MainCastle_barsdoors</Name>
         <File>dz\structures\specific\prison\proxy\prison_maincastle_barsdoors.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4128,7 +4128,7 @@
     <Template>
         <Name>Prison_MainCastle_celldoors</Name>
         <File>dz\structures\specific\prison\proxy\prison_maincastle_celldoors.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4161,7 +4161,7 @@
     <Template>
         <Name>Prison_MainCastle_doorframes</Name>
         <File>dz\structures\specific\prison\proxy\prison_maincastle_doorframes.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4194,7 +4194,7 @@
     <Template>
         <Name>Prison_MainCastle_windows</Name>
         <File>dz\structures\specific\prison\proxy\prison_maincastle_windows.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4227,7 +4227,7 @@
     <Template>
         <Name>Prison_MainCastle_windows_02</Name>
         <File>dz\structures\specific\prison\proxy\prison_maincastle_windows_02.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4260,7 +4260,7 @@
     <Template>
         <Name>Prison_main_int_stairs</Name>
         <File>dz\structures\specific\prison\proxy\prison_main_int_stairs.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4293,7 +4293,7 @@
     <Template>
         <Name>Prison_Shadow_interior</Name>
         <File>dz\structures\specific\prison\proxy\prison_shadow_interior.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4326,7 +4326,7 @@
     <Template>
         <Name>Prison_SideBuilding_windowsmall</Name>
         <File>dz\structures\specific\prison\proxy\prison_sidebuilding_windowsmall.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4359,7 +4359,7 @@
     <Template>
         <Name>Radio_building</Name>
         <File>dz\structures\specific\radio\radio_building.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4392,7 +4392,7 @@
     <Template>
         <Name>Radio_PanelBig</Name>
         <File>dz\structures\specific\radio\radio_panelbig.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4425,7 +4425,7 @@
     <Template>
         <Name>Radio_PanelPAS</Name>
         <File>dz\structures\specific\radio\radio_panelpas.p3d</File>
-        <Date>02/10/20 04:24:05</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4443,22 +4443,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.812457</BBRadius>
-        <BBHScale>0.789968</BBHScale>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
         <AutoCenter>0</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.570287" Y="0.000000" Z="-0.547169" />
-        <BoundingMax X="0.713344" Y="2.000000" Z="1.077745" />
-        <BoundingCenter X="0.071529" Y="1.000000" Z="0.265288" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>radio_building_logo</Name>
         <File>dz\structures\specific\radio\proxy\radio_building_logo.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4491,7 +4491,7 @@
     <Template>
         <Name>Skilift_Rope_End</Name>
         <File>dz\structures\specific\skilift\skilift_rope_end.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4524,7 +4524,7 @@
     <Template>
         <Name>Skilift_Rope_Middle</Name>
         <File>dz\structures\specific\skilift\skilift_rope_middle.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4557,7 +4557,7 @@
     <Template>
         <Name>Skilift_Rope_Start</Name>
         <File>dz\structures\specific\skilift\skilift_rope_start.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4590,7 +4590,7 @@
     <Template>
         <Name>Skilift_Tower_End</Name>
         <File>dz\structures\specific\skilift\skilift_tower_end.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4623,7 +4623,7 @@
     <Template>
         <Name>Skilift_Tower_Middle</Name>
         <File>dz\structures\specific\skilift\skilift_tower_middle.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4656,7 +4656,7 @@
     <Template>
         <Name>Skilift_Tower_Start</Name>
         <File>dz\structures\specific\skilift\skilift_tower_start.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4689,7 +4689,7 @@
     <Template>
         <Name>Monument_Soldiers</Name>
         <File>dz\structures\specific\statues\monument_soldiers.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4722,7 +4722,7 @@
     <Template>
         <Name>Monument_T34</Name>
         <File>dz\structures\specific\statues\monument_t34.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4755,7 +4755,7 @@
     <Template>
         <Name>Monument_Wall</Name>
         <File>dz\structures\specific\statues\monument_wall.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4788,7 +4788,7 @@
     <Template>
         <Name>Monument_War1</Name>
         <File>dz\structures\specific\statues\monument_war1.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4821,7 +4821,7 @@
     <Template>
         <Name>Monument_War2</Name>
         <File>dz\structures\specific\statues\monument_war2.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4854,7 +4854,7 @@
     <Template>
         <Name>Statue_General</Name>
         <File>dz\structures\specific\statues\statue_general.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4887,7 +4887,7 @@
     <Template>
         <Name>T34</Name>
         <File>dz\structures\specific\statues\proxy\t34.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4920,7 +4920,7 @@
     <Template>
         <Name>Tower_TC1</Name>
         <File>dz\structures\specific\towers\tower_tc1.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4953,7 +4953,7 @@
     <Template>
         <Name>Tower_TC2_Base</Name>
         <File>dz\structures\specific\towers\tower_tc2_base.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4986,7 +4986,7 @@
     <Template>
         <Name>Tower_TC2_Mid</Name>
         <File>dz\structures\specific\towers\tower_tc2_mid.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5019,7 +5019,7 @@
     <Template>
         <Name>Tower_TC2_Top</Name>
         <File>dz\structures\specific\towers\tower_tc2_top.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5052,7 +5052,7 @@
     <Template>
         <Name>Tower_TC3_Grey</Name>
         <File>dz\structures\specific\towers\tower_tc3_grey.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5085,7 +5085,7 @@
     <Template>
         <Name>Tower_TC3_Red</Name>
         <File>dz\structures\specific\towers\tower_tc3_red.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5118,7 +5118,7 @@
     <Template>
         <Name>Tower_TC4_Base</Name>
         <File>dz\structures\specific\towers\tower_tc4_base.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5151,7 +5151,7 @@
     <Template>
         <Name>Tower_TC4_Mid</Name>
         <File>dz\structures\specific\towers\tower_tc4_mid.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5184,7 +5184,7 @@
     <Template>
         <Name>Tower_TC4_Top</Name>
         <File>dz\structures\specific\towers\tower_tc4_top.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5217,7 +5217,7 @@
     <Template>
         <Name>Misc_PostBox2_1</Name>
         <File>dz\structures\specific\airfields\proxy\misc_postbox2.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5250,7 +5250,7 @@
     <Template>
         <Name>Misc_WoodPile1_1</Name>
         <File>dz\structures\specific\airfields\proxy\misc_woodpile1.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5283,7 +5283,7 @@
     <Template>
         <Name>Misc_WoodTable_Indoor_1</Name>
         <File>dz\structures\specific\airfields\proxy\misc_woodtable_indoor.p3d</File>
-        <Date>05/21/20 13:34:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
