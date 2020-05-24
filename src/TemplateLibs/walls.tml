@@ -3,7 +3,7 @@
     <Template>
         <Name>Walls_End</Name>
         <File>dz\structures\walls\walls_end.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -60,7 +60,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.268729</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-2.504939" Y="-0.500000" Z="-0.309411" />
         <BoundingMax X="2.507019" Y="2.037457" Z="0.311785" />
         <BoundingCenter X="0.001040" Y="0.768729" Z="0.001187" />
@@ -69,7 +69,7 @@
     <Template>
         <Name>Wall_CBrk_5_D</Name>
         <File>dz\structures\walls\wall_cbrk_5_d.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -102,7 +102,7 @@
     <Template>
         <Name>Wall_CBrk_Corner</Name>
         <File>dz\structures\walls\wall_cbrk_corner.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -135,7 +135,7 @@
     <Template>
         <Name>Wall_CBrk_End</Name>
         <File>dz\structures\walls\wall_cbrk_end.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -168,7 +168,7 @@
     <Template>
         <Name>Wall_CGryLow_5</Name>
         <File>dz\structures\walls\wall_cgrylow_5.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -201,7 +201,7 @@
     <Template>
         <Name>Wall_CGryLow_End1</Name>
         <File>dz\structures\walls\wall_cgrylow_end1.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -234,7 +234,7 @@
     <Template>
         <Name>Wall_CGryLow_End2</Name>
         <File>dz\structures\walls\wall_cgrylow_end2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -267,7 +267,7 @@
     <Template>
         <Name>Wall_CGry_5</Name>
         <File>dz\structures\walls\wall_cgry_5.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -300,7 +300,7 @@
     <Template>
         <Name>Wall_CGry_5_D</Name>
         <File>dz\structures\walls\wall_cgry_5_d.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -333,7 +333,7 @@
     <Template>
         <Name>Wall_CGry_Corner</Name>
         <File>dz\structures\walls\wall_cgry_corner.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -366,7 +366,7 @@
     <Template>
         <Name>Wall_CGry_Corner_2</Name>
         <File>dz\structures\walls\wall_cgry_corner_2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -399,7 +399,7 @@
     <Template>
         <Name>Wall_CGry_End</Name>
         <File>dz\structures\walls\wall_cgry_end.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -432,7 +432,7 @@
     <Template>
         <Name>Wall_CncSmall_4</Name>
         <File>dz\structures\walls\wall_cncsmall_4.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -465,7 +465,7 @@
     <Template>
         <Name>Wall_CncSmall_8</Name>
         <File>dz\structures\walls\wall_cncsmall_8.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -498,7 +498,7 @@
     <Template>
         <Name>Wall_Cnc_5</Name>
         <File>dz\structures\walls\wall_cnc_5.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -531,7 +531,7 @@
     <Template>
         <Name>Wall_CYel_5</Name>
         <File>dz\structures\walls\wall_cyel_5.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -588,7 +588,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.295940</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-0.245611" Y="-0.500000" Z="-0.245611" />
         <BoundingMax X="0.472341" Y="2.091880" Z="0.472341" />
         <BoundingCenter X="0.113365" Y="0.795940" Z="0.113365" />
@@ -597,7 +597,7 @@
     <Template>
         <Name>Wall_CYel_End</Name>
         <File>dz\structures\walls\wall_cyel_end.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -630,7 +630,7 @@
     <Template>
         <Name>Wall_CYel_End2</Name>
         <File>dz\structures\walls\wall_cyel_end2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -687,7 +687,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.547460</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-2.500000" Y="-0.900000" Z="-0.115299" />
         <BoundingMax X="2.513460" Y="2.194920" Z="0.051775" />
         <BoundingCenter X="0.006730" Y="0.647460" Z="-0.031762" />
@@ -720,7 +720,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.547460</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-2.550000" Y="-0.899999" Z="-0.062361" />
         <BoundingMax X="2.501000" Y="2.194920" Z="0.111986" />
         <BoundingCenter X="-0.024500" Y="0.647460" Z="0.024813" />
@@ -753,7 +753,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.588944</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-2.558361" Y="-0.899999" Z="-1.103720" />
         <BoundingMax X="2.500790" Y="2.277890" Z="1.127540" />
         <BoundingCenter X="-0.028785" Y="0.688945" Z="0.011910" />
@@ -762,7 +762,7 @@
     <Template>
         <Name>Wall_Fen1_5_Pole</Name>
         <File>dz\structures\walls\wall_fen1_5_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -819,7 +819,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.172030</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-3.037851" Y="-0.053690" Z="-0.296410" />
         <BoundingMax X="3.003050" Y="2.290370" Z="0.066893" />
         <BoundingCenter X="-0.017401" Y="1.118340" Z="-0.114759" />
@@ -828,7 +828,7 @@
     <Template>
         <Name>Wall_Fen2_6_Hole</Name>
         <File>dz\structures\walls\wall_fen2_6_hole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -861,7 +861,7 @@
     <Template>
         <Name>Wall_Fen2_Pole</Name>
         <File>dz\structures\walls\wall_fen2_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -918,7 +918,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.374420</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-1.266320" Y="-0.696440" Z="-0.210096" />
         <BoundingMax X="1.321040" Y="2.052400" Z="0.167489" />
         <BoundingCenter X="0.027360" Y="0.677980" Z="-0.021304" />
@@ -927,7 +927,7 @@
     <Template>
         <Name>Wall_FenG_Pole</Name>
         <File>dz\structures\walls\wall_feng_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -984,7 +984,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.352115</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-1.266320" Y="-0.696440" Z="-0.210096" />
         <BoundingMax X="1.321098" Y="2.007790" Z="0.174487" />
         <BoundingCenter X="0.027389" Y="0.655675" Z="-0.017805" />
@@ -993,7 +993,7 @@
     <Template>
         <Name>Wall_FenR_Pole</Name>
         <File>dz\structures\walls\wall_fenr_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1050,7 +1050,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.030630</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-3.500000" Y="-1.000000" Z="-0.229118" />
         <BoundingMax X="3.550000" Y="1.061260" Z="0.208707" />
         <BoundingCenter X="0.025000" Y="0.030630" Z="-0.010206" />
@@ -1083,7 +1083,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.003470</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-3.500000" Y="-1.000000" Z="-0.434541" />
         <BoundingMax X="3.560590" Y="1.006940" Z="1.050440" />
         <BoundingCenter X="0.030295" Y="0.003470" Z="0.307949" />
@@ -1116,7 +1116,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.030630</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-3.500000" Y="-1.000000" Z="-0.165574" />
         <BoundingMax X="3.500000" Y="1.061261" Z="0.204518" />
         <BoundingCenter X="0.000000" Y="0.030630" Z="0.019472" />
@@ -1149,7 +1149,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.905000</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-1.694442" Y="-0.300000" Z="-0.163018" />
         <BoundingMax X="1.712308" Y="1.510000" Z="0.081917" />
         <BoundingCenter X="0.008933" Y="0.605000" Z="-0.040551" />
@@ -1182,7 +1182,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.905000</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-1.730232" Y="-0.300000" Z="-0.158674" />
         <BoundingMax X="1.710619" Y="1.510000" Z="0.075000" />
         <BoundingCenter X="-0.009806" Y="0.605000" Z="-0.041837" />
@@ -1215,7 +1215,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.905257</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-1.694442" Y="-0.300000" Z="-0.154032" />
         <BoundingMax X="1.711228" Y="1.510515" Z="0.084905" />
         <BoundingCenter X="0.008393" Y="0.605258" Z="-0.034563" />
@@ -1224,7 +1224,7 @@
     <Template>
         <Name>Wall_GarbCont</Name>
         <File>dz\structures\walls\wall_garbcont.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1257,7 +1257,7 @@
     <Template>
         <Name>Wall_GarbCont_Corner</Name>
         <File>dz\structures\walls\wall_garbcont_corner.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1290,7 +1290,7 @@
     <Template>
         <Name>Wall_Gate_Camp</Name>
         <File>dz\structures\walls\wall_gate_camp.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1323,7 +1323,7 @@
     <Template>
         <Name>Wall_Gate_CGry</Name>
         <File>dz\structures\walls\wall_gate_cgry.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1356,7 +1356,7 @@
     <Template>
         <Name>Wall_Gate_Fen2_L</Name>
         <File>dz\structures\walls\wall_gate_fen2_l.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1389,7 +1389,7 @@
     <Template>
         <Name>Wall_Gate_Fen2_R</Name>
         <File>dz\structures\walls\wall_gate_fen2_r.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1422,7 +1422,7 @@
     <Template>
         <Name>Wall_Gate_FenG</Name>
         <File>dz\structures\walls\wall_gate_feng.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1455,7 +1455,7 @@
     <Template>
         <Name>Wall_Gate_FenG_Big</Name>
         <File>dz\structures\walls\wall_gate_feng_big.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1488,7 +1488,7 @@
     <Template>
         <Name>Wall_Gate_FenG_Big_L</Name>
         <File>dz\structures\walls\wall_gate_feng_big_l.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1521,7 +1521,7 @@
     <Template>
         <Name>Wall_Gate_FenG_Big_Open</Name>
         <File>dz\structures\walls\wall_gate_feng_big_open.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1554,7 +1554,7 @@
     <Template>
         <Name>Wall_Gate_FenG_Big_R</Name>
         <File>dz\structures\walls\wall_gate_feng_big_r.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1587,7 +1587,7 @@
     <Template>
         <Name>Wall_Gate_FenG_Open</Name>
         <File>dz\structures\walls\wall_gate_feng_open.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1620,7 +1620,7 @@
     <Template>
         <Name>Wall_Gate_FenR</Name>
         <File>dz\structures\walls\wall_gate_fenr.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1653,7 +1653,7 @@
     <Template>
         <Name>Wall_Gate_FenR_Big</Name>
         <File>dz\structures\walls\wall_gate_fenr_big.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1686,7 +1686,7 @@
     <Template>
         <Name>Wall_Gate_FenR_Big_L</Name>
         <File>dz\structures\walls\wall_gate_fenr_big_l.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1719,7 +1719,7 @@
     <Template>
         <Name>Wall_Gate_FenR_Big_Open</Name>
         <File>dz\structures\walls\wall_gate_fenr_big_open.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1752,7 +1752,7 @@
     <Template>
         <Name>Wall_Gate_FenR_Big_R</Name>
         <File>dz\structures\walls\wall_gate_fenr_big_r.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1785,7 +1785,7 @@
     <Template>
         <Name>Wall_Gate_FenR_Open</Name>
         <File>dz\structures\walls\wall_gate_fenr_open.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1818,7 +1818,7 @@
     <Template>
         <Name>Wall_Gate_Ind1_L</Name>
         <File>dz\structures\walls\wall_gate_ind1_l.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1851,7 +1851,7 @@
     <Template>
         <Name>Wall_Gate_Ind1_R</Name>
         <File>dz\structures\walls\wall_gate_ind1_r.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1884,7 +1884,7 @@
     <Template>
         <Name>Wall_Gate_Ind2A_L</Name>
         <File>dz\structures\walls\wall_gate_ind2a_l.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1917,7 +1917,7 @@
     <Template>
         <Name>Wall_Gate_Ind2A_R</Name>
         <File>dz\structures\walls\wall_gate_ind2a_r.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1950,7 +1950,7 @@
     <Template>
         <Name>Wall_Gate_Ind2B_L</Name>
         <File>dz\structures\walls\wall_gate_ind2b_l.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1983,7 +1983,7 @@
     <Template>
         <Name>Wall_Gate_Ind2B_R</Name>
         <File>dz\structures\walls\wall_gate_ind2b_r.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2016,7 +2016,7 @@
     <Template>
         <Name>Wall_Gate_Ind2Rail_L</Name>
         <File>dz\structures\walls\wall_gate_ind2rail_l.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2049,7 +2049,7 @@
     <Template>
         <Name>Wall_Gate_Ind2Rail_R</Name>
         <File>dz\structures\walls\wall_gate_ind2rail_r.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2082,7 +2082,7 @@
     <Template>
         <Name>Wall_Gate_Kolchoz</Name>
         <File>dz\structures\walls\wall_gate_kolchoz.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2115,7 +2115,7 @@
     <Template>
         <Name>Wall_Gate_OpenDam</Name>
         <File>dz\structures\walls\wall_gate_opendam.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2172,7 +2172,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.029546</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-1.566112" Y="-0.494261" Z="-1.448967" />
         <BoundingMax X="1.684171" Y="1.564830" Z="1.492593" />
         <BoundingCenter X="0.059030" Y="0.535285" Z="0.021813" />
@@ -2205,7 +2205,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.177855</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-0.705331" Y="-1.000000" Z="-0.132320" />
         <BoundingMax X="0.512789" Y="1.355710" Z="0.108445" />
         <BoundingCenter X="-0.096271" Y="0.177855" Z="-0.011937" />
@@ -2238,7 +2238,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.998543</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-1.609204" Y="-1.000000" Z="-1.448967" />
         <BoundingMax X="1.641079" Y="0.997086" Z="1.492593" />
         <BoundingCenter X="0.015938" Y="-0.001457" Z="0.021813" />
@@ -2271,7 +2271,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.542818</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-1.627952" Y="0.000004" Z="-1.448967" />
         <BoundingMax X="1.622332" Y="1.085640" Z="1.492593" />
         <BoundingCenter X="-0.002810" Y="0.542822" Z="0.021813" />
@@ -2304,7 +2304,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.105241</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-1.351501" Y="-0.539631" Z="-2.341641" />
         <BoundingMax X="2.031318" Y="1.670850" Z="2.353896" />
         <BoundingCenter X="0.339909" Y="0.565609" Z="0.006128" />
@@ -2313,7 +2313,7 @@
     <Template>
         <Name>Wall_IndCnc2_3</Name>
         <File>dz\structures\walls\wall_indcnc2_3.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2346,7 +2346,7 @@
     <Template>
         <Name>Wall_IndCncH_10</Name>
         <File>dz\structures\walls\wall_indcnch_10.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2379,7 +2379,7 @@
     <Template>
         <Name>Wall_IndCncH_5</Name>
         <File>dz\structures\walls\wall_indcnch_5.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2412,7 +2412,7 @@
     <Template>
         <Name>Wall_IndCnc_10</Name>
         <File>dz\structures\walls\wall_indcnc_10.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2445,7 +2445,7 @@
     <Template>
         <Name>Wall_IndCnc_4</Name>
         <File>dz\structures\walls\wall_indcnc_4.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2478,7 +2478,7 @@
     <Template>
         <Name>Wall_IndCnc_4_D</Name>
         <File>dz\structures\walls\wall_indcnc_4_d.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2511,7 +2511,7 @@
     <Template>
         <Name>Wall_IndCnc_End_2</Name>
         <File>dz\structures\walls\wall_indcnc_end_2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2544,7 +2544,7 @@
     <Template>
         <Name>Wall_IndCnc_End_3</Name>
         <File>dz\structures\walls\wall_indcnc_end_3.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2577,7 +2577,7 @@
     <Template>
         <Name>Wall_IndCnc_Pole</Name>
         <File>dz\structures\walls\wall_indcnc_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2610,7 +2610,7 @@
     <Template>
         <Name>Wall_IndFnc_3</Name>
         <File>dz\structures\walls\wall_indfnc_3.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2643,7 +2643,7 @@
     <Template>
         <Name>Wall_IndFnc_3_D</Name>
         <File>dz\structures\walls\wall_indfnc_3_d.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2676,7 +2676,7 @@
     <Template>
         <Name>Wall_IndFnc_3_Hole</Name>
         <File>dz\structures\walls\wall_indfnc_3_hole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2709,7 +2709,7 @@
     <Template>
         <Name>Wall_IndFnc_9</Name>
         <File>dz\structures\walls\wall_indfnc_9.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2742,7 +2742,7 @@
     <Template>
         <Name>Wall_IndFnc_Corner</Name>
         <File>dz\structures\walls\wall_indfnc_corner.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2775,7 +2775,7 @@
     <Template>
         <Name>Wall_IndFnc_Pole</Name>
         <File>dz\structures\walls\wall_indfnc_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2808,7 +2808,7 @@
     <Template>
         <Name>Wall_IndVar1_5</Name>
         <File>dz\structures\walls\wall_indvar1_5.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2841,7 +2841,7 @@
     <Template>
         <Name>Wall_IndVar1_5_2</Name>
         <File>dz\structures\walls\wall_indvar1_5_2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2874,7 +2874,7 @@
     <Template>
         <Name>Wall_IndVar1_5_D</Name>
         <File>dz\structures\walls\wall_indvar1_5_d.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2907,7 +2907,7 @@
     <Template>
         <Name>Wall_IndVar1_5_D_2</Name>
         <File>dz\structures\walls\wall_indvar1_5_d_2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2940,7 +2940,7 @@
     <Template>
         <Name>Wall_IndVar1_Pole</Name>
         <File>dz\structures\walls\wall_indvar1_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2973,7 +2973,7 @@
     <Template>
         <Name>Wall_IndVar2_5</Name>
         <File>dz\structures\walls\wall_indvar2_5.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3006,7 +3006,7 @@
     <Template>
         <Name>Wall_IndVar2_5_D</Name>
         <File>dz\structures\walls\wall_indvar2_5_d.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3039,7 +3039,7 @@
     <Template>
         <Name>Wall_IndVar2_Pole</Name>
         <File>dz\structures\walls\wall_indvar2_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3072,7 +3072,7 @@
     <Template>
         <Name>Wall_Railing_1</Name>
         <File>dz\structures\walls\wall_railing_1.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3105,7 +3105,7 @@
     <Template>
         <Name>Wall_Railing_1_EndL</Name>
         <File>dz\structures\walls\wall_railing_1_endl.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3138,7 +3138,7 @@
     <Template>
         <Name>Wall_Railing_1_EndR</Name>
         <File>dz\structures\walls\wall_railing_1_endr.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3171,7 +3171,7 @@
     <Template>
         <Name>Wall_Railing_1_Slope</Name>
         <File>dz\structures\walls\wall_railing_1_slope.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3204,7 +3204,7 @@
     <Template>
         <Name>Wall_Railing_2</Name>
         <File>dz\structures\walls\wall_railing_2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3237,7 +3237,7 @@
     <Template>
         <Name>Wall_Railing_2_Slope</Name>
         <File>dz\structures\walls\wall_railing_2_slope.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3270,7 +3270,7 @@
     <Template>
         <Name>Wall_Railing_EndL</Name>
         <File>dz\structures\walls\wall_railing_endl.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3303,7 +3303,7 @@
     <Template>
         <Name>Wall_Railing_EndR</Name>
         <File>dz\structures\walls\wall_railing_endr.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3336,7 +3336,7 @@
     <Template>
         <Name>Wall_Stone</Name>
         <File>dz\structures\walls\wall_stone.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3369,7 +3369,7 @@
     <Template>
         <Name>Wall_StoneD</Name>
         <File>dz\structures\walls\wall_stoned.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3402,7 +3402,7 @@
     <Template>
         <Name>Wall_TinCom_3</Name>
         <File>dz\structures\walls\wall_tincom_3.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3435,7 +3435,7 @@
     <Template>
         <Name>Wall_TinCom_9</Name>
         <File>dz\structures\walls\wall_tincom_9.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3468,7 +3468,7 @@
     <Template>
         <Name>Wall_TinCom_9_2</Name>
         <File>dz\structures\walls\wall_tincom_9_2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3501,7 +3501,7 @@
     <Template>
         <Name>Wall_TinCom_Pole</Name>
         <File>dz\structures\walls\wall_tincom_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3534,7 +3534,7 @@
     <Template>
         <Name>Wall_Tin_4</Name>
         <File>dz\structures\walls\wall_tin_4.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3567,7 +3567,7 @@
     <Template>
         <Name>Wall_Tin_4_2</Name>
         <File>dz\structures\walls\wall_tin_4_2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3600,7 +3600,7 @@
     <Template>
         <Name>Wall_Tin_5</Name>
         <File>dz\structures\walls\wall_tin_5.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3633,7 +3633,7 @@
     <Template>
         <Name>Wall_Tin_Pole</Name>
         <File>dz\structures\walls\wall_tin_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3666,7 +3666,7 @@
     <Template>
         <Name>Wall_VilVar1_6</Name>
         <File>dz\structures\walls\wall_vilvar1_6.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3699,7 +3699,7 @@
     <Template>
         <Name>Wall_VilVar1_Pole</Name>
         <File>dz\structures\walls\wall_vilvar1_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3732,7 +3732,7 @@
     <Template>
         <Name>Wall_VilVar2_4</Name>
         <File>dz\structures\walls\wall_vilvar2_4.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3765,7 +3765,7 @@
     <Template>
         <Name>Wall_VilVar2_4_2</Name>
         <File>dz\structures\walls\wall_vilvar2_4_2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3798,7 +3798,7 @@
     <Template>
         <Name>Wall_VilVar2_4_D</Name>
         <File>dz\structures\walls\wall_vilvar2_4_d.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3831,7 +3831,7 @@
     <Template>
         <Name>Wall_VilVar2_4_END</Name>
         <File>dz\structures\walls\wall_vilvar2_4_end.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3864,7 +3864,7 @@
     <Template>
         <Name>Wall_VilVar2_Pole</Name>
         <File>dz\structures\walls\wall_vilvar2_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3897,7 +3897,7 @@
     <Template>
         <Name>Wall_Wood1D_5</Name>
         <File>dz\structures\walls\wall_wood1d_5.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3930,7 +3930,7 @@
     <Template>
         <Name>Wall_Wood1D_5_2</Name>
         <File>dz\structures\walls\wall_wood1d_5_2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3963,7 +3963,7 @@
     <Template>
         <Name>Wall_Wood1D_5_pole</Name>
         <File>dz\structures\walls\wall_wood1d_5_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3996,7 +3996,7 @@
     <Template>
         <Name>Wall_Wood1_5</Name>
         <File>dz\structures\walls\wall_wood1_5.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4029,7 +4029,7 @@
     <Template>
         <Name>Wall_Wood1_5_2</Name>
         <File>dz\structures\walls\wall_wood1_5_2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4062,7 +4062,7 @@
     <Template>
         <Name>Wall_Wood1_5_pole</Name>
         <File>dz\structures\walls\wall_wood1_5_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4095,7 +4095,7 @@
     <Template>
         <Name>Wall_Wood2_5</Name>
         <File>dz\structures\walls\wall_wood2_5.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4128,7 +4128,7 @@
     <Template>
         <Name>Wall_Wood2_5_D</Name>
         <File>dz\structures\walls\wall_wood2_5_d.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4161,7 +4161,7 @@
     <Template>
         <Name>Wall_Wood2_5_END</Name>
         <File>dz\structures\walls\wall_wood2_5_end.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4194,7 +4194,7 @@
     <Template>
         <Name>Wall_Wood2_5_END_2</Name>
         <File>dz\structures\walls\wall_wood2_5_end_2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4227,7 +4227,7 @@
     <Template>
         <Name>Wall_Wood2_5_pole</Name>
         <File>dz\structures\walls\wall_wood2_5_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4260,7 +4260,7 @@
     <Template>
         <Name>Wall_Wood3_4</Name>
         <File>dz\structures\walls\wall_wood3_4.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4293,7 +4293,7 @@
     <Template>
         <Name>Wall_Wood3_4_End</Name>
         <File>dz\structures\walls\wall_wood3_4_end.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4326,7 +4326,7 @@
     <Template>
         <Name>Wall_Wood4_4</Name>
         <File>dz\structures\walls\wall_wood4_4.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4359,7 +4359,7 @@
     <Template>
         <Name>Wall_Wood4_End1</Name>
         <File>dz\structures\walls\wall_wood4_end1.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4392,7 +4392,7 @@
     <Template>
         <Name>Wall_Wood4_End2</Name>
         <File>dz\structures\walls\wall_wood4_end2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4425,7 +4425,7 @@
     <Template>
         <Name>Wall_Wood4_Pole</Name>
         <File>dz\structures\walls\wall_wood4_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4458,7 +4458,7 @@
     <Template>
         <Name>Wall_WoodF_5</Name>
         <File>dz\structures\walls\wall_woodf_5.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4491,7 +4491,7 @@
     <Template>
         <Name>Wall_WoodF_5_2</Name>
         <File>dz\structures\walls\wall_woodf_5_2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4524,7 +4524,7 @@
     <Template>
         <Name>Wall_WoodF_5_END</Name>
         <File>dz\structures\walls\wall_woodf_5_end.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4557,7 +4557,7 @@
     <Template>
         <Name>Wall_WoodVil_4</Name>
         <File>dz\structures\walls\wall_woodvil_4.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4590,7 +4590,7 @@
     <Template>
         <Name>Wall_WoodVil_4_2</Name>
         <File>dz\structures\walls\wall_woodvil_4_2.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4623,7 +4623,7 @@
     <Template>
         <Name>Wall_WoodVil_4_pole</Name>
         <File>dz\structures\walls\wall_woodvil_4_pole.p3d</File>
-        <Date>05/21/20 21:43:02</Date>
+        <Date>05/22/20 20:37:20</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
