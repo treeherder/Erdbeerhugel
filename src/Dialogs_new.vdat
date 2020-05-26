@@ -12,5 +12,7 @@ dtTemplatesImportTML
 P:\Erdbeerhugel\src\TemplateLibs\wrecks.tml
 dtTerrainExport
 erdbeerhugel\src
+dtTerrainHeightmapImportJPG
+erdbeerhugel\src
 dtTerrainSurfaceImportJPG
 erdbeerhugel\src
