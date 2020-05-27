@@ -3,7 +3,7 @@
     <Template>
         <Name>AirCond_big</Name>
         <File>dz\structures\proxy_buildingparts\aircondition\aircond_big.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -36,7 +36,7 @@
     <Template>
         <Name>AirCond_small</Name>
         <File>dz\structures\proxy_buildingparts\aircondition\aircond_small.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -69,7 +69,7 @@
     <Template>
         <Name>door_planks_01</Name>
         <File>dz\structures\proxy_buildingparts\barricading\door_planks_01.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -102,7 +102,7 @@
     <Template>
         <Name>GasMeterExt</Name>
         <File>dz\structures\proxy_buildingparts\gasmeterext\gasmeterext.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -135,7 +135,7 @@
     <Template>
         <Name>HouseV2_02_window</Name>
         <File>dz\structures\proxy_buildingparts\house\housev2_02_window.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -168,7 +168,7 @@
     <Template>
         <Name>ladder_long_proxy</Name>
         <File>dz\structures\proxy_buildingparts\ladders\ladder_long_proxy.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -201,7 +201,7 @@
     <Template>
         <Name>ladder_medium_proxy</Name>
         <File>dz\structures\proxy_buildingparts\ladders\ladder_medium_proxy.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -234,7 +234,7 @@
     <Template>
         <Name>ladder_short_proxy</Name>
         <File>dz\structures\proxy_buildingparts\ladders\ladder_short_proxy.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -267,7 +267,7 @@
     <Template>
         <Name>ladder_top_proxy</Name>
         <File>dz\structures\proxy_buildingparts\ladders\ladder_top_proxy.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -300,7 +300,7 @@
     <Template>
         <Name>LightningConductorBottom</Name>
         <File>dz\structures\proxy_buildingparts\lightningcond\lightningconductorbottom\lightningconductorbottom.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -333,7 +333,7 @@
     <Template>
         <Name>LightningConductorConnection</Name>
         <File>dz\structures\proxy_buildingparts\lightningcond\lightningconductorconnection\lightningconductorconnection.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -366,7 +366,7 @@
     <Template>
         <Name>LightningConductorCorner</Name>
         <File>dz\structures\proxy_buildingparts\lightningcond\lightningconductorcorner\lightningconductorcorner.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -399,7 +399,7 @@
     <Template>
         <Name>LightningConductorMiddle</Name>
         <File>dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -432,7 +432,7 @@
     <Template>
         <Name>LightningConductorMiddleShort</Name>
         <File>dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddleshort.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -465,7 +465,7 @@
     <Template>
         <Name>LightningConductorTop</Name>
         <File>dz\structures\proxy_buildingparts\lightningcond\lightningconductortop\lightningconductortop.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -498,7 +498,7 @@
     <Template>
         <Name>AirCondition_A</Name>
         <File>dz\structures\proxy_buildingparts\roof\aircondition\aircondition_a.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -531,7 +531,7 @@
     <Template>
         <Name>AirCondition_B</Name>
         <File>dz\structures\proxy_buildingparts\roof\aircondition\aircondition_b.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -564,7 +564,7 @@
     <Template>
         <Name>antenna_big_roof</Name>
         <File>dz\structures\proxy_buildingparts\roof\antennabigroof\antenna_big_roof.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -597,7 +597,7 @@
     <Template>
         <Name>antenna_small_roof</Name>
         <File>dz\structures\proxy_buildingparts\roof\antennasmallroof\antenna_small_roof.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -630,7 +630,7 @@
     <Template>
         <Name>antenna_small_roof_1</Name>
         <File>dz\structures\proxy_buildingparts\roof\antennasmallroof\antenna_small_roof_1.p3d</File>
-        <Date>05/26/20 00:07:36</Date>
+        <Date>05/26/20 22:29:00</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
