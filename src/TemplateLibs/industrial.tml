@@ -3,7 +3,7 @@
     <Template>
         <Name>CementWorks_ConveyorFurnace</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyorfurnace.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -36,7 +36,7 @@
     <Template>
         <Name>CementWorks_ConveyorHall</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyorhall.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -69,7 +69,7 @@
     <Template>
         <Name>CementWorks_ConveyorMillA</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyormilla.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -102,7 +102,7 @@
     <Template>
         <Name>CementWorks_ConveyorMillB</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyormillb.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -135,7 +135,7 @@
     <Template>
         <Name>CementWorks_ConveyorTowerA</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyortowera.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -168,7 +168,7 @@
     <Template>
         <Name>CementWorks_ConveyorTowerB</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyortowerb.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -201,7 +201,7 @@
     <Template>
         <Name>CementWorks_ConveyorTowerC</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyortowerc.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -234,7 +234,7 @@
     <Template>
         <Name>CementWorks_Conveyor_Up1</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyor_up1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -267,7 +267,7 @@
     <Template>
         <Name>CementWorks_Conveyor_Up2</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyor_up2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -300,7 +300,7 @@
     <Template>
         <Name>CementWorks_Conveyor_Up3</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyor_up3.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -333,7 +333,7 @@
     <Template>
         <Name>CementWorks_ExpeditionA</Name>
         <File>dz\structures\industrial\cementworks\cementworks_expeditiona.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -366,7 +366,7 @@
     <Template>
         <Name>CementWorks_ExpeditionB</Name>
         <File>dz\structures\industrial\cementworks\cementworks_expeditionb.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -399,7 +399,7 @@
     <Template>
         <Name>CementWorks_ExpeditionC</Name>
         <File>dz\structures\industrial\cementworks\cementworks_expeditionc.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -432,7 +432,7 @@
     <Template>
         <Name>CementWorks_Hall1</Name>
         <File>dz\structures\industrial\cementworks\cementworks_hall1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -465,7 +465,7 @@
     <Template>
         <Name>CementWorks_Hall2_Brick</Name>
         <File>dz\structures\industrial\cementworks\cementworks_hall2_brick.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -498,7 +498,7 @@
     <Template>
         <Name>CementWorks_Hall2_Grey</Name>
         <File>dz\structures\industrial\cementworks\cementworks_hall2_grey.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -531,7 +531,7 @@
     <Template>
         <Name>CementWorks_MillA</Name>
         <File>dz\structures\industrial\cementworks\cementworks_milla.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -564,7 +564,7 @@
     <Template>
         <Name>CementWorks_MillB</Name>
         <File>dz\structures\industrial\cementworks\cementworks_millb.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -597,7 +597,7 @@
     <Template>
         <Name>CementWorks_MillC</Name>
         <File>dz\structures\industrial\cementworks\cementworks_millc.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -630,7 +630,7 @@
     <Template>
         <Name>CementWorks_MillD</Name>
         <File>dz\structures\industrial\cementworks\cementworks_milld.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -663,7 +663,7 @@
     <Template>
         <Name>CementWorks_RotFurnace</Name>
         <File>dz\structures\industrial\cementworks\cementworks_rotfurnace.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -696,7 +696,7 @@
     <Template>
         <Name>CementWorks_SiloBig1A</Name>
         <File>dz\structures\industrial\cementworks\cementworks_silobig1a.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -729,7 +729,7 @@
     <Template>
         <Name>CementWorks_SiloBig1B</Name>
         <File>dz\structures\industrial\cementworks\cementworks_silobig1b.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -762,7 +762,7 @@
     <Template>
         <Name>CementWorks_SiloBig1Bridge</Name>
         <File>dz\structures\industrial\cementworks\cementworks_silobig1bridge.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -795,7 +795,7 @@
     <Template>
         <Name>CementWorks_SiloBig2</Name>
         <File>dz\structures\industrial\cementworks\cementworks_silobig2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -828,7 +828,7 @@
     <Template>
         <Name>CementWorks_MillA_bricks</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_milla_bricks.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -861,7 +861,7 @@
     <Template>
         <Name>CementWorks_MillA_metal</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_milla_metal.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -894,7 +894,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Controlpanel</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_controlpanel.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -927,7 +927,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Dirt</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_dirt.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -960,7 +960,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_HeatExchanger1</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_heatexchanger1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -993,7 +993,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_HeatExchanger2</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_heatexchanger2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1026,7 +1026,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Pipes1</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_pipes1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1059,7 +1059,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Pipes2</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_pipes2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1092,7 +1092,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_railings</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_railings.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1125,7 +1125,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_RotaryKiln1</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_rotarykiln1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1158,7 +1158,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_RotaryKiln2</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_rotarykiln2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1191,7 +1191,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Silo_Big</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_silo_big.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1224,7 +1224,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Tank</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_tank.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1257,7 +1257,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Tank2</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_tank2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1290,7 +1290,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Windows</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_windows.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1323,7 +1323,7 @@
     <Template>
         <Name>ground_garbage_long_fix</Name>
         <File>dz\structures\industrial\cementworks\proxy\ground_garbage_long_fix.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1356,7 +1356,7 @@
     <Template>
         <Name>ground_garbage_square7_fix</Name>
         <File>dz\structures\industrial\cementworks\proxy\ground_garbage_square7_fix.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1389,7 +1389,7 @@
     <Template>
         <Name>Ind_TankSmall2_fix</Name>
         <File>dz\structures\industrial\cementworks\proxy\ind_tanksmall2_fix.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1422,7 +1422,7 @@
     <Template>
         <Name>Misc_BoxWooden</Name>
         <File>dz\structures\industrial\cementworks\proxy\misc_boxwooden.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1455,7 +1455,7 @@
     <Template>
         <Name>Misc_Pallet</Name>
         <File>dz\structures\industrial\cementworks\proxy\misc_pallet.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1488,7 +1488,7 @@
     <Template>
         <Name>Misc_Pallets1</Name>
         <File>dz\structures\industrial\cementworks\proxy\misc_pallets1.p3d</File>
-        <Date>01/23/20 03:14:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1506,22 +1506,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.286267</BBRadius>
-        <BBHScale>0.814415</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.768610" Y="-0.051250" Z="-0.283727" />
-        <BoundingMax X="1.326499" Y="0.687902" Z="2.288807" />
-        <BoundingCenter X="0.278945" Y="0.318326" Z="1.002540" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Misc_Pallets2</Name>
         <File>dz\structures\industrial\cementworks\proxy\misc_pallets2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1554,7 +1554,7 @@
     <Template>
         <Name>Misc_Pallets3</Name>
         <File>dz\structures\industrial\cementworks\proxy\misc_pallets3.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1587,7 +1587,7 @@
     <Template>
         <Name>Misc_Pipes</Name>
         <File>dz\structures\industrial\cementworks\proxy\misc_pipes.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1620,7 +1620,7 @@
     <Template>
         <Name>Rubble_Glass</Name>
         <File>dz\structures\industrial\cementworks\proxy\rubble_glass.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1653,7 +1653,7 @@
     <Template>
         <Name>CoalPlant_Conveyor</Name>
         <File>dz\structures\industrial\coalplant\coalplant_conveyor.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1686,7 +1686,7 @@
     <Template>
         <Name>CoalPlant_LoadingHouse</Name>
         <File>dz\structures\industrial\coalplant\coalplant_loadinghouse.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1719,7 +1719,7 @@
     <Template>
         <Name>CoalPlant_Main</Name>
         <File>dz\structures\industrial\coalplant\coalplant_main.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1752,7 +1752,7 @@
     <Template>
         <Name>CoalPlant_Main_AIRCONDUCT</Name>
         <File>dz\structures\industrial\coalplant\proxy\coalplant_main_airconduct.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1785,7 +1785,7 @@
     <Template>
         <Name>CoalPlant_Main_EXT_DETAILS</Name>
         <File>dz\structures\industrial\coalplant\proxy\coalplant_main_ext_details.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1818,7 +1818,7 @@
     <Template>
         <Name>CoalPlant_Main_EXT_DETAILS_2</Name>
         <File>dz\structures\industrial\coalplant\proxy\coalplant_main_ext_details_2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1851,7 +1851,7 @@
     <Template>
         <Name>CoalPlant_Main_EXT_STAIRS</Name>
         <File>dz\structures\industrial\coalplant\proxy\coalplant_main_ext_stairs.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1884,7 +1884,7 @@
     <Template>
         <Name>CoalPlant_Main_INT_STAIRS</Name>
         <File>dz\structures\industrial\coalplant\proxy\coalplant_main_int_stairs.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1917,7 +1917,7 @@
     <Template>
         <Name>CoalPlant_Main_WINDOWS</Name>
         <File>dz\structures\industrial\coalplant\proxy\coalplant_main_windows.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1950,7 +1950,7 @@
     <Template>
         <Name>Construction_Building</Name>
         <File>dz\structures\industrial\construction\construction_building.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1983,7 +1983,7 @@
     <Template>
         <Name>Construction_Crane</Name>
         <File>dz\structures\industrial\construction\construction_crane.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2016,7 +2016,7 @@
     <Template>
         <Name>Construction_House1</Name>
         <File>dz\structures\industrial\construction\construction_house1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2049,7 +2049,7 @@
     <Template>
         <Name>Construction_House2</Name>
         <File>dz\structures\industrial\construction\construction_house2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2082,7 +2082,7 @@
     <Template>
         <Name>A_buildingwip_proxy</Name>
         <File>dz\structures\industrial\construction\proxy\a_buildingwip_proxy.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2115,7 +2115,7 @@
     <Template>
         <Name>barricade_proxy</Name>
         <File>dz\structures\industrial\construction\proxy\barricade_proxy.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2148,7 +2148,7 @@
     <Template>
         <Name>cihly1</Name>
         <File>dz\structures\industrial\construction\proxy\cihly1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2181,7 +2181,7 @@
     <Template>
         <Name>cihly2</Name>
         <File>dz\structures\industrial\construction\proxy\cihly2.p3d</File>
-        <Date>01/23/20 03:38:57</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2199,22 +2199,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.538180</BBRadius>
-        <BBHScale>1.184541</BBHScale>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
         <AutoCenter>0</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.652563" Y="-0.002731" Z="-0.541360" />
-        <BoundingMax X="0.622430" Y="1.038260" Z="0.535000" />
-        <BoundingCenter X="-0.015067" Y="0.517765" Z="-0.003180" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>cihly3</Name>
         <File>dz\structures\industrial\construction\proxy\cihly3.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2247,7 +2247,7 @@
     <Template>
         <Name>cihly4</Name>
         <File>dz\structures\industrial\construction\proxy\cihly4.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2280,7 +2280,7 @@
     <Template>
         <Name>koz</Name>
         <File>dz\structures\industrial\construction\proxy\koz.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2313,7 +2313,7 @@
     <Template>
         <Name>pipe-big</Name>
         <File>dz\structures\industrial\construction\proxy\pipe-big.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2346,7 +2346,7 @@
     <Template>
         <Name>pipe-small</Name>
         <File>dz\structures\industrial\construction\proxy\pipe-small.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2379,7 +2379,7 @@
     <Template>
         <Name>ytong</Name>
         <File>dz\structures\industrial\construction\proxy\ytong.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2412,7 +2412,7 @@
     <Template>
         <Name>Container_1A</Name>
         <File>dz\structures\industrial\containers\container_1a.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2445,7 +2445,7 @@
     <Template>
         <Name>Container_1Aoh</Name>
         <File>dz\structures\industrial\containers\container_1aoh.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2478,7 +2478,7 @@
     <Template>
         <Name>Container_1B</Name>
         <File>dz\structures\industrial\containers\container_1b.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2511,7 +2511,7 @@
     <Template>
         <Name>Container_1Bo</Name>
         <File>dz\structures\industrial\containers\container_1bo.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2544,7 +2544,7 @@
     <Template>
         <Name>Container_1C</Name>
         <File>dz\structures\industrial\containers\container_1c.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2577,7 +2577,7 @@
     <Template>
         <Name>Container_1D</Name>
         <File>dz\structures\industrial\containers\container_1d.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2610,7 +2610,7 @@
     <Template>
         <Name>Container_1Mo</Name>
         <File>dz\structures\industrial\containers\container_1mo.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2643,7 +2643,7 @@
     <Template>
         <Name>Container_1Moh</Name>
         <File>dz\structures\industrial\containers\container_1moh.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2676,7 +2676,7 @@
     <Template>
         <Name>Container_2A</Name>
         <File>dz\structures\industrial\containers\container_2a.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2709,7 +2709,7 @@
     <Template>
         <Name>Container_2B</Name>
         <File>dz\structures\industrial\containers\container_2b.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2742,7 +2742,7 @@
     <Template>
         <Name>Container_2C</Name>
         <File>dz\structures\industrial\containers\container_2c.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2775,7 +2775,7 @@
     <Template>
         <Name>Container_2D</Name>
         <File>dz\structures\industrial\containers\container_2d.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2808,7 +2808,7 @@
     <Template>
         <Name>Container_2E</Name>
         <File>dz\structures\industrial\containers\container_2e.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2841,7 +2841,7 @@
     <Template>
         <Name>Dam_Concrete_20</Name>
         <File>dz\structures\industrial\dams\dam_concrete_20.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2874,7 +2874,7 @@
     <Template>
         <Name>Dam_Concrete_20_Floodgate</Name>
         <File>dz\structures\industrial\dams\dam_concrete_20_floodgate.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2907,7 +2907,7 @@
     <Template>
         <Name>Dam_Stone_40</Name>
         <File>dz\structures\industrial\dams\dam_stone_40.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2940,7 +2940,7 @@
     <Template>
         <Name>Barn_Brick1</Name>
         <File>dz\structures\industrial\farms\barn_brick1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2973,7 +2973,7 @@
     <Template>
         <Name>Barn_Brick2</Name>
         <File>dz\structures\industrial\farms\barn_brick2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3006,7 +3006,7 @@
     <Template>
         <Name>Barn_Metal_Big</Name>
         <File>dz\structures\industrial\farms\barn_metal_big.p3d</File>
-        <Date>01/23/20 03:43:44</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3024,22 +3024,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>29.964283</BBRadius>
-        <BBHScale>0.689758</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-21.232563" Y="-4.751561" Z="-31.335464" />
-        <BoundingMax X="20.103649" Y="15.638706" Z="28.593102" />
-        <BoundingCenter X="-0.564457" Y="5.443573" Z="-1.371181" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Barn_Wood1</Name>
         <File>dz\structures\industrial\farms\barn_wood1.p3d</File>
-        <Date>01/23/20 03:44:39</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3057,22 +3057,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>27.584263</BBRadius>
-        <BBHScale>0.326793</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-9.174776" Y="-2.267840" Z="-27.506203" />
-        <BoundingMax X="8.853888" Y="8.596161" Z="27.662323" />
-        <BoundingCenter X="-0.160444" Y="3.164160" Z="0.078060" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Barn_Wood2</Name>
         <File>dz\structures\industrial\farms\barn_wood2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3105,7 +3105,7 @@
     <Template>
         <Name>Farm_CowshedA</Name>
         <File>dz\structures\industrial\farms\farm_cowsheda.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3138,7 +3138,7 @@
     <Template>
         <Name>Farm_CowshedB</Name>
         <File>dz\structures\industrial\farms\farm_cowshedb.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3171,7 +3171,7 @@
     <Template>
         <Name>Farm_CowshedC</Name>
         <File>dz\structures\industrial\farms\farm_cowshedc.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3204,7 +3204,7 @@
     <Template>
         <Name>Farm_Hopper</Name>
         <File>dz\structures\industrial\farms\farm_hopper.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3237,7 +3237,7 @@
     <Template>
         <Name>Farm_StrawStack</Name>
         <File>dz\structures\industrial\farms\farm_strawstack.p3d</File>
-        <Date>01/23/20 03:45:59</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3255,22 +3255,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>4.639860</BBRadius>
-        <BBHScale>2.237352</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-10.465200" Y="-0.898855" Z="-4.671230" />
-        <BoundingMax X="10.296801" Y="3.846030" Z="4.608490" />
-        <BoundingCenter X="-0.084200" Y="1.473588" Z="-0.031370" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Farm_WaterTower</Name>
         <File>dz\structures\industrial\farms\farm_watertower.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3303,7 +3303,7 @@
     <Template>
         <Name>Farm_WaterTower_Small</Name>
         <File>dz\structures\industrial\farms\farm_watertower_small.p3d</File>
-        <Date>01/23/20 03:46:24</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3321,22 +3321,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>3.384065</BBRadius>
-        <BBHScale>0.625121</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.994050" Y="-0.113898" Z="-1.994050" />
-        <BoundingMax X="2.236847" Y="10.969600" Z="4.774080" />
-        <BoundingCenter X="0.121398" Y="5.427851" Z="1.390015" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>barn_metal_lod1_proxy</Name>
         <File>dz\structures\industrial\farms\proxy\barn_metal_lod1_proxy.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3369,7 +3369,7 @@
     <Template>
         <Name>barn_roofconstr_proxy</Name>
         <File>dz\structures\industrial\farms\proxy\barn_roofconstr_proxy.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3402,7 +3402,7 @@
     <Template>
         <Name>Boxy_a</Name>
         <File>dz\structures\industrial\farms\proxy\boxy_a.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3435,7 +3435,7 @@
     <Template>
         <Name>Boxy_b</Name>
         <File>dz\structures\industrial\farms\proxy\boxy_b.p3d</File>
-        <Date>01/23/20 03:42:21</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3453,22 +3453,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.967405</BBRadius>
-        <BBHScale>0.393051</BBHScale>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
         <AutoCenter>0</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.806504" Y="-0.635539" Z="-2.509050" />
-        <BoundingMax X="0.740076" Y="0.605000" Z="1.425760" />
-        <BoundingCenter X="-0.033214" Y="-0.015270" Z="-0.541645" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Boxy_c</Name>
         <File>dz\structures\industrial\farms\proxy\boxy_c.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3501,7 +3501,7 @@
     <Template>
         <Name>Boxy_d</Name>
         <File>dz\structures\industrial\farms\proxy\boxy_d.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3534,7 +3534,7 @@
     <Template>
         <Name>Boxy_e</Name>
         <File>dz\structures\industrial\farms\proxy\boxy_e.p3d</File>
-        <Date>01/23/20 03:42:23</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3552,22 +3552,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.976090</BBRadius>
-        <BBHScale>1.508781</BBHScale>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
         <AutoCenter>0</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.806504" Y="-0.639038" Z="-2.517980" />
-        <BoundingMax X="5.156471" Y="0.605000" Z="1.434200" />
-        <BoundingCenter X="2.174983" Y="-0.017019" Z="-0.541890" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>okna_a</Name>
         <File>dz\structures\industrial\farms\proxy\okna_a.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3600,7 +3600,7 @@
     <Template>
         <Name>okna_b</Name>
         <File>dz\structures\industrial\farms\proxy\okna_b.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3633,7 +3633,7 @@
     <Template>
         <Name>tram_a</Name>
         <File>dz\structures\industrial\farms\proxy\tram_a.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3666,7 +3666,7 @@
     <Template>
         <Name>tram_b</Name>
         <File>dz\structures\industrial\farms\proxy\tram_b.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3699,7 +3699,7 @@
     <Template>
         <Name>Garage_Big</Name>
         <File>dz\structures\industrial\garages\garage_big.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3732,7 +3732,7 @@
     <Template>
         <Name>Garage_Office</Name>
         <File>dz\structures\industrial\garages\garage_office.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3765,7 +3765,7 @@
     <Template>
         <Name>Garage_Row_Big</Name>
         <File>dz\structures\industrial\garages\garage_row_big.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3798,7 +3798,7 @@
     <Template>
         <Name>Garage_Row_Small</Name>
         <File>dz\structures\industrial\garages\garage_row_small.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3831,7 +3831,7 @@
     <Template>
         <Name>Garage_Small</Name>
         <File>dz\structures\industrial\garages\garage_small.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3864,7 +3864,7 @@
     <Template>
         <Name>Boathouse</Name>
         <File>dz\structures\industrial\harbour\boathouse.p3d</File>
-        <Date>01/23/20 03:48:12</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3882,22 +3882,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>10.637051</BBRadius>
-        <BBHScale>0.841763</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-8.932880" Y="-10.735201" Z="-11.191101" />
-        <BoundingMax X="8.974861" Y="7.189903" Z="10.083000" />
-        <BoundingCenter X="0.020990" Y="-1.772649" Z="-0.554050" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Boathouse_PierL</Name>
         <File>dz\structures\industrial\harbour\boathouse_pierl.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3930,7 +3930,7 @@
     <Template>
         <Name>Boathouse_PierR</Name>
         <File>dz\structures\industrial\harbour\boathouse_pierr.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3963,7 +3963,7 @@
     <Template>
         <Name>Boathouse_PierT</Name>
         <File>dz\structures\industrial\harbour\boathouse_piert.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3996,7 +3996,7 @@
     <Template>
         <Name>Lighthouse</Name>
         <File>dz\structures\industrial\harbour\lighthouse.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4029,7 +4029,7 @@
     <Template>
         <Name>Pier_Concrete1</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4062,7 +4062,7 @@
     <Template>
         <Name>Pier_Concrete1_CornerIn</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_cornerin.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4095,7 +4095,7 @@
     <Template>
         <Name>Pier_Concrete1_CornerOut</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_cornerout.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4128,7 +4128,7 @@
     <Template>
         <Name>Pier_Concrete1_End</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_end.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4161,7 +4161,7 @@
     <Template>
         <Name>Pier_Concrete1_L</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_l.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4194,7 +4194,7 @@
     <Template>
         <Name>Pier_Concrete1_L10</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_l10.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4227,7 +4227,7 @@
     <Template>
         <Name>Pier_Concrete1_L30</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_l30.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4260,7 +4260,7 @@
     <Template>
         <Name>Pier_Concrete1_R</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_r.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4293,7 +4293,7 @@
     <Template>
         <Name>Pier_Concrete1_R10</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_r10.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4326,7 +4326,7 @@
     <Template>
         <Name>Pier_Concrete1_R30</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_r30.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4359,7 +4359,7 @@
     <Template>
         <Name>Pier_Concrete1_TBig</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_tbig.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4392,7 +4392,7 @@
     <Template>
         <Name>Pier_Concrete1_TSmall</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_tsmall.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4425,7 +4425,7 @@
     <Template>
         <Name>Pier_Concrete2</Name>
         <File>dz\structures\industrial\harbour\pier_concrete2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4458,7 +4458,7 @@
     <Template>
         <Name>Pier_Concrete2_End</Name>
         <File>dz\structures\industrial\harbour\pier_concrete2_end.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4491,7 +4491,7 @@
     <Template>
         <Name>Pier_Concrete3_1</Name>
         <File>dz\structures\industrial\harbour\pier_concrete3_1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4524,7 +4524,7 @@
     <Template>
         <Name>Pier_Concrete3_2</Name>
         <File>dz\structures\industrial\harbour\pier_concrete3_2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4557,7 +4557,7 @@
     <Template>
         <Name>Pier_Concrete3_End</Name>
         <File>dz\structures\industrial\harbour\pier_concrete3_end.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4590,7 +4590,7 @@
     <Template>
         <Name>Pier_Concrete3_Fuel</Name>
         <File>dz\structures\industrial\harbour\pier_concrete3_fuel.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4623,7 +4623,7 @@
     <Template>
         <Name>Pier_Crane_A</Name>
         <File>dz\structures\industrial\harbour\pier_crane_a.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4656,7 +4656,7 @@
     <Template>
         <Name>Pier_Crane_B</Name>
         <File>dz\structures\industrial\harbour\pier_crane_b.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4689,7 +4689,7 @@
     <Template>
         <Name>Pier_Crane_Rails</Name>
         <File>dz\structures\industrial\harbour\pier_crane_rails.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4722,7 +4722,7 @@
     <Template>
         <Name>Pier_Crane_Rails_End</Name>
         <File>dz\structures\industrial\harbour\pier_crane_rails_end.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4755,7 +4755,7 @@
     <Template>
         <Name>Pier_Tube_Big</Name>
         <File>dz\structures\industrial\harbour\pier_tube_big.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4788,7 +4788,7 @@
     <Template>
         <Name>Pier_Tube_Small</Name>
         <File>dz\structures\industrial\harbour\pier_tube_small.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4821,7 +4821,7 @@
     <Template>
         <Name>Pier_Wooden1</Name>
         <File>dz\structures\industrial\harbour\pier_wooden1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4854,7 +4854,7 @@
     <Template>
         <Name>Pier_Wooden1_End</Name>
         <File>dz\structures\industrial\harbour\pier_wooden1_end.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4887,7 +4887,7 @@
     <Template>
         <Name>Factory_Lathes</Name>
         <File>dz\structures\industrial\houses\factory_lathes.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4920,7 +4920,7 @@
     <Template>
         <Name>Factory_Small</Name>
         <File>dz\structures\industrial\houses\factory_small.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4953,7 +4953,7 @@
     <Template>
         <Name>GuardHouse</Name>
         <File>dz\structures\industrial\houses\guardhouse.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4986,7 +4986,7 @@
     <Template>
         <Name>Repair_Center</Name>
         <File>dz\structures\industrial\houses\repair_center.p3d</File>
-        <Date>01/23/20 03:54:50</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5004,22 +5004,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>8.207990</BBRadius>
-        <BBHScale>0.619607</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-5.083961" Y="-0.065780" Z="-5.551821" />
-        <BoundingMax X="5.087499" Y="5.107080" Z="10.864159" />
-        <BoundingCenter X="0.001769" Y="2.520650" Z="2.656169" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Water_Station</Name>
         <File>dz\structures\industrial\houses\water_station.p3d</File>
-        <Date>01/23/20 03:55:00</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5037,22 +5037,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>3.238921</BBRadius>
-        <BBHScale>0.914367</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-2.946346" Y="-1.034470" Z="-3.846174" />
-        <BoundingMax X="2.976779" Y="4.210260" Z="2.631668" />
-        <BoundingCenter X="0.015217" Y="1.587895" Z="-0.607253" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Workshop1</Name>
         <File>dz\structures\industrial\houses\workshop1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5085,7 +5085,7 @@
     <Template>
         <Name>Workshop2</Name>
         <File>dz\structures\industrial\houses\workshop2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5118,7 +5118,7 @@
     <Template>
         <Name>Workshop3</Name>
         <File>dz\structures\industrial\houses\workshop3.p3d</File>
-        <Date>01/23/20 03:55:30</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5136,22 +5136,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>6.621312</BBRadius>
-        <BBHScale>0.494566</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.514870" Y="-1.193760" Z="-6.619413" />
-        <BoundingMax X="3.034480" Y="3.924959" Z="6.623211" />
-        <BoundingCenter X="-0.240195" Y="1.365599" Z="0.001899" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Workshop4</Name>
         <File>dz\structures\industrial\houses\workshop4.p3d</File>
-        <Date>01/23/20 03:55:33</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5169,22 +5169,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>7.699520</BBRadius>
-        <BBHScale>0.587304</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-4.383153" Y="-0.910647" Z="-8.664330" />
-        <BoundingMax X="4.660761" Y="4.239790" Z="6.734711" />
-        <BoundingCenter X="0.138804" Y="1.664572" Z="-0.964809" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Workshop5</Name>
         <File>dz\structures\industrial\houses\workshop5.p3d</File>
-        <Date>01/23/20 03:55:35</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5202,22 +5202,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>7.697139</BBRadius>
-        <BBHScale>0.729871</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-5.931739" Y="-0.900621" Z="-8.284758" />
-        <BoundingMax X="5.304095" Y="3.688320" Z="7.109520" />
-        <BoundingCenter X="-0.313822" Y="1.393850" Z="-0.587619" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Workshop_Box</Name>
         <File>dz\structures\industrial\houses\workshop_box.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5250,7 +5250,7 @@
     <Template>
         <Name>HouseV2_03_int</Name>
         <File>dz\structures\industrial\houses\proxy\housev2_03_int.p3d</File>
-        <Date>01/23/20 03:52:06</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5268,22 +5268,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>11.082050</BBRadius>
-        <BBHScale>1.737783</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-23.957901" Y="-2.000000" Z="-10.251300" />
-        <BoundingMax X="14.558501" Y="14.129801" Z="11.912801" />
-        <BoundingCenter X="-4.699700" Y="6.064900" Z="0.830750" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Ind_Workshop_Window</Name>
         <File>dz\structures\industrial\houses\proxy\ind_workshop_window.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5316,7 +5316,7 @@
     <Template>
         <Name>Mine_Building</Name>
         <File>dz\structures\industrial\mines\mine_building.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5349,7 +5349,7 @@
     <Template>
         <Name>Mine_Conveyer1_10</Name>
         <File>dz\structures\industrial\mines\mine_conveyer1_10.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5382,7 +5382,7 @@
     <Template>
         <Name>Mine_Conveyer1_Begin</Name>
         <File>dz\structures\industrial\mines\mine_conveyer1_begin.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5415,7 +5415,7 @@
     <Template>
         <Name>Mine_Conveyer1_EndBuild</Name>
         <File>dz\structures\industrial\mines\mine_conveyer1_endbuild.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5448,7 +5448,7 @@
     <Template>
         <Name>Mine_Conveyer2_Build</Name>
         <File>dz\structures\industrial\mines\mine_conveyer2_build.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5481,7 +5481,7 @@
     <Template>
         <Name>Mine_Heap</Name>
         <File>dz\structures\industrial\mines\mine_heap.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5514,7 +5514,7 @@
     <Template>
         <Name>Mine_Hopper_Build</Name>
         <File>dz\structures\industrial\mines\mine_hopper_build.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5547,7 +5547,7 @@
     <Template>
         <Name>Mine_Rail</Name>
         <File>dz\structures\industrial\mines\mine_rail.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5580,7 +5580,7 @@
     <Template>
         <Name>Mine_Rail_End</Name>
         <File>dz\structures\industrial\mines\mine_rail_end.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5613,7 +5613,7 @@
     <Template>
         <Name>Mine_Rail_Switch</Name>
         <File>dz\structures\industrial\mines\mine_rail_switch.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5646,7 +5646,7 @@
     <Template>
         <Name>Mine_Rail_Tram</Name>
         <File>dz\structures\industrial\mines\mine_rail_tram.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5679,7 +5679,7 @@
     <Template>
         <Name>Mine_Tunnel</Name>
         <File>dz\structures\industrial\mines\mine_tunnel.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5712,7 +5712,7 @@
     <Template>
         <Name>Ind_Coltan_Conv1_end_add_EP1</Name>
         <File>dz\structures\industrial\mines\proxy\ind_coltan_conv1_end_add_ep1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5745,7 +5745,7 @@
     <Template>
         <Name>Ind_Coltan_Conv2_add_EP1</Name>
         <File>dz\structures\industrial\mines\proxy\ind_coltan_conv2_add_ep1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5778,7 +5778,7 @@
     <Template>
         <Name>Ind_Coltan_Hopper_add_EP1</Name>
         <File>dz\structures\industrial\mines\proxy\ind_coltan_hopper_add_ep1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5811,7 +5811,7 @@
     <Template>
         <Name>Lamp_Ind</Name>
         <File>dz\structures\industrial\misc\lamp_ind.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5844,7 +5844,7 @@
     <Template>
         <Name>Lamp_Rail</Name>
         <File>dz\structures\industrial\misc\lamp_rail.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5877,7 +5877,7 @@
     <Template>
         <Name>Misc_BoardsPack1</Name>
         <File>dz\structures\industrial\misc\misc_boardspack1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5910,7 +5910,7 @@
     <Template>
         <Name>Misc_BoardsPack2</Name>
         <File>dz\structures\industrial\misc\misc_boardspack2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5943,7 +5943,7 @@
     <Template>
         <Name>Misc_BoardsPack3</Name>
         <File>dz\structures\industrial\misc\misc_boardspack3.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5976,7 +5976,7 @@
     <Template>
         <Name>Misc_Coil</Name>
         <File>dz\structures\industrial\misc\misc_coil.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6009,7 +6009,7 @@
     <Template>
         <Name>Misc_ConcretePanels</Name>
         <File>dz\structures\industrial\misc\misc_concretepanels.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6042,7 +6042,7 @@
     <Template>
         <Name>Misc_ConcretePipe</Name>
         <File>dz\structures\industrial\misc\misc_concretepipe.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6075,7 +6075,7 @@
     <Template>
         <Name>Misc_ConcretePipe_Gate</Name>
         <File>dz\structures\industrial\misc\misc_concretepipe_gate.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6108,7 +6108,7 @@
     <Template>
         <Name>Misc_Drainage</Name>
         <File>dz\structures\industrial\misc\misc_drainage.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6141,7 +6141,7 @@
     <Template>
         <Name>Misc_GContainer_Big</Name>
         <File>dz\structures\industrial\misc\misc_gcontainer_big.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6174,7 +6174,7 @@
     <Template>
         <Name>Misc_HayBale</Name>
         <File>dz\structures\industrial\misc\misc_haybale.p3d</File>
-        <Date>01/23/20 03:58:54</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6192,22 +6192,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.789681</BBRadius>
-        <BBHScale>0.970625</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.766484" Y="-0.094256" Z="0.060319" />
-        <BoundingMax X="0.766484" Y="1.438710" Z="1.639680" />
-        <BoundingCenter X="0.000000" Y="0.672227" Z="0.850000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Misc_HayBale_Decayed</Name>
         <File>dz\structures\industrial\misc\misc_haybale_decayed.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6240,7 +6240,7 @@
     <Template>
         <Name>Misc_Scaffolding</Name>
         <File>dz\structures\industrial\misc\misc_scaffolding.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6273,7 +6273,7 @@
     <Template>
         <Name>Misc_Through_Static</Name>
         <File>dz\structures\industrial\misc\misc_through_static.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6306,7 +6306,7 @@
     <Template>
         <Name>Misc_Through_Trailer</Name>
         <File>dz\structures\industrial\misc\misc_through_trailer.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6339,7 +6339,7 @@
     <Template>
         <Name>Misc_Timbers1</Name>
         <File>dz\structures\industrial\misc\misc_timbers1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6372,7 +6372,7 @@
     <Template>
         <Name>Misc_Timbers2</Name>
         <File>dz\structures\industrial\misc\misc_timbers2.p3d</File>
-        <Date>01/23/20 04:00:04</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6390,22 +6390,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>5.999187</BBRadius>
-        <BBHScale>0.183636</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.986847" Y="-0.062398" Z="-8.781693" />
-        <BoundingMax X="1.216485" Y="1.992720" Z="3.216680" />
-        <BoundingCenter X="0.114819" Y="0.965161" Z="-2.782506" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Misc_Timbers3</Name>
         <File>dz\structures\industrial\misc\misc_timbers3.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6438,7 +6438,7 @@
     <Template>
         <Name>Misc_Timbers4</Name>
         <File>dz\structures\industrial\misc\misc_timbers4.p3d</File>
-        <Date>01/23/20 04:00:08</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6456,22 +6456,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>5.981331</BBRadius>
-        <BBHScale>0.182899</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.956593" Y="-0.081344" Z="-8.781693" />
-        <BoundingMax X="1.231363" Y="1.245540" Z="3.180970" />
-        <BoundingCenter X="0.137385" Y="0.582098" Z="-2.800361" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Misc_Timbers_Log1</Name>
         <File>dz\structures\industrial\misc\misc_timbers_log1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6504,7 +6504,7 @@
     <Template>
         <Name>Misc_Timbers_Log2</Name>
         <File>dz\structures\industrial\misc\misc_timbers_log2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6537,7 +6537,7 @@
     <Template>
         <Name>Misc_Timbers_Log3</Name>
         <File>dz\structures\industrial\misc\misc_timbers_log3.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6570,7 +6570,7 @@
     <Template>
         <Name>Misc_Timbers_Log4</Name>
         <File>dz\structures\industrial\misc\misc_timbers_log4.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6603,7 +6603,7 @@
     <Template>
         <Name>Misc_Timbers_Log5</Name>
         <File>dz\structures\industrial\misc\misc_timbers_log5.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6636,7 +6636,7 @@
     <Template>
         <Name>Misc_TirePile</Name>
         <File>dz\structures\industrial\misc\misc_tirepile.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6669,7 +6669,7 @@
     <Template>
         <Name>Misc_TirePile_Group</Name>
         <File>dz\structures\industrial\misc\misc_tirepile_group.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6702,7 +6702,7 @@
     <Template>
         <Name>Misc_WoodPile_Forest1</Name>
         <File>dz\structures\industrial\misc\misc_woodpile_forest1.p3d</File>
-        <Date>01/23/20 04:00:53</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6720,22 +6720,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.006522</BBRadius>
-        <BBHScale>1.487091</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.519260" Y="-0.017404" Z="-0.777674" />
-        <BoundingMax X="1.474320" Y="1.632770" Z="1.235370" />
-        <BoundingCenter X="-0.022470" Y="0.807683" Z="0.228848" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Misc_WoodPile_Forest2</Name>
         <File>dz\structures\industrial\misc\misc_woodpile_forest2.p3d</File>
-        <Date>01/23/20 04:00:54</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6753,22 +6753,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.006262</BBRadius>
-        <BBHScale>1.264243</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.231690" Y="-0.017407" Z="-0.766374" />
-        <BoundingMax X="1.312630" Y="1.604720" Z="1.246150" />
-        <BoundingCenter X="0.040470" Y="0.793656" Z="0.239888" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Misc_WoodPile_Forest3</Name>
         <File>dz\structures\industrial\misc\misc_woodpile_forest3.p3d</File>
-        <Date>01/23/20 04:00:57</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6786,22 +6786,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.172737</BBRadius>
-        <BBHScale>1.056571</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.389990" Y="-0.029575" Z="-0.893154" />
-        <BoundingMax X="1.088170" Y="1.557410" Z="1.452320" />
-        <BoundingCenter X="-0.150910" Y="0.763917" Z="0.279583" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Pipe_Big_18m</Name>
         <File>dz\structures\industrial\pipes\pipe_big_18m.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6834,7 +6834,7 @@
     <Template>
         <Name>Pipe_Big_18m_Ladder</Name>
         <File>dz\structures\industrial\pipes\pipe_big_18m_ladder.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6867,7 +6867,7 @@
     <Template>
         <Name>Pipe_Big_9m</Name>
         <File>dz\structures\industrial\pipes\pipe_big_9m.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6900,7 +6900,7 @@
     <Template>
         <Name>Pipe_Big_BuildL</Name>
         <File>dz\structures\industrial\pipes\pipe_big_buildl.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6933,7 +6933,7 @@
     <Template>
         <Name>Pipe_Big_BuildR</Name>
         <File>dz\structures\industrial\pipes\pipe_big_buildr.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6966,7 +6966,7 @@
     <Template>
         <Name>Pipe_Big_CornerL</Name>
         <File>dz\structures\industrial\pipes\pipe_big_cornerl.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6999,7 +6999,7 @@
     <Template>
         <Name>Pipe_Big_CornerR</Name>
         <File>dz\structures\industrial\pipes\pipe_big_cornerr.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7032,7 +7032,7 @@
     <Template>
         <Name>Pipe_Big_Ground1</Name>
         <File>dz\structures\industrial\pipes\pipe_big_ground1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7065,7 +7065,7 @@
     <Template>
         <Name>Pipe_Big_Ground2</Name>
         <File>dz\structures\industrial\pipes\pipe_big_ground2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7098,7 +7098,7 @@
     <Template>
         <Name>Pipe_Big_SmallConL</Name>
         <File>dz\structures\industrial\pipes\pipe_big_smallconl.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7131,7 +7131,7 @@
     <Template>
         <Name>Pipe_Big_SmallConR</Name>
         <File>dz\structures\industrial\pipes\pipe_big_smallconr.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7164,7 +7164,7 @@
     <Template>
         <Name>Pipe_Big_Support</Name>
         <File>dz\structures\industrial\pipes\pipe_big_support.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7197,7 +7197,7 @@
     <Template>
         <Name>Pipe_MedL_BuildR</Name>
         <File>dz\structures\industrial\pipes\pipe_medl_buildr.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7230,7 +7230,7 @@
     <Template>
         <Name>Pipe_MedL_CornerL</Name>
         <File>dz\structures\industrial\pipes\pipe_medl_cornerl.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7263,7 +7263,7 @@
     <Template>
         <Name>Pipe_MedL_CornerR</Name>
         <File>dz\structures\industrial\pipes\pipe_medl_cornerr.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7296,7 +7296,7 @@
     <Template>
         <Name>Pipe_MedR_BuildL</Name>
         <File>dz\structures\industrial\pipes\pipe_medr_buildl.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7329,7 +7329,7 @@
     <Template>
         <Name>Pipe_MedR_BuildR</Name>
         <File>dz\structures\industrial\pipes\pipe_medr_buildr.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7362,7 +7362,7 @@
     <Template>
         <Name>Pipe_Med_9m</Name>
         <File>dz\structures\industrial\pipes\pipe_med_9m.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7395,7 +7395,7 @@
     <Template>
         <Name>Pipe_Med_Ground1</Name>
         <File>dz\structures\industrial\pipes\pipe_med_ground1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7428,7 +7428,7 @@
     <Template>
         <Name>Pipe_Med_Ground2</Name>
         <File>dz\structures\industrial\pipes\pipe_med_ground2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7461,7 +7461,7 @@
     <Template>
         <Name>Pipe_Small_20m</Name>
         <File>dz\structures\industrial\pipes\pipe_small_20m.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7494,7 +7494,7 @@
     <Template>
         <Name>Pipe_Small_Broken</Name>
         <File>dz\structures\industrial\pipes\pipe_small_broken.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7527,7 +7527,7 @@
     <Template>
         <Name>Pipe_Small_Ground1</Name>
         <File>dz\structures\industrial\pipes\pipe_small_ground1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7560,7 +7560,7 @@
     <Template>
         <Name>Pipe_Small_Ground2</Name>
         <File>dz\structures\industrial\pipes\pipe_small_ground2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7593,7 +7593,7 @@
     <Template>
         <Name>Pipe_Small_L45</Name>
         <File>dz\structures\industrial\pipes\pipe_small_l45.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7626,7 +7626,7 @@
     <Template>
         <Name>Pipe_Small_L90</Name>
         <File>dz\structures\industrial\pipes\pipe_small_l90.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7659,7 +7659,7 @@
     <Template>
         <Name>Pipe_Small_R45</Name>
         <File>dz\structures\industrial\pipes\pipe_small_r45.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7692,7 +7692,7 @@
     <Template>
         <Name>Pipe_Small_R90</Name>
         <File>dz\structures\industrial\pipes\pipe_small_r90.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7725,7 +7725,7 @@
     <Template>
         <Name>Pipe_Small_Stairs</Name>
         <File>dz\structures\industrial\pipes\pipe_small_stairs.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7758,7 +7758,7 @@
     <Template>
         <Name>Pipe_Small_U</Name>
         <File>dz\structures\industrial\pipes\pipe_small_u.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7791,7 +7791,7 @@
     <Template>
         <Name>Pipe_Small_Valve</Name>
         <File>dz\structures\industrial\pipes\pipe_small_valve.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7824,7 +7824,7 @@
     <Template>
         <Name>Power_HV_Line</Name>
         <File>dz\structures\industrial\power\power_hv_line.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7857,7 +7857,7 @@
     <Template>
         <Name>Power_HV_Line_80m_damaged</Name>
         <File>dz\structures\industrial\power\power_hv_line_80m_damaged.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7890,7 +7890,7 @@
     <Template>
         <Name>Power_HV_Line_damaged</Name>
         <File>dz\structures\industrial\power\power_hv_line_damaged.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7923,7 +7923,7 @@
     <Template>
         <Name>Power_HV_Line_Turn</Name>
         <File>dz\structures\industrial\power\power_hv_line_turn.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7956,7 +7956,7 @@
     <Template>
         <Name>Power_HV_Line_TurnL</Name>
         <File>dz\structures\industrial\power\power_hv_line_turnl.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7989,7 +7989,7 @@
     <Template>
         <Name>Power_HV_Line_TurnR</Name>
         <File>dz\structures\industrial\power\power_hv_line_turnr.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8022,7 +8022,7 @@
     <Template>
         <Name>Power_HV_Tower</Name>
         <File>dz\structures\industrial\power\power_hv_tower.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8055,7 +8055,7 @@
     <Template>
         <Name>Power_Pole_Conc1</Name>
         <File>dz\structures\industrial\power\power_pole_conc1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8088,7 +8088,7 @@
     <Template>
         <Name>Power_Pole_Conc1_Amp</Name>
         <File>dz\structures\industrial\power\power_pole_conc1_amp.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8121,7 +8121,7 @@
     <Template>
         <Name>Power_Pole_Conc3</Name>
         <File>dz\structures\industrial\power\power_pole_conc3.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8154,7 +8154,7 @@
     <Template>
         <Name>Power_Pole_Conc4</Name>
         <File>dz\structures\industrial\power\power_pole_conc4.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8187,7 +8187,7 @@
     <Template>
         <Name>Power_Pole_Conc4_Lamp</Name>
         <File>dz\structures\industrial\power\power_pole_conc4_lamp.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8220,7 +8220,7 @@
     <Template>
         <Name>Power_Pole_Conc4_Lamp_Amp</Name>
         <File>dz\structures\industrial\power\power_pole_conc4_lamp_amp.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8253,7 +8253,7 @@
     <Template>
         <Name>Power_Pole_Conc4_Lamp_Trail_B</Name>
         <File>dz\structures\industrial\power\power_pole_conc4_lamp_trail_b.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8286,7 +8286,7 @@
     <Template>
         <Name>Power_Pole_Conc4_Lamp_Trail_G</Name>
         <File>dz\structures\industrial\power\power_pole_conc4_lamp_trail_g.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8319,7 +8319,7 @@
     <Template>
         <Name>Power_Pole_Conc4_Lamp_Trail_R</Name>
         <File>dz\structures\industrial\power\power_pole_conc4_lamp_trail_r.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8352,7 +8352,7 @@
     <Template>
         <Name>Power_Pole_Conc4_Lamp_Trail_Y</Name>
         <File>dz\structures\industrial\power\power_pole_conc4_lamp_trail_y.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8385,7 +8385,7 @@
     <Template>
         <Name>Power_Pole_ConcT</Name>
         <File>dz\structures\industrial\power\power_pole_conct.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8418,7 +8418,7 @@
     <Template>
         <Name>Power_Pole_Wood1</Name>
         <File>dz\structures\industrial\power\power_pole_wood1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8451,7 +8451,7 @@
     <Template>
         <Name>Power_Pole_Wood1_Amp</Name>
         <File>dz\structures\industrial\power\power_pole_wood1_amp.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8484,7 +8484,7 @@
     <Template>
         <Name>Power_Pole_Wood1_Lamp</Name>
         <File>dz\structures\industrial\power\power_pole_wood1_lamp.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8517,7 +8517,7 @@
     <Template>
         <Name>Power_Pole_Wood1_Lamp_Amp</Name>
         <File>dz\structures\industrial\power\power_pole_wood1_lamp_amp.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8550,7 +8550,7 @@
     <Template>
         <Name>Power_Pole_Wood1_Trail_B</Name>
         <File>dz\structures\industrial\power\power_pole_wood1_trail_b.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8583,7 +8583,7 @@
     <Template>
         <Name>Power_Pole_Wood1_Trail_G</Name>
         <File>dz\structures\industrial\power\power_pole_wood1_trail_g.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8616,7 +8616,7 @@
     <Template>
         <Name>Power_Pole_Wood1_Trail_R</Name>
         <File>dz\structures\industrial\power\power_pole_wood1_trail_r.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8649,7 +8649,7 @@
     <Template>
         <Name>Power_Pole_Wood1_Trail_Y</Name>
         <File>dz\structures\industrial\power\power_pole_wood1_trail_y.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8682,7 +8682,7 @@
     <Template>
         <Name>Power_Pole_Wood2</Name>
         <File>dz\structures\industrial\power\power_pole_wood2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8715,7 +8715,7 @@
     <Template>
         <Name>Power_Pole_Wood3</Name>
         <File>dz\structures\industrial\power\power_pole_wood3.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8748,7 +8748,7 @@
     <Template>
         <Name>Power_Station</Name>
         <File>dz\structures\industrial\power\power_station.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8781,7 +8781,7 @@
     <Template>
         <Name>Power_TransformerStation_Big</Name>
         <File>dz\structures\industrial\power\power_transformerstation_big.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8814,7 +8814,7 @@
     <Template>
         <Name>Power_TransformerStation_Cables</Name>
         <File>dz\structures\industrial\power\power_transformerstation_cables.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8847,7 +8847,7 @@
     <Template>
         <Name>Power_Transformer_Build</Name>
         <File>dz\structures\industrial\power\power_transformer_build.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8880,7 +8880,7 @@
     <Template>
         <Name>Power_Transformer_Small</Name>
         <File>dz\structures\industrial\power\power_transformer_small.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8913,7 +8913,7 @@
     <Template>
         <Name>Quarry_Conveyer</Name>
         <File>dz\structures\industrial\quarry\quarry_conveyer.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8946,7 +8946,7 @@
     <Template>
         <Name>Quarry_ConveyerLong</Name>
         <File>dz\structures\industrial\quarry\quarry_conveyerlong.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8979,7 +8979,7 @@
     <Template>
         <Name>Quarry_HammerMill</Name>
         <File>dz\structures\industrial\quarry\quarry_hammermill.p3d</File>
-        <Date>01/23/20 04:05:19</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8997,22 +8997,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.780420</BBRadius>
-        <BBHScale>0.650449</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.808521" Y="-0.100000" Z="-2.991841" />
-        <BoundingMax X="1.808521" Y="5.867470" Z="2.569000" />
-        <BoundingCenter X="0.000000" Y="2.883735" Z="-0.211420" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Quarry_Main</Name>
         <File>dz\structures\industrial\quarry\quarry_main.p3d</File>
-        <Date>01/23/20 04:06:28</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9030,22 +9030,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>18.377670</BBRadius>
-        <BBHScale>0.539829</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-10.287561" Y="-2.000700" Z="-19.723335" />
-        <BoundingMax X="9.554020" Y="17.196348" Z="17.032005" />
-        <BoundingCenter X="-0.366771" Y="7.597824" Z="-1.345665" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Sawmill_Building</Name>
         <File>dz\structures\industrial\sawmills\sawmill_building.p3d</File>
-        <Date>01/23/20 04:07:13</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9063,22 +9063,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>17.272211</BBRadius>
-        <BBHScale>0.796513</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-16.830332" Y="-2.153780" Z="-19.413721" />
-        <BoundingMax X="10.684757" Y="13.678001" Z="15.130701" />
-        <BoundingCenter X="-3.072787" Y="5.762111" Z="-2.141510" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Sawmill_IlluminantTower</Name>
         <File>dz\structures\industrial\sawmills\sawmill_illuminanttower.p3d</File>
-        <Date>01/23/20 04:07:16</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9096,22 +9096,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.975594</BBRadius>
-        <BBHScale>0.842631</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-2.507808" Y="-1.857600" Z="-3.475283" />
-        <BoundingMax X="2.506848" Y="21.799101" Z="2.475905" />
-        <BoundingCenter X="-0.000480" Y="9.970751" Z="-0.499689" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Ind_Sawmill_Saw</Name>
         <File>dz\structures\industrial\sawmills\proxy\ind_sawmill_saw.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9144,7 +9144,7 @@
     <Template>
         <Name>Shed_Closed</Name>
         <File>dz\structures\industrial\sheds\shed_closed.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9177,7 +9177,7 @@
     <Template>
         <Name>Shed_Open_Big</Name>
         <File>dz\structures\industrial\sheds\shed_open_big.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9210,7 +9210,7 @@
     <Template>
         <Name>Shed_Open_Big_end</Name>
         <File>dz\structures\industrial\sheds\shed_open_big_end.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9243,7 +9243,7 @@
     <Template>
         <Name>Shed_Open_Sawmill</Name>
         <File>dz\structures\industrial\sheds\shed_open_sawmill.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9276,7 +9276,7 @@
     <Template>
         <Name>Shed_Open_SideRoof</Name>
         <File>dz\structures\industrial\sheds\shed_open_sideroof.p3d</File>
-        <Date>01/23/20 04:08:27</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9294,22 +9294,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>9.784290</BBRadius>
-        <BBHScale>0.364528</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.016804" Y="-2.080540" Z="-9.677280" />
-        <BoundingMax X="7.116500" Y="3.902098" Z="9.891300" />
-        <BoundingCenter X="3.549848" Y="0.910779" Z="0.107010" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Shed_Open_Small</Name>
         <File>dz\structures\industrial\sheds\shed_open_small.p3d</File>
-        <Date>01/23/20 04:08:38</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9327,22 +9327,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.143877</BBRadius>
-        <BBHScale>1.911264</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.091787" Y="-1.392770" Z="-2.120620" />
-        <BoundingMax X="8.103241" Y="5.565180" Z="2.167133" />
-        <BoundingCenter X="4.005727" Y="2.086205" Z="0.023256" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Shed_Open_Small_end</Name>
         <File>dz\structures\industrial\sheds\shed_open_small_end.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9375,7 +9375,7 @@
     <Template>
         <Name>windows</Name>
         <File>dz\structures\industrial\sheds\proxy\windows.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9408,7 +9408,7 @@
     <Template>
         <Name>Smokestack_Big</Name>
         <File>dz\structures\industrial\smokestacks\smokestack_big.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9441,7 +9441,7 @@
     <Template>
         <Name>Smokestack_Brick</Name>
         <File>dz\structures\industrial\smokestacks\smokestack_brick.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9474,7 +9474,7 @@
     <Template>
         <Name>Smokestack_Medium</Name>
         <File>dz\structures\industrial\smokestacks\smokestack_medium.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9507,7 +9507,7 @@
     <Template>
         <Name>Smokestack_Metal</Name>
         <File>dz\structures\industrial\smokestacks\smokestack_metal.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9540,7 +9540,7 @@
     <Template>
         <Name>Tank_Big</Name>
         <File>dz\structures\industrial\tanks\tank_big.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9573,7 +9573,7 @@
     <Template>
         <Name>Tank_Medium</Name>
         <File>dz\structures\industrial\tanks\tank_medium.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9606,7 +9606,7 @@
     <Template>
         <Name>Tank_Medium_Stairs</Name>
         <File>dz\structures\industrial\tanks\tank_medium_stairs.p3d</File>
-        <Date>01/23/20 04:11:49</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9624,22 +9624,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.182588</BBRadius>
-        <BBHScale>3.778216</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-8.441060" Y="-0.303857" Z="-1.225260" />
-        <BoundingMax X="0.495086" Y="3.023612" Z="1.139916" />
-        <BoundingCenter X="-3.972987" Y="1.359878" Z="-0.042672" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Tank_Small_Gas</Name>
         <File>dz\structures\industrial\tanks\tank_small_gas.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9672,7 +9672,7 @@
     <Template>
         <Name>Tank_Small_Rusty</Name>
         <File>dz\structures\industrial\tanks\tank_small_rusty.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9705,7 +9705,7 @@
     <Template>
         <Name>Tank_Small_White</Name>
         <File>dz\structures\industrial\tanks\tank_small_white.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9738,7 +9738,7 @@
     <Template>
         <Name>Misc_Pallet_1</Name>
         <File>dz\structures\industrial\misc\misc_pallet.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9771,7 +9771,7 @@
     <Template>
         <Name>Misc_Pallets1_1</Name>
         <File>dz\structures\industrial\misc\misc_pallets1.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9804,7 +9804,7 @@
     <Template>
         <Name>Misc_Pallets2_1</Name>
         <File>dz\structures\industrial\misc\misc_pallets2.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9837,7 +9837,7 @@
     <Template>
         <Name>Misc_Pallets3_1</Name>
         <File>dz\structures\industrial\misc\misc_pallets3.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9870,7 +9870,7 @@
     <Template>
         <Name>Misc_Pipes_1</Name>
         <File>dz\structures\industrial\misc\misc_pipes.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:02</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>

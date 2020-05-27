@@ -3,7 +3,7 @@
     <Template>
         <Name>c_Anthoxanthum</Name>
         <File>dz\plants\clutter\c_anthoxanthum.p3d</File>
-        <Date>01/22/20 23:52:11</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -21,16 +21,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.675548</BBRadius>
-        <BBHScale>0.872652</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.672495" Y="-0.017614" Z="-0.603050" />
-        <BoundingMax X="0.506541" Y="1.937801" Z="0.748045" />
-        <BoundingCenter X="-0.082977" Y="0.960093" Z="0.072497" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
@@ -60,7 +60,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.878363</Height>
         <BoundingMin X="-0.841528" Y="-0.094687" Z="-0.597778" />
         <BoundingMax X="0.663814" Y="1.662038" Z="1.579558" />
         <BoundingCenter X="-0.088857" Y="0.783675" Z="0.490890" />
@@ -93,7 +93,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.336400</Height>
         <BoundingMin X="-0.533519" Y="-0.172801" Z="-0.582560" />
         <BoundingMax X="0.340782" Y="0.500000" Z="0.372427" />
         <BoundingCenter X="-0.096368" Y="0.163600" Z="-0.105067" />
@@ -102,7 +102,7 @@
     <Template>
         <Name>c_Broadleaf_sprouts_tall</Name>
         <File>dz\plants\clutter\c_broadleaf_sprouts_tall.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -135,7 +135,7 @@
     <Template>
         <Name>c_Calamagrostis</Name>
         <File>dz\plants\clutter\c_calamagrostis.p3d</File>
-        <Date>01/22/20 23:52:14</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -153,22 +153,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.603023</BBRadius>
-        <BBHScale>0.970971</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.606816" Y="-0.040393" Z="-0.601370" />
-        <BoundingMax X="0.564221" Y="1.205684" Z="0.604676" />
-        <BoundingCenter X="-0.021297" Y="0.582645" Z="0.001653" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>c_Carduus</Name>
         <File>dz\plants\clutter\c_carduus.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -201,7 +201,7 @@
     <Template>
         <Name>c_Carduus_f</Name>
         <File>dz\plants\clutter\c_carduus_f.p3d</File>
-        <Date>01/22/20 23:52:17</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -219,22 +219,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.682743</BBRadius>
-        <BBHScale>0.990347</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
-        <Height>0.787433</Height>
-        <BoundingMin X="-0.676153" Y="-0.072199" Z="-0.682743" />
-        <BoundingMax X="0.676153" Y="1.502667" Z="0.682743" />
-        <BoundingCenter X="0.000000" Y="0.715234" Z="0.000000" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>c_ConcreteGrass_bunch</Name>
         <File>dz\plants\clutter\c_concretegrass_bunch.p3d</File>
-        <Date>01/22/20 23:52:21</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -252,22 +252,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.376786</BBRadius>
+        <BBRadius>-1.000000</BBRadius>
         <BBHScale>1.000000</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
-        <Height>0.258887</Height>
-        <BoundingMin X="-0.390570" Y="-0.043495" Z="-0.482478" />
-        <BoundingMax X="0.363002" Y="0.474279" Z="0.271094" />
-        <BoundingCenter X="-0.013784" Y="0.215392" Z="-0.105692" />
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>c_Cones</Name>
         <File>dz\plants\clutter\c_cones.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -357,7 +357,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.367377</Height>
         <BoundingMin X="-0.970491" Y="-0.047308" Z="-0.904718" />
         <BoundingMax X="0.942527" Y="0.687446" Z="0.893803" />
         <BoundingCenter X="-0.013982" Y="0.320069" Z="-0.005457" />
@@ -366,7 +366,7 @@
     <Template>
         <Name>c_ElytrigiaDirt</Name>
         <File>dz\plants\clutter\c_elytrigiadirt.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -399,7 +399,7 @@
     <Template>
         <Name>c_ElytrigiaForest</Name>
         <File>dz\plants\clutter\c_elytrigiaforest.p3d</File>
-        <Date>01/22/20 23:52:22</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -417,22 +417,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.710939</BBRadius>
-        <BBHScale>1.106961</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.835757" Y="-0.056609" Z="-0.702453" />
-        <BoundingMax X="0.738206" Y="0.589919" Z="0.719425" />
-        <BoundingCenter X="-0.048775" Y="0.266655" Z="0.008486" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>c_ElytrigiaTall</Name>
         <File>dz\plants\clutter\c_elytrigiatall.p3d</File>
-        <Date>01/22/20 23:52:22</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -450,16 +450,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.534078</BBRadius>
-        <BBHScale>1.134930</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
-        <Height>0.448978</Height>
-        <BoundingMin X="-0.606142" Y="-0.051544" Z="-0.534078" />
-        <BoundingMax X="0.606142" Y="0.846412" Z="0.534078" />
-        <BoundingCenter X="0.000000" Y="0.397434" Z="0.000000" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
@@ -489,7 +489,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.367377</Height>
         <BoundingMin X="-0.970491" Y="-0.047308" Z="-0.904718" />
         <BoundingMax X="0.942527" Y="0.687446" Z="0.893803" />
         <BoundingCenter X="-0.013982" Y="0.320069" Z="-0.005457" />
@@ -498,7 +498,7 @@
     <Template>
         <Name>c_Hypericum</Name>
         <File>dz\plants\clutter\c_hypericum.p3d</File>
-        <Date>01/22/20 23:52:23</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -516,22 +516,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.575952</BBRadius>
-        <BBHScale>0.885211</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.509839" Y="-0.055270" Z="-0.575952" />
-        <BoundingMax X="0.509839" Y="1.374910" Z="0.575952" />
-        <BoundingCenter X="0.000000" Y="0.659820" Z="0.000000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>c_Hypericum_f</Name>
         <File>dz\plants\clutter\c_hypericum_f.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -597,7 +597,7 @@
     <Template>
         <Name>c_Lolium</Name>
         <File>dz\plants\clutter\c_lolium.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -630,7 +630,7 @@
     <Template>
         <Name>c_Pines</Name>
         <File>dz\plants\clutter\c_pines.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -663,7 +663,7 @@
     <Template>
         <Name>c_Polypodiophyta</Name>
         <File>dz\plants\clutter\c_polypodiophyta.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -696,7 +696,7 @@
     <Template>
         <Name>c_Polypodiophyta_b</Name>
         <File>dz\plants\clutter\c_polypodiophyta_b.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -729,7 +729,7 @@
     <Template>
         <Name>c_Polypodiophyta_c</Name>
         <File>dz\plants\clutter\c_polypodiophyta_c.p3d</File>
-        <Date>01/22/20 23:52:34</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -747,16 +747,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.883461</BBRadius>
-        <BBHScale>1.138945</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.969736" Y="-0.069280" Z="-0.879757" />
-        <BoundingMax X="1.042691" Y="0.635891" Z="0.887165" />
-        <BoundingCenter X="0.036477" Y="0.283306" Z="0.003704" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
@@ -795,7 +795,7 @@
     <Template>
         <Name>c_Taraxacum</Name>
         <File>dz\plants\clutter\c_taraxacum.p3d</File>
-        <Date>01/22/20 23:52:35</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -813,16 +813,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.370325</BBRadius>
-        <BBHScale>0.966850</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
-        <Height>0.058303</Height>
-        <BoundingMin X="-0.345199" Y="-0.032887" Z="-0.354518" />
-        <BoundingMax X="0.370899" Y="0.083719" Z="0.386132" />
-        <BoundingCenter X="0.012850" Y="0.025416" Z="0.015807" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
@@ -852,7 +852,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.164216</Height>
         <BoundingMin X="-0.876729" Y="-0.004654" Z="-0.829444" />
         <BoundingMax X="1.109834" Y="0.323778" Z="0.783443" />
         <BoundingCenter X="0.116552" Y="0.159562" Z="-0.023001" />
@@ -861,7 +861,7 @@
     <Template>
         <Name>c_Twigs_b</Name>
         <File>dz\plants\clutter\c_twigs_b.p3d</File>
-        <Date>01/22/20 23:52:39</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -879,22 +879,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.806443</BBRadius>
-        <BBHScale>1.231682</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
-        <Height>0.126246</Height>
-        <BoundingMin X="-0.876729" Y="-0.010008" Z="-0.829444" />
-        <BoundingMax X="1.109834" Y="0.242484" Z="0.783443" />
-        <BoundingCenter X="0.116552" Y="0.116238" Z="-0.023001" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>c_undergrowth</Name>
         <File>dz\plants\clutter\c_undergrowth.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -960,7 +960,7 @@
     <Template>
         <Name>c_Vaccinium</Name>
         <File>dz\plants\clutter\c_vaccinium.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -993,7 +993,7 @@
     <Template>
         <Name>c_Vaccinium_green</Name>
         <File>dz\plants\clutter\c_vaccinium_green.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -1026,7 +1026,7 @@
     <Template>
         <Name>c_Vaccinium_red</Name>
         <File>dz\plants\clutter\c_vaccinium_red.p3d</File>
-        <Date>01/22/20 23:52:43</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -1044,16 +1044,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.783589</BBRadius>
-        <BBHScale>1.266675</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
-        <Height>0.259506</Height>
-        <BoundingMin X="-0.992553" Y="-0.081485" Z="-0.819623" />
-        <BoundingMax X="0.992553" Y="0.437528" Z="0.747555" />
-        <BoundingCenter X="0.000000" Y="0.178022" Z="-0.036034" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
@@ -1083,7 +1083,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.643011</Height>
         <BoundingMin X="-1.024668" Y="-0.100746" Z="-0.958768" />
         <BoundingMax X="0.930829" Y="1.185275" Z="1.012128" />
         <BoundingCenter X="-0.046920" Y="0.542264" Z="0.026680" />
@@ -1092,7 +1092,7 @@
     <Template>
         <Name>l_large_pile</Name>
         <File>dz\plants\clutter\l_large_pile.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -1125,7 +1125,7 @@
     <Template>
         <Name>l_long_pile_a</Name>
         <File>dz\plants\clutter\l_long_pile_a.p3d</File>
-        <Date>01/22/20 23:52:46</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -1143,16 +1143,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.690126</BBRadius>
-        <BBHScale>1.449012</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
-        <Height>0.156162</Height>
-        <BoundingMin X="-1.000000" Y="-0.026196" Z="-0.656413" />
-        <BoundingMax X="1.000000" Y="0.286127" Z="0.723838" />
-        <BoundingCenter X="0.000000" Y="0.129965" Z="0.033713" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
@@ -1182,7 +1182,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.130081</Height>
         <BoundingMin X="-1.334560" Y="-0.036048" Z="-0.600000" />
         <BoundingMax X="1.250000" Y="0.224115" Z="0.600000" />
         <BoundingCenter X="-0.042280" Y="0.094034" Z="0.000000" />
@@ -1191,7 +1191,7 @@
     <Template>
         <Name>l_plane</Name>
         <File>dz\plants\clutter\l_plane.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -1224,7 +1224,7 @@
     <Template>
         <Name>l_plane_long</Name>
         <File>dz\plants\clutter\l_plane_long.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -1257,7 +1257,7 @@
     <Template>
         <Name>p_articum</Name>
         <File>dz\plants\clutter\p_articum.p3d</File>
-        <Date>05/22/20 20:37:20</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -1314,7 +1314,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.872311</Height>
         <BoundingMin X="-0.205797" Y="-0.204881" Z="-0.213247" />
         <BoundingMax X="0.249882" Y="1.539740" Z="0.280449" />
         <BoundingCenter X="0.022043" Y="0.667430" Z="0.033601" />
@@ -1323,7 +1323,7 @@
     <Template>
         <Name>p_heracleum</Name>
         <File>dz\plants\clutter\p_heracleum.p3d</File>
-        <Date>01/22/20 23:53:01</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -1341,16 +1341,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.884815</BBRadius>
-        <BBHScale>1.292071</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.078365" Y="-0.162164" Z="-1.145499" />
-        <BoundingMax X="1.208124" Y="1.637808" Z="0.624132" />
-        <BoundingCenter X="0.064879" Y="0.737822" Z="-0.260684" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
@@ -1389,7 +1389,7 @@
     <Template>
         <Name>p_urtica</Name>
         <File>dz\plants\clutter\p_urtica.p3d</File>
-        <Date>01/22/20 23:53:12</Date>
+        <Date>05/21/20 21:43:01</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -1407,16 +1407,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.563849</BBRadius>
-        <BBHScale>0.983771</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.397848" Y="-0.058328" Z="-0.291160" />
-        <BoundingMax X="0.711549" Y="0.867824" Z="0.836539" />
-        <BoundingCenter X="0.156850" Y="0.404748" Z="0.272689" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
 </Library>
