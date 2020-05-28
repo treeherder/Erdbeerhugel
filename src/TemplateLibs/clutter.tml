@@ -3,7 +3,7 @@
     <Template>
         <Name>c_Anthoxanthum</Name>
         <File>dz\plants\clutter\c_anthoxanthum.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -102,7 +102,7 @@
     <Template>
         <Name>c_Broadleaf_sprouts_tall</Name>
         <File>dz\plants\clutter\c_broadleaf_sprouts_tall.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -168,7 +168,7 @@
     <Template>
         <Name>c_Carduus</Name>
         <File>dz\plants\clutter\c_carduus.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -267,7 +267,7 @@
     <Template>
         <Name>c_Cones</Name>
         <File>dz\plants\clutter\c_cones.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -333,7 +333,7 @@
     <Template>
         <Name>c_Elytrigia</Name>
         <File>dz\plants\clutter\c_elytrigia.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -399,7 +399,7 @@
     <Template>
         <Name>c_ElytrigiaForest</Name>
         <File>dz\plants\clutter\c_elytrigiaforest.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -465,7 +465,7 @@
     <Template>
         <Name>c_Elytrigia_green</Name>
         <File>dz\plants\clutter\c_elytrigia_green.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -498,7 +498,7 @@
     <Template>
         <Name>c_Hypericum</Name>
         <File>dz\plants\clutter\c_hypericum.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -531,7 +531,7 @@
     <Template>
         <Name>c_Hypericum_f</Name>
         <File>dz\plants\clutter\c_hypericum_f.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -597,7 +597,7 @@
     <Template>
         <Name>c_Lolium</Name>
         <File>dz\plants\clutter\c_lolium.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -630,7 +630,7 @@
     <Template>
         <Name>c_Pines</Name>
         <File>dz\plants\clutter\c_pines.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -663,7 +663,7 @@
     <Template>
         <Name>c_Polypodiophyta</Name>
         <File>dz\plants\clutter\c_polypodiophyta.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -696,7 +696,7 @@
     <Template>
         <Name>c_Polypodiophyta_b</Name>
         <File>dz\plants\clutter\c_polypodiophyta_b.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -729,7 +729,7 @@
     <Template>
         <Name>c_Polypodiophyta_c</Name>
         <File>dz\plants\clutter\c_polypodiophyta_c.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -786,7 +786,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.641200</Height>
         <BoundingMin X="-1.283010" Y="-0.018047" Z="-1.382582" />
         <BoundingMax X="1.696096" Y="1.264353" Z="1.484566" />
         <BoundingCenter X="0.206543" Y="0.623153" Z="0.050992" />
@@ -861,7 +861,7 @@
     <Template>
         <Name>c_Twigs_b</Name>
         <File>dz\plants\clutter\c_twigs_b.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -894,7 +894,7 @@
     <Template>
         <Name>c_undergrowth</Name>
         <File>dz\plants\clutter\c_undergrowth.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -960,7 +960,7 @@
     <Template>
         <Name>c_Vaccinium</Name>
         <File>dz\plants\clutter\c_vaccinium.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -993,7 +993,7 @@
     <Template>
         <Name>c_Vaccinium_green</Name>
         <File>dz\plants\clutter\c_vaccinium_green.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -1125,7 +1125,7 @@
     <Template>
         <Name>l_long_pile_a</Name>
         <File>dz\plants\clutter\l_long_pile_a.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -1191,7 +1191,7 @@
     <Template>
         <Name>l_plane</Name>
         <File>dz\plants\clutter\l_plane.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -1224,7 +1224,7 @@
     <Template>
         <Name>l_plane_long</Name>
         <File>dz\plants\clutter\l_plane_long.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -1257,7 +1257,7 @@
     <Template>
         <Name>p_articum</Name>
         <File>dz\plants\clutter\p_articum.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -1389,7 +1389,7 @@
     <Template>
         <Name>p_urtica</Name>
         <File>dz\plants\clutter\p_urtica.p3d</File>
-        <Date>05/27/20 20:27:01</Date>
+        <Date>05/27/20 21:27:40</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
