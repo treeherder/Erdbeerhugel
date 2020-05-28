@@ -16,12 +16,13 @@ This will be an ongoing attempt to document the setup and workflow for developin
 
 ### Order of Operations:
 1. Select a location.
-2. Acquire available data in image format.
-3. Compile and clip the images using qgis.
-  * generate masks?
-4. Load images into L3DT and create 3d map with basic layers, re-export as validated layer images.
-5. Setup the map and assets in terrain builder.
-6. Get to work developing on a new map!
+2. Acquire available image data.
+3. Resize and compile satellite images and height field images.
+4. Pin, rotate, and crop the images.
+  * generate surface image mask?
+5. Load images into L3DT and create 3d map with basic layers, re-export as validated layer images.
+6. Setup the map and assets in terrain builder.
+7. Get to work developing on a new map!
 
 
 #### 1. Select a location
@@ -31,7 +32,7 @@ Hopefully if you're following this tutorial, you already have some sort of locat
 
 
 
-##### Using EarthExplorer
+#### 2. Acquire available images Using EarthExplorer
 ---------------------------
 [EarthExplorer](https://earthexplorer.usgs.gov/) is a free (if slow) database of GIS satellite data hosted by the US Geological survey.  Navigate to the desired landmass and highlight it using the map pins.
 
