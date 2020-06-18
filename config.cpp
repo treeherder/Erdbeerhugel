@@ -264,44 +264,7 @@ class CfgWorlds
 		};
 	};
 };
-// class CfgSurfaceCharacters
-// {
-	// class cp_grass
-	// {
-		// probability[] = {0.1735,0.025,0.025,0.70,0.0015,0.05};
-		// names[] = {"Anthoxanthum","Carduus","Hypericum","Elytrigia","Calamagrostis","ElytrigiaTall"};
-	// };
-	// class cp_conifer_common1
-	// {	
-		// probability[] = {0.05,0.20,0.10,0.5985,0.0015,0.05};
-		// names[] = {"Twigs","Vaccinium","Vaccinium_tall","Elytrigia","Hypericum","cones"};
-        // };
-	// class cp_broadleaf_sparse1
-	// {	
-		// probability[] = {0.05,0.20,0.10,0.5985,0.0015};
-		// names[] = {"Twigs","Vaccinium","Vaccinium_tall","Elytrigia","Hypericum"};
-        // };
-	// class cp_conifer_moss1
-	// {	
-                // probability[] = {0.05,0.20,0.10,0.5985,0.0015,0.05};
-		// names[] = {"Twigs","Vaccinium","Vaccinium_tall","Elytrigia","Hypericum","cones"};
-        // };
-	// class cp_conifer_common2
-	// {	
-		// probability[] = {0.05,0.20,0.10,0.5985,0.0015};
-		// names[] = {"Twigs","Vaccinium","Vaccinium_tall","Elytrigia","Hypericum"};
-        // };
-	// class cp_dirt
-	// {
-		// probability[] = {0.5,0.5};
-		// names[] = {"Carduus","Twigs"};
-        // };
-	// class cp_rock
-	// {
-		// probability[] = {0.2};
-		// names[] = {"Anthoxanthum"};
-        // };
-// };
+
 class CfgWorldList
 {
 	class Erdbeerhugel{};
