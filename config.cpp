@@ -40,14 +40,14 @@ class CfgWorlds
 		class AISpawnerParams{};
 		class OutsideTerrain
 		{
-			satellite = "DZ\rocks\Data\MainTextures\terrain\cp_gravel_co.paa";
+			satellite = "DZ\rocks\Data\MainTextures\quarry\bluntstone_co.paa";
 			enableTerrainSynth = "true";
 			class Layers
 			{
 				class Layer0
 				{
-					nopx = "DZ\surfaces\data\terrain\cp_gravel_nopx.paa";
-					texture = "DZ\surfaces\data\terrain\cp_gravel_ca.paa";
+					nopx = "DZ\surfaces_bliss\data\terrain\en_stones_nopx.paa";
+					texture = "DZ\surfaces_bliss\data\terrain\en_stones_ca.paa";
 				};
 			};
 		};
@@ -123,148 +123,46 @@ class CfgWorlds
 			minSlope = 0.02;
 		};
 		class Ambient{};
-		
-		
-	    class Navmesh
-		{
-			navmeshName="\dz\Worlds\chernarusplus\navmesh\navmesh.nm";
-			filterIsolatedIslandsOnLoad = true;
-			visualiseOffset = 0.0;
-
-			class GenParams
-			{
-				tileWidth = 50.0;
-				
-				cellSize1 = 0.25;
-				cellSize2 = 0.1;
-				cellSize3 = 0.1;
-				
-				filterIsolatedIslands = true;
-				seedPosition[] = {7500, 0, 7500};
-				
-				class Agent
-				{
-					diameter = 0.6;
-					
-					standHeight = 1.5;
-					crouchHeight = 1.0;
-					proneHeight = 0.5;
-					
-					maxStepHeight = 0.45;
-					maxSlope = 60.0;
-				};
-				
-				class Links
-				{	
-					class ZedJump387_050
-					{
-						jumpLength = 1.50;
-						jumpHeight = 0.50;
-						minCenterHeight = 0.3;
-						jumpDropdownMin = 0.5;
-						jumpDropdownMax = -0.5;
-						areaType="jump0";
-						flags[] = {"jumpOver"};
-						color = 0x66ff0000;
-					};
-					class ZedJump388_050
-					{
-						jumpLength = 1.50;
-						jumpHeight = 0.50;
-						minCenterHeight = -0.5;
-						jumpDropdownMin = 0.5;
-						jumpDropdownMax = -0.5;
-						areaType="jump0";
-						flags[] = {"jumpOver"};
-						color = 0x66dd5500;
-					};
-					class ZedJump387_110
-					{
-						jumpLength = 3.90;
-						jumpHeight = 1.1;
-						minCenterHeight = 0.5;
-						jumpDropdownMin = 0.5;
-						jumpDropdownMax = -0.5;
-						areaType="jump0";
-						flags[] = {"jumpOver"};
-						color = 0x66008000;
-					};
-					class ZedJump420_160
-					{
-						jumpLength = 4.0;
-						jumpHeight = 1.6;
-						minCenterHeight = 1.1;
-						jumpDropdownMin = 0.5;
-						jumpDropdownMax = -0.5;
-						areaType="jump0";
-						flags[] = {"jumpOver"};
-						color = 0x660000ff;
-					};
-					class ZedJump265_210
-					{
-						jumpLength = 2.45;
-						jumpHeight = 2.5;
-						minCenterHeight = 1.8;
-						jumpDropdownMin = 0.5;
-						jumpDropdownMax = -0.5;
-						areaType="jump0";
-						flags[] = {"climb"};
-						color = 0x669400d3;
-					};
-					class Fence50_110deer
-					{
-						typeId = 100;
-						jumpLength = 8.0;
-						jumpHeight = 1.1;
-						minCenterHeight = 0.5;
-						jumpDropdownMin = 1.0;
-						jumpDropdownMax = -1.0;
-						areaType="jump2";
-						flags[] = {"jumpOver"};
-						color = 0x66aaaaFF;
-					};
-					class Fence110_160deer 
-					{
-						typeId = 101;
-						jumpLength = 8.0;
-						jumpHeight = 1.6;
-						minCenterHeight = 1.1;
-						jumpDropdownMin = 1.0;
-						jumpDropdownMax = -1.0;
-						areaType="jump3";
-						flags[] = {"jumpOver"};
-						color = 0x6624fff8;
-					};
-					class Fence50_110hen
-					{
-						typeId = 110;
-						jumpLength = 4.0;
-						jumpHeight = 1.1;
-						minCenterHeight = 0.5;
-						jumpDropdownMin = 0.5;
-						jumpDropdownMax = -0.5;
-						areaType="jump4";
-						flags[] = {"jumpOver"};
-						color = 0xFFFFAA00;
-					};
-					class Fence110_160hen
-					{
-						typeId = 111;
-						jumpLength = 4.0;
-						jumpHeight = 1.6;
-						minCenterHeight = 1.1;
-						jumpDropdownMin = 0.5;
-						jumpDropdownMax = -0.5;
-						areaType="jump4";
-						flags[] = {"jumpOver"};
-						color = 0xFFFFAA00;
-					};
-				};
-			};
-		};
 	};
 };
-
+// class CfgSurfaceCharacters
+// {
+	// class cp_grass
+	// {
+		// probability[] = {0.1735,0.025,0.025,0.70,0.0015,0.05};
+		// names[] = {"Anthoxanthum","Carduus","Hypericum","Elytrigia","Calamagrostis","ElytrigiaTall"};
+	// };
+	// class cp_conifer_common1
+	// {	
+		// probability[] = {0.05,0.20,0.10,0.5985,0.0015,0.05};
+		// names[] = {"Twigs","Vaccinium","Vaccinium_tall","Elytrigia","Hypericum","cones"};
+        // };
+	// class cp_broadleaf_sparse1
+	// {	
+		// probability[] = {0.05,0.20,0.10,0.5985,0.0015};
+		// names[] = {"Twigs","Vaccinium","Vaccinium_tall","Elytrigia","Hypericum"};
+        // };
+	// class cp_conifer_moss1
+	// {	
+                // probability[] = {0.05,0.20,0.10,0.5985,0.0015,0.05};
+		// names[] = {"Twigs","Vaccinium","Vaccinium_tall","Elytrigia","Hypericum","cones"};
+        // };
+	// class cp_conifer_common2
+	// {	
+		// probability[] = {0.05,0.20,0.10,0.5985,0.0015};
+		// names[] = {"Twigs","Vaccinium","Vaccinium_tall","Elytrigia","Hypericum"};
+        // };
+	// class cp_dirt
+	// {
+		// probability[] = {0.5,0.5};
+		// names[] = {"Carduus","Twigs"};
+        // };
+	// class cp_rock
+	// {
+		// probability[] = {0.2};
+		// names[] = {"Anthoxanthum"};
+        // };
+// };
 class CfgWorldList
 {
 	class Erdbeerhugel{};

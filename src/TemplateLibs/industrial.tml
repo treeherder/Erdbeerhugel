@@ -3,7 +3,7 @@
     <Template>
         <Name>CementWorks_ConveyorFurnace</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyorfurnace.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -69,7 +69,7 @@
     <Template>
         <Name>CementWorks_ConveyorMillA</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyormilla.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -102,7 +102,7 @@
     <Template>
         <Name>CementWorks_ConveyorMillB</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyormillb.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -135,7 +135,7 @@
     <Template>
         <Name>CementWorks_ConveyorTowerA</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyortowera.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -168,7 +168,7 @@
     <Template>
         <Name>CementWorks_ConveyorTowerB</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyortowerb.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -201,7 +201,7 @@
     <Template>
         <Name>CementWorks_ConveyorTowerC</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyortowerc.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -234,7 +234,7 @@
     <Template>
         <Name>CementWorks_Conveyor_Up1</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyor_up1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -267,7 +267,7 @@
     <Template>
         <Name>CementWorks_Conveyor_Up2</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyor_up2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -300,7 +300,7 @@
     <Template>
         <Name>CementWorks_Conveyor_Up3</Name>
         <File>dz\structures\industrial\cementworks\cementworks_conveyor_up3.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -333,7 +333,7 @@
     <Template>
         <Name>CementWorks_ExpeditionA</Name>
         <File>dz\structures\industrial\cementworks\cementworks_expeditiona.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -366,7 +366,7 @@
     <Template>
         <Name>CementWorks_ExpeditionB</Name>
         <File>dz\structures\industrial\cementworks\cementworks_expeditionb.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -399,7 +399,7 @@
     <Template>
         <Name>CementWorks_ExpeditionC</Name>
         <File>dz\structures\industrial\cementworks\cementworks_expeditionc.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -432,7 +432,7 @@
     <Template>
         <Name>CementWorks_Hall1</Name>
         <File>dz\structures\industrial\cementworks\cementworks_hall1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -465,7 +465,7 @@
     <Template>
         <Name>CementWorks_Hall2_Brick</Name>
         <File>dz\structures\industrial\cementworks\cementworks_hall2_brick.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -498,7 +498,7 @@
     <Template>
         <Name>CementWorks_Hall2_Grey</Name>
         <File>dz\structures\industrial\cementworks\cementworks_hall2_grey.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -531,7 +531,7 @@
     <Template>
         <Name>CementWorks_MillA</Name>
         <File>dz\structures\industrial\cementworks\cementworks_milla.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -564,7 +564,7 @@
     <Template>
         <Name>CementWorks_MillB</Name>
         <File>dz\structures\industrial\cementworks\cementworks_millb.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -597,7 +597,7 @@
     <Template>
         <Name>CementWorks_MillC</Name>
         <File>dz\structures\industrial\cementworks\cementworks_millc.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -630,7 +630,7 @@
     <Template>
         <Name>CementWorks_MillD</Name>
         <File>dz\structures\industrial\cementworks\cementworks_milld.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -696,7 +696,7 @@
     <Template>
         <Name>CementWorks_SiloBig1A</Name>
         <File>dz\structures\industrial\cementworks\cementworks_silobig1a.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -729,7 +729,7 @@
     <Template>
         <Name>CementWorks_SiloBig1B</Name>
         <File>dz\structures\industrial\cementworks\cementworks_silobig1b.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -762,7 +762,7 @@
     <Template>
         <Name>CementWorks_SiloBig1Bridge</Name>
         <File>dz\structures\industrial\cementworks\cementworks_silobig1bridge.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -828,7 +828,7 @@
     <Template>
         <Name>CementWorks_MillA_bricks</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_milla_bricks.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -861,7 +861,7 @@
     <Template>
         <Name>CementWorks_MillA_metal</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_milla_metal.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -894,7 +894,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Controlpanel</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_controlpanel.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -927,7 +927,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Dirt</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_dirt.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -960,7 +960,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_HeatExchanger1</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_heatexchanger1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -993,7 +993,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_HeatExchanger2</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_heatexchanger2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1026,7 +1026,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Pipes1</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_pipes1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1059,7 +1059,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Pipes2</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_pipes2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1092,7 +1092,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_railings</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_railings.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1125,7 +1125,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_RotaryKiln1</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_rotarykiln1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1158,7 +1158,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_RotaryKiln2</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_rotarykiln2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1191,7 +1191,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Silo_Big</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_silo_big.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1224,7 +1224,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Tank</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_tank.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1257,7 +1257,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Tank2</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_tank2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1290,7 +1290,7 @@
     <Template>
         <Name>CementWorks_RotFurnace_Windows</Name>
         <File>dz\structures\industrial\cementworks\proxy\cementworks_rotfurnace_windows.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1389,7 +1389,7 @@
     <Template>
         <Name>Ind_TankSmall2_fix</Name>
         <File>dz\structures\industrial\cementworks\proxy\ind_tanksmall2_fix.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1488,7 +1488,7 @@
     <Template>
         <Name>Misc_Pallets1</Name>
         <File>dz\structures\industrial\cementworks\proxy\misc_pallets1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1587,7 +1587,7 @@
     <Template>
         <Name>Misc_Pipes</Name>
         <File>dz\structures\industrial\cementworks\proxy\misc_pipes.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1620,7 +1620,7 @@
     <Template>
         <Name>Rubble_Glass</Name>
         <File>dz\structures\industrial\cementworks\proxy\rubble_glass.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1653,7 +1653,7 @@
     <Template>
         <Name>CoalPlant_Conveyor</Name>
         <File>dz\structures\industrial\coalplant\coalplant_conveyor.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1686,7 +1686,7 @@
     <Template>
         <Name>CoalPlant_LoadingHouse</Name>
         <File>dz\structures\industrial\coalplant\coalplant_loadinghouse.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1719,7 +1719,7 @@
     <Template>
         <Name>CoalPlant_Main</Name>
         <File>dz\structures\industrial\coalplant\coalplant_main.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1752,7 +1752,7 @@
     <Template>
         <Name>CoalPlant_Main_AIRCONDUCT</Name>
         <File>dz\structures\industrial\coalplant\proxy\coalplant_main_airconduct.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1785,7 +1785,7 @@
     <Template>
         <Name>CoalPlant_Main_EXT_DETAILS</Name>
         <File>dz\structures\industrial\coalplant\proxy\coalplant_main_ext_details.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1818,7 +1818,7 @@
     <Template>
         <Name>CoalPlant_Main_EXT_DETAILS_2</Name>
         <File>dz\structures\industrial\coalplant\proxy\coalplant_main_ext_details_2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1851,7 +1851,7 @@
     <Template>
         <Name>CoalPlant_Main_EXT_STAIRS</Name>
         <File>dz\structures\industrial\coalplant\proxy\coalplant_main_ext_stairs.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1884,7 +1884,7 @@
     <Template>
         <Name>CoalPlant_Main_INT_STAIRS</Name>
         <File>dz\structures\industrial\coalplant\proxy\coalplant_main_int_stairs.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1917,7 +1917,7 @@
     <Template>
         <Name>CoalPlant_Main_WINDOWS</Name>
         <File>dz\structures\industrial\coalplant\proxy\coalplant_main_windows.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1950,7 +1950,7 @@
     <Template>
         <Name>Construction_Building</Name>
         <File>dz\structures\industrial\construction\construction_building.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2082,7 +2082,7 @@
     <Template>
         <Name>A_buildingwip_proxy</Name>
         <File>dz\structures\industrial\construction\proxy\a_buildingwip_proxy.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2115,7 +2115,7 @@
     <Template>
         <Name>barricade_proxy</Name>
         <File>dz\structures\industrial\construction\proxy\barricade_proxy.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2148,7 +2148,7 @@
     <Template>
         <Name>cihly1</Name>
         <File>dz\structures\industrial\construction\proxy\cihly1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2181,7 +2181,7 @@
     <Template>
         <Name>cihly2</Name>
         <File>dz\structures\industrial\construction\proxy\cihly2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2214,7 +2214,7 @@
     <Template>
         <Name>cihly3</Name>
         <File>dz\structures\industrial\construction\proxy\cihly3.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2247,7 +2247,7 @@
     <Template>
         <Name>cihly4</Name>
         <File>dz\structures\industrial\construction\proxy\cihly4.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2280,7 +2280,7 @@
     <Template>
         <Name>koz</Name>
         <File>dz\structures\industrial\construction\proxy\koz.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2313,7 +2313,7 @@
     <Template>
         <Name>pipe-big</Name>
         <File>dz\structures\industrial\construction\proxy\pipe-big.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2346,7 +2346,7 @@
     <Template>
         <Name>pipe-small</Name>
         <File>dz\structures\industrial\construction\proxy\pipe-small.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2379,7 +2379,7 @@
     <Template>
         <Name>ytong</Name>
         <File>dz\structures\industrial\construction\proxy\ytong.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2412,7 +2412,7 @@
     <Template>
         <Name>Container_1A</Name>
         <File>dz\structures\industrial\containers\container_1a.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2445,7 +2445,7 @@
     <Template>
         <Name>Container_1Aoh</Name>
         <File>dz\structures\industrial\containers\container_1aoh.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2478,7 +2478,7 @@
     <Template>
         <Name>Container_1B</Name>
         <File>dz\structures\industrial\containers\container_1b.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2511,7 +2511,7 @@
     <Template>
         <Name>Container_1Bo</Name>
         <File>dz\structures\industrial\containers\container_1bo.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2544,7 +2544,7 @@
     <Template>
         <Name>Container_1C</Name>
         <File>dz\structures\industrial\containers\container_1c.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2577,7 +2577,7 @@
     <Template>
         <Name>Container_1D</Name>
         <File>dz\structures\industrial\containers\container_1d.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2610,7 +2610,7 @@
     <Template>
         <Name>Container_1Mo</Name>
         <File>dz\structures\industrial\containers\container_1mo.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2643,7 +2643,7 @@
     <Template>
         <Name>Container_1Moh</Name>
         <File>dz\structures\industrial\containers\container_1moh.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2676,7 +2676,7 @@
     <Template>
         <Name>Container_2A</Name>
         <File>dz\structures\industrial\containers\container_2a.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2709,7 +2709,7 @@
     <Template>
         <Name>Container_2B</Name>
         <File>dz\structures\industrial\containers\container_2b.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2742,7 +2742,7 @@
     <Template>
         <Name>Container_2C</Name>
         <File>dz\structures\industrial\containers\container_2c.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2775,7 +2775,7 @@
     <Template>
         <Name>Container_2D</Name>
         <File>dz\structures\industrial\containers\container_2d.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2808,7 +2808,7 @@
     <Template>
         <Name>Container_2E</Name>
         <File>dz\structures\industrial\containers\container_2e.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2841,7 +2841,7 @@
     <Template>
         <Name>Dam_Concrete_20</Name>
         <File>dz\structures\industrial\dams\dam_concrete_20.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2874,7 +2874,7 @@
     <Template>
         <Name>Dam_Concrete_20_Floodgate</Name>
         <File>dz\structures\industrial\dams\dam_concrete_20_floodgate.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2907,7 +2907,7 @@
     <Template>
         <Name>Dam_Stone_40</Name>
         <File>dz\structures\industrial\dams\dam_stone_40.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2940,7 +2940,7 @@
     <Template>
         <Name>Barn_Brick1</Name>
         <File>dz\structures\industrial\farms\barn_brick1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2973,7 +2973,7 @@
     <Template>
         <Name>Barn_Brick2</Name>
         <File>dz\structures\industrial\farms\barn_brick2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3039,7 +3039,7 @@
     <Template>
         <Name>Barn_Wood1</Name>
         <File>dz\structures\industrial\farms\barn_wood1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3105,7 +3105,7 @@
     <Template>
         <Name>Farm_CowshedA</Name>
         <File>dz\structures\industrial\farms\farm_cowsheda.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3138,7 +3138,7 @@
     <Template>
         <Name>Farm_CowshedB</Name>
         <File>dz\structures\industrial\farms\farm_cowshedb.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3171,7 +3171,7 @@
     <Template>
         <Name>Farm_CowshedC</Name>
         <File>dz\structures\industrial\farms\farm_cowshedc.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3237,7 +3237,7 @@
     <Template>
         <Name>Farm_StrawStack</Name>
         <File>dz\structures\industrial\farms\farm_strawstack.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3270,7 +3270,7 @@
     <Template>
         <Name>Farm_WaterTower</Name>
         <File>dz\structures\industrial\farms\farm_watertower.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3336,7 +3336,7 @@
     <Template>
         <Name>barn_metal_lod1_proxy</Name>
         <File>dz\structures\industrial\farms\proxy\barn_metal_lod1_proxy.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3369,7 +3369,7 @@
     <Template>
         <Name>barn_roofconstr_proxy</Name>
         <File>dz\structures\industrial\farms\proxy\barn_roofconstr_proxy.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3402,7 +3402,7 @@
     <Template>
         <Name>Boxy_a</Name>
         <File>dz\structures\industrial\farms\proxy\boxy_a.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3435,7 +3435,7 @@
     <Template>
         <Name>Boxy_b</Name>
         <File>dz\structures\industrial\farms\proxy\boxy_b.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3468,7 +3468,7 @@
     <Template>
         <Name>Boxy_c</Name>
         <File>dz\structures\industrial\farms\proxy\boxy_c.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3501,7 +3501,7 @@
     <Template>
         <Name>Boxy_d</Name>
         <File>dz\structures\industrial\farms\proxy\boxy_d.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3534,7 +3534,7 @@
     <Template>
         <Name>Boxy_e</Name>
         <File>dz\structures\industrial\farms\proxy\boxy_e.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3567,7 +3567,7 @@
     <Template>
         <Name>okna_a</Name>
         <File>dz\structures\industrial\farms\proxy\okna_a.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3600,7 +3600,7 @@
     <Template>
         <Name>okna_b</Name>
         <File>dz\structures\industrial\farms\proxy\okna_b.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3633,7 +3633,7 @@
     <Template>
         <Name>tram_a</Name>
         <File>dz\structures\industrial\farms\proxy\tram_a.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3666,7 +3666,7 @@
     <Template>
         <Name>tram_b</Name>
         <File>dz\structures\industrial\farms\proxy\tram_b.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3699,7 +3699,7 @@
     <Template>
         <Name>Garage_Big</Name>
         <File>dz\structures\industrial\garages\garage_big.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3765,7 +3765,7 @@
     <Template>
         <Name>Garage_Row_Big</Name>
         <File>dz\structures\industrial\garages\garage_row_big.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3798,7 +3798,7 @@
     <Template>
         <Name>Garage_Row_Small</Name>
         <File>dz\structures\industrial\garages\garage_row_small.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3831,7 +3831,7 @@
     <Template>
         <Name>Garage_Small</Name>
         <File>dz\structures\industrial\garages\garage_small.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3864,7 +3864,7 @@
     <Template>
         <Name>Boathouse</Name>
         <File>dz\structures\industrial\harbour\boathouse.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3897,7 +3897,7 @@
     <Template>
         <Name>Boathouse_PierL</Name>
         <File>dz\structures\industrial\harbour\boathouse_pierl.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3930,7 +3930,7 @@
     <Template>
         <Name>Boathouse_PierR</Name>
         <File>dz\structures\industrial\harbour\boathouse_pierr.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -3963,7 +3963,7 @@
     <Template>
         <Name>Boathouse_PierT</Name>
         <File>dz\structures\industrial\harbour\boathouse_piert.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4029,7 +4029,7 @@
     <Template>
         <Name>Pier_Concrete1</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4062,7 +4062,7 @@
     <Template>
         <Name>Pier_Concrete1_CornerIn</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_cornerin.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4095,7 +4095,7 @@
     <Template>
         <Name>Pier_Concrete1_CornerOut</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_cornerout.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4128,7 +4128,7 @@
     <Template>
         <Name>Pier_Concrete1_End</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_end.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4161,7 +4161,7 @@
     <Template>
         <Name>Pier_Concrete1_L</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_l.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4194,7 +4194,7 @@
     <Template>
         <Name>Pier_Concrete1_L10</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_l10.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4227,7 +4227,7 @@
     <Template>
         <Name>Pier_Concrete1_L30</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_l30.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4260,7 +4260,7 @@
     <Template>
         <Name>Pier_Concrete1_R</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_r.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4293,7 +4293,7 @@
     <Template>
         <Name>Pier_Concrete1_R10</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_r10.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4326,7 +4326,7 @@
     <Template>
         <Name>Pier_Concrete1_R30</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_r30.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4359,7 +4359,7 @@
     <Template>
         <Name>Pier_Concrete1_TBig</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_tbig.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4392,7 +4392,7 @@
     <Template>
         <Name>Pier_Concrete1_TSmall</Name>
         <File>dz\structures\industrial\harbour\pier_concrete1_tsmall.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4425,7 +4425,7 @@
     <Template>
         <Name>Pier_Concrete2</Name>
         <File>dz\structures\industrial\harbour\pier_concrete2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4458,7 +4458,7 @@
     <Template>
         <Name>Pier_Concrete2_End</Name>
         <File>dz\structures\industrial\harbour\pier_concrete2_end.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4491,7 +4491,7 @@
     <Template>
         <Name>Pier_Concrete3_1</Name>
         <File>dz\structures\industrial\harbour\pier_concrete3_1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4524,7 +4524,7 @@
     <Template>
         <Name>Pier_Concrete3_2</Name>
         <File>dz\structures\industrial\harbour\pier_concrete3_2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4557,7 +4557,7 @@
     <Template>
         <Name>Pier_Concrete3_End</Name>
         <File>dz\structures\industrial\harbour\pier_concrete3_end.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4590,7 +4590,7 @@
     <Template>
         <Name>Pier_Concrete3_Fuel</Name>
         <File>dz\structures\industrial\harbour\pier_concrete3_fuel.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4623,7 +4623,7 @@
     <Template>
         <Name>Pier_Crane_A</Name>
         <File>dz\structures\industrial\harbour\pier_crane_a.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4656,7 +4656,7 @@
     <Template>
         <Name>Pier_Crane_B</Name>
         <File>dz\structures\industrial\harbour\pier_crane_b.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4689,7 +4689,7 @@
     <Template>
         <Name>Pier_Crane_Rails</Name>
         <File>dz\structures\industrial\harbour\pier_crane_rails.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4722,7 +4722,7 @@
     <Template>
         <Name>Pier_Crane_Rails_End</Name>
         <File>dz\structures\industrial\harbour\pier_crane_rails_end.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4755,7 +4755,7 @@
     <Template>
         <Name>Pier_Tube_Big</Name>
         <File>dz\structures\industrial\harbour\pier_tube_big.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4788,7 +4788,7 @@
     <Template>
         <Name>Pier_Tube_Small</Name>
         <File>dz\structures\industrial\harbour\pier_tube_small.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4821,7 +4821,7 @@
     <Template>
         <Name>Pier_Wooden1</Name>
         <File>dz\structures\industrial\harbour\pier_wooden1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4854,7 +4854,7 @@
     <Template>
         <Name>Pier_Wooden1_End</Name>
         <File>dz\structures\industrial\harbour\pier_wooden1_end.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4953,7 +4953,7 @@
     <Template>
         <Name>GuardHouse</Name>
         <File>dz\structures\industrial\houses\guardhouse.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -4986,7 +4986,7 @@
     <Template>
         <Name>Repair_Center</Name>
         <File>dz\structures\industrial\houses\repair_center.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5019,7 +5019,7 @@
     <Template>
         <Name>Water_Station</Name>
         <File>dz\structures\industrial\houses\water_station.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5217,7 +5217,7 @@
     <Template>
         <Name>Workshop_Box</Name>
         <File>dz\structures\industrial\houses\workshop_box.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5250,7 +5250,7 @@
     <Template>
         <Name>HouseV2_03_int</Name>
         <File>dz\structures\industrial\houses\proxy\housev2_03_int.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5283,7 +5283,7 @@
     <Template>
         <Name>Ind_Workshop_Window</Name>
         <File>dz\structures\industrial\houses\proxy\ind_workshop_window.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5349,7 +5349,7 @@
     <Template>
         <Name>Mine_Conveyer1_10</Name>
         <File>dz\structures\industrial\mines\mine_conveyer1_10.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5382,7 +5382,7 @@
     <Template>
         <Name>Mine_Conveyer1_Begin</Name>
         <File>dz\structures\industrial\mines\mine_conveyer1_begin.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5415,7 +5415,7 @@
     <Template>
         <Name>Mine_Conveyer1_EndBuild</Name>
         <File>dz\structures\industrial\mines\mine_conveyer1_endbuild.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5448,7 +5448,7 @@
     <Template>
         <Name>Mine_Conveyer2_Build</Name>
         <File>dz\structures\industrial\mines\mine_conveyer2_build.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5481,7 +5481,7 @@
     <Template>
         <Name>Mine_Heap</Name>
         <File>dz\structures\industrial\mines\mine_heap.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5514,7 +5514,7 @@
     <Template>
         <Name>Mine_Hopper_Build</Name>
         <File>dz\structures\industrial\mines\mine_hopper_build.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5547,7 +5547,7 @@
     <Template>
         <Name>Mine_Rail</Name>
         <File>dz\structures\industrial\mines\mine_rail.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5580,7 +5580,7 @@
     <Template>
         <Name>Mine_Rail_End</Name>
         <File>dz\structures\industrial\mines\mine_rail_end.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5613,7 +5613,7 @@
     <Template>
         <Name>Mine_Rail_Switch</Name>
         <File>dz\structures\industrial\mines\mine_rail_switch.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5646,7 +5646,7 @@
     <Template>
         <Name>Mine_Rail_Tram</Name>
         <File>dz\structures\industrial\mines\mine_rail_tram.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5679,7 +5679,7 @@
     <Template>
         <Name>Mine_Tunnel</Name>
         <File>dz\structures\industrial\mines\mine_tunnel.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5712,7 +5712,7 @@
     <Template>
         <Name>Ind_Coltan_Conv1_end_add_EP1</Name>
         <File>dz\structures\industrial\mines\proxy\ind_coltan_conv1_end_add_ep1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5745,7 +5745,7 @@
     <Template>
         <Name>Ind_Coltan_Conv2_add_EP1</Name>
         <File>dz\structures\industrial\mines\proxy\ind_coltan_conv2_add_ep1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5778,7 +5778,7 @@
     <Template>
         <Name>Ind_Coltan_Hopper_add_EP1</Name>
         <File>dz\structures\industrial\mines\proxy\ind_coltan_hopper_add_ep1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5811,7 +5811,7 @@
     <Template>
         <Name>Lamp_Ind</Name>
         <File>dz\structures\industrial\misc\lamp_ind.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5844,7 +5844,7 @@
     <Template>
         <Name>Lamp_Rail</Name>
         <File>dz\structures\industrial\misc\lamp_rail.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5877,7 +5877,7 @@
     <Template>
         <Name>Misc_BoardsPack1</Name>
         <File>dz\structures\industrial\misc\misc_boardspack1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5910,7 +5910,7 @@
     <Template>
         <Name>Misc_BoardsPack2</Name>
         <File>dz\structures\industrial\misc\misc_boardspack2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5943,7 +5943,7 @@
     <Template>
         <Name>Misc_BoardsPack3</Name>
         <File>dz\structures\industrial\misc\misc_boardspack3.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -5976,7 +5976,7 @@
     <Template>
         <Name>Misc_Coil</Name>
         <File>dz\structures\industrial\misc\misc_coil.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6009,7 +6009,7 @@
     <Template>
         <Name>Misc_ConcretePanels</Name>
         <File>dz\structures\industrial\misc\misc_concretepanels.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6042,7 +6042,7 @@
     <Template>
         <Name>Misc_ConcretePipe</Name>
         <File>dz\structures\industrial\misc\misc_concretepipe.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6075,7 +6075,7 @@
     <Template>
         <Name>Misc_ConcretePipe_Gate</Name>
         <File>dz\structures\industrial\misc\misc_concretepipe_gate.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6108,7 +6108,7 @@
     <Template>
         <Name>Misc_Drainage</Name>
         <File>dz\structures\industrial\misc\misc_drainage.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6141,7 +6141,7 @@
     <Template>
         <Name>Misc_GContainer_Big</Name>
         <File>dz\structures\industrial\misc\misc_gcontainer_big.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6207,7 +6207,7 @@
     <Template>
         <Name>Misc_HayBale_Decayed</Name>
         <File>dz\structures\industrial\misc\misc_haybale_decayed.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6273,7 +6273,7 @@
     <Template>
         <Name>Misc_Through_Static</Name>
         <File>dz\structures\industrial\misc\misc_through_static.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6306,7 +6306,7 @@
     <Template>
         <Name>Misc_Through_Trailer</Name>
         <File>dz\structures\industrial\misc\misc_through_trailer.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6471,7 +6471,7 @@
     <Template>
         <Name>Misc_Timbers_Log1</Name>
         <File>dz\structures\industrial\misc\misc_timbers_log1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6504,7 +6504,7 @@
     <Template>
         <Name>Misc_Timbers_Log2</Name>
         <File>dz\structures\industrial\misc\misc_timbers_log2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6537,7 +6537,7 @@
     <Template>
         <Name>Misc_Timbers_Log3</Name>
         <File>dz\structures\industrial\misc\misc_timbers_log3.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6570,7 +6570,7 @@
     <Template>
         <Name>Misc_Timbers_Log4</Name>
         <File>dz\structures\industrial\misc\misc_timbers_log4.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6603,7 +6603,7 @@
     <Template>
         <Name>Misc_Timbers_Log5</Name>
         <File>dz\structures\industrial\misc\misc_timbers_log5.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6636,7 +6636,7 @@
     <Template>
         <Name>Misc_TirePile</Name>
         <File>dz\structures\industrial\misc\misc_tirepile.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6669,7 +6669,7 @@
     <Template>
         <Name>Misc_TirePile_Group</Name>
         <File>dz\structures\industrial\misc\misc_tirepile_group.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6735,7 +6735,7 @@
     <Template>
         <Name>Misc_WoodPile_Forest2</Name>
         <File>dz\structures\industrial\misc\misc_woodpile_forest2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6801,7 +6801,7 @@
     <Template>
         <Name>Pipe_Big_18m</Name>
         <File>dz\structures\industrial\pipes\pipe_big_18m.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6834,7 +6834,7 @@
     <Template>
         <Name>Pipe_Big_18m_Ladder</Name>
         <File>dz\structures\industrial\pipes\pipe_big_18m_ladder.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6867,7 +6867,7 @@
     <Template>
         <Name>Pipe_Big_9m</Name>
         <File>dz\structures\industrial\pipes\pipe_big_9m.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6900,7 +6900,7 @@
     <Template>
         <Name>Pipe_Big_BuildL</Name>
         <File>dz\structures\industrial\pipes\pipe_big_buildl.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6933,7 +6933,7 @@
     <Template>
         <Name>Pipe_Big_BuildR</Name>
         <File>dz\structures\industrial\pipes\pipe_big_buildr.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6966,7 +6966,7 @@
     <Template>
         <Name>Pipe_Big_CornerL</Name>
         <File>dz\structures\industrial\pipes\pipe_big_cornerl.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -6999,7 +6999,7 @@
     <Template>
         <Name>Pipe_Big_CornerR</Name>
         <File>dz\structures\industrial\pipes\pipe_big_cornerr.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7032,7 +7032,7 @@
     <Template>
         <Name>Pipe_Big_Ground1</Name>
         <File>dz\structures\industrial\pipes\pipe_big_ground1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7065,7 +7065,7 @@
     <Template>
         <Name>Pipe_Big_Ground2</Name>
         <File>dz\structures\industrial\pipes\pipe_big_ground2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7098,7 +7098,7 @@
     <Template>
         <Name>Pipe_Big_SmallConL</Name>
         <File>dz\structures\industrial\pipes\pipe_big_smallconl.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7131,7 +7131,7 @@
     <Template>
         <Name>Pipe_Big_SmallConR</Name>
         <File>dz\structures\industrial\pipes\pipe_big_smallconr.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7164,7 +7164,7 @@
     <Template>
         <Name>Pipe_Big_Support</Name>
         <File>dz\structures\industrial\pipes\pipe_big_support.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7197,7 +7197,7 @@
     <Template>
         <Name>Pipe_MedL_BuildR</Name>
         <File>dz\structures\industrial\pipes\pipe_medl_buildr.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7230,7 +7230,7 @@
     <Template>
         <Name>Pipe_MedL_CornerL</Name>
         <File>dz\structures\industrial\pipes\pipe_medl_cornerl.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7263,7 +7263,7 @@
     <Template>
         <Name>Pipe_MedL_CornerR</Name>
         <File>dz\structures\industrial\pipes\pipe_medl_cornerr.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7296,7 +7296,7 @@
     <Template>
         <Name>Pipe_MedR_BuildL</Name>
         <File>dz\structures\industrial\pipes\pipe_medr_buildl.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7329,7 +7329,7 @@
     <Template>
         <Name>Pipe_MedR_BuildR</Name>
         <File>dz\structures\industrial\pipes\pipe_medr_buildr.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7362,7 +7362,7 @@
     <Template>
         <Name>Pipe_Med_9m</Name>
         <File>dz\structures\industrial\pipes\pipe_med_9m.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7395,7 +7395,7 @@
     <Template>
         <Name>Pipe_Med_Ground1</Name>
         <File>dz\structures\industrial\pipes\pipe_med_ground1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7428,7 +7428,7 @@
     <Template>
         <Name>Pipe_Med_Ground2</Name>
         <File>dz\structures\industrial\pipes\pipe_med_ground2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7461,7 +7461,7 @@
     <Template>
         <Name>Pipe_Small_20m</Name>
         <File>dz\structures\industrial\pipes\pipe_small_20m.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7494,7 +7494,7 @@
     <Template>
         <Name>Pipe_Small_Broken</Name>
         <File>dz\structures\industrial\pipes\pipe_small_broken.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7527,7 +7527,7 @@
     <Template>
         <Name>Pipe_Small_Ground1</Name>
         <File>dz\structures\industrial\pipes\pipe_small_ground1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7560,7 +7560,7 @@
     <Template>
         <Name>Pipe_Small_Ground2</Name>
         <File>dz\structures\industrial\pipes\pipe_small_ground2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7593,7 +7593,7 @@
     <Template>
         <Name>Pipe_Small_L45</Name>
         <File>dz\structures\industrial\pipes\pipe_small_l45.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7626,7 +7626,7 @@
     <Template>
         <Name>Pipe_Small_L90</Name>
         <File>dz\structures\industrial\pipes\pipe_small_l90.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7659,7 +7659,7 @@
     <Template>
         <Name>Pipe_Small_R45</Name>
         <File>dz\structures\industrial\pipes\pipe_small_r45.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7692,7 +7692,7 @@
     <Template>
         <Name>Pipe_Small_R90</Name>
         <File>dz\structures\industrial\pipes\pipe_small_r90.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7725,7 +7725,7 @@
     <Template>
         <Name>Pipe_Small_Stairs</Name>
         <File>dz\structures\industrial\pipes\pipe_small_stairs.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7758,7 +7758,7 @@
     <Template>
         <Name>Pipe_Small_U</Name>
         <File>dz\structures\industrial\pipes\pipe_small_u.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7791,7 +7791,7 @@
     <Template>
         <Name>Pipe_Small_Valve</Name>
         <File>dz\structures\industrial\pipes\pipe_small_valve.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7824,7 +7824,7 @@
     <Template>
         <Name>Power_HV_Line</Name>
         <File>dz\structures\industrial\power\power_hv_line.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7857,7 +7857,7 @@
     <Template>
         <Name>Power_HV_Line_80m_damaged</Name>
         <File>dz\structures\industrial\power\power_hv_line_80m_damaged.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7890,7 +7890,7 @@
     <Template>
         <Name>Power_HV_Line_damaged</Name>
         <File>dz\structures\industrial\power\power_hv_line_damaged.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7923,7 +7923,7 @@
     <Template>
         <Name>Power_HV_Line_Turn</Name>
         <File>dz\structures\industrial\power\power_hv_line_turn.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7956,7 +7956,7 @@
     <Template>
         <Name>Power_HV_Line_TurnL</Name>
         <File>dz\structures\industrial\power\power_hv_line_turnl.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -7989,7 +7989,7 @@
     <Template>
         <Name>Power_HV_Line_TurnR</Name>
         <File>dz\structures\industrial\power\power_hv_line_turnr.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8022,7 +8022,7 @@
     <Template>
         <Name>Power_HV_Tower</Name>
         <File>dz\structures\industrial\power\power_hv_tower.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8055,7 +8055,7 @@
     <Template>
         <Name>Power_Pole_Conc1</Name>
         <File>dz\structures\industrial\power\power_pole_conc1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8088,7 +8088,7 @@
     <Template>
         <Name>Power_Pole_Conc1_Amp</Name>
         <File>dz\structures\industrial\power\power_pole_conc1_amp.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8121,7 +8121,7 @@
     <Template>
         <Name>Power_Pole_Conc3</Name>
         <File>dz\structures\industrial\power\power_pole_conc3.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8154,7 +8154,7 @@
     <Template>
         <Name>Power_Pole_Conc4</Name>
         <File>dz\structures\industrial\power\power_pole_conc4.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8187,7 +8187,7 @@
     <Template>
         <Name>Power_Pole_Conc4_Lamp</Name>
         <File>dz\structures\industrial\power\power_pole_conc4_lamp.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8220,7 +8220,7 @@
     <Template>
         <Name>Power_Pole_Conc4_Lamp_Amp</Name>
         <File>dz\structures\industrial\power\power_pole_conc4_lamp_amp.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8253,7 +8253,7 @@
     <Template>
         <Name>Power_Pole_Conc4_Lamp_Trail_B</Name>
         <File>dz\structures\industrial\power\power_pole_conc4_lamp_trail_b.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8286,7 +8286,7 @@
     <Template>
         <Name>Power_Pole_Conc4_Lamp_Trail_G</Name>
         <File>dz\structures\industrial\power\power_pole_conc4_lamp_trail_g.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8319,7 +8319,7 @@
     <Template>
         <Name>Power_Pole_Conc4_Lamp_Trail_R</Name>
         <File>dz\structures\industrial\power\power_pole_conc4_lamp_trail_r.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8352,7 +8352,7 @@
     <Template>
         <Name>Power_Pole_Conc4_Lamp_Trail_Y</Name>
         <File>dz\structures\industrial\power\power_pole_conc4_lamp_trail_y.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8385,7 +8385,7 @@
     <Template>
         <Name>Power_Pole_ConcT</Name>
         <File>dz\structures\industrial\power\power_pole_conct.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8418,7 +8418,7 @@
     <Template>
         <Name>Power_Pole_Wood1</Name>
         <File>dz\structures\industrial\power\power_pole_wood1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8451,7 +8451,7 @@
     <Template>
         <Name>Power_Pole_Wood1_Amp</Name>
         <File>dz\structures\industrial\power\power_pole_wood1_amp.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8484,7 +8484,7 @@
     <Template>
         <Name>Power_Pole_Wood1_Lamp</Name>
         <File>dz\structures\industrial\power\power_pole_wood1_lamp.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8517,7 +8517,7 @@
     <Template>
         <Name>Power_Pole_Wood1_Lamp_Amp</Name>
         <File>dz\structures\industrial\power\power_pole_wood1_lamp_amp.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8550,7 +8550,7 @@
     <Template>
         <Name>Power_Pole_Wood1_Trail_B</Name>
         <File>dz\structures\industrial\power\power_pole_wood1_trail_b.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8583,7 +8583,7 @@
     <Template>
         <Name>Power_Pole_Wood1_Trail_G</Name>
         <File>dz\structures\industrial\power\power_pole_wood1_trail_g.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8616,7 +8616,7 @@
     <Template>
         <Name>Power_Pole_Wood1_Trail_R</Name>
         <File>dz\structures\industrial\power\power_pole_wood1_trail_r.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8649,7 +8649,7 @@
     <Template>
         <Name>Power_Pole_Wood1_Trail_Y</Name>
         <File>dz\structures\industrial\power\power_pole_wood1_trail_y.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8682,7 +8682,7 @@
     <Template>
         <Name>Power_Pole_Wood2</Name>
         <File>dz\structures\industrial\power\power_pole_wood2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8715,7 +8715,7 @@
     <Template>
         <Name>Power_Pole_Wood3</Name>
         <File>dz\structures\industrial\power\power_pole_wood3.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8748,7 +8748,7 @@
     <Template>
         <Name>Power_Station</Name>
         <File>dz\structures\industrial\power\power_station.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8781,7 +8781,7 @@
     <Template>
         <Name>Power_TransformerStation_Big</Name>
         <File>dz\structures\industrial\power\power_transformerstation_big.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8814,7 +8814,7 @@
     <Template>
         <Name>Power_TransformerStation_Cables</Name>
         <File>dz\structures\industrial\power\power_transformerstation_cables.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8847,7 +8847,7 @@
     <Template>
         <Name>Power_Transformer_Build</Name>
         <File>dz\structures\industrial\power\power_transformer_build.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8880,7 +8880,7 @@
     <Template>
         <Name>Power_Transformer_Small</Name>
         <File>dz\structures\industrial\power\power_transformer_small.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8913,7 +8913,7 @@
     <Template>
         <Name>Quarry_Conveyer</Name>
         <File>dz\structures\industrial\quarry\quarry_conveyer.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8946,7 +8946,7 @@
     <Template>
         <Name>Quarry_ConveyerLong</Name>
         <File>dz\structures\industrial\quarry\quarry_conveyerlong.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -8979,7 +8979,7 @@
     <Template>
         <Name>Quarry_HammerMill</Name>
         <File>dz\structures\industrial\quarry\quarry_hammermill.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9012,7 +9012,7 @@
     <Template>
         <Name>Quarry_Main</Name>
         <File>dz\structures\industrial\quarry\quarry_main.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9045,7 +9045,7 @@
     <Template>
         <Name>Sawmill_Building</Name>
         <File>dz\structures\industrial\sawmills\sawmill_building.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9078,7 +9078,7 @@
     <Template>
         <Name>Sawmill_IlluminantTower</Name>
         <File>dz\structures\industrial\sawmills\sawmill_illuminanttower.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9111,7 +9111,7 @@
     <Template>
         <Name>Ind_Sawmill_Saw</Name>
         <File>dz\structures\industrial\sawmills\proxy\ind_sawmill_saw.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9144,7 +9144,7 @@
     <Template>
         <Name>Shed_Closed</Name>
         <File>dz\structures\industrial\sheds\shed_closed.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9177,7 +9177,7 @@
     <Template>
         <Name>Shed_Open_Big</Name>
         <File>dz\structures\industrial\sheds\shed_open_big.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9210,7 +9210,7 @@
     <Template>
         <Name>Shed_Open_Big_end</Name>
         <File>dz\structures\industrial\sheds\shed_open_big_end.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9243,7 +9243,7 @@
     <Template>
         <Name>Shed_Open_Sawmill</Name>
         <File>dz\structures\industrial\sheds\shed_open_sawmill.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9309,7 +9309,7 @@
     <Template>
         <Name>Shed_Open_Small</Name>
         <File>dz\structures\industrial\sheds\shed_open_small.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9342,7 +9342,7 @@
     <Template>
         <Name>Shed_Open_Small_end</Name>
         <File>dz\structures\industrial\sheds\shed_open_small_end.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9375,7 +9375,7 @@
     <Template>
         <Name>windows</Name>
         <File>dz\structures\industrial\sheds\proxy\windows.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9408,7 +9408,7 @@
     <Template>
         <Name>Smokestack_Big</Name>
         <File>dz\structures\industrial\smokestacks\smokestack_big.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9441,7 +9441,7 @@
     <Template>
         <Name>Smokestack_Brick</Name>
         <File>dz\structures\industrial\smokestacks\smokestack_brick.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9474,7 +9474,7 @@
     <Template>
         <Name>Smokestack_Medium</Name>
         <File>dz\structures\industrial\smokestacks\smokestack_medium.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9507,7 +9507,7 @@
     <Template>
         <Name>Smokestack_Metal</Name>
         <File>dz\structures\industrial\smokestacks\smokestack_metal.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9540,7 +9540,7 @@
     <Template>
         <Name>Tank_Big</Name>
         <File>dz\structures\industrial\tanks\tank_big.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9573,7 +9573,7 @@
     <Template>
         <Name>Tank_Medium</Name>
         <File>dz\structures\industrial\tanks\tank_medium.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9606,7 +9606,7 @@
     <Template>
         <Name>Tank_Medium_Stairs</Name>
         <File>dz\structures\industrial\tanks\tank_medium_stairs.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9639,7 +9639,7 @@
     <Template>
         <Name>Tank_Small_Gas</Name>
         <File>dz\structures\industrial\tanks\tank_small_gas.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9672,7 +9672,7 @@
     <Template>
         <Name>Tank_Small_Rusty</Name>
         <File>dz\structures\industrial\tanks\tank_small_rusty.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9705,7 +9705,7 @@
     <Template>
         <Name>Tank_Small_White</Name>
         <File>dz\structures\industrial\tanks\tank_small_white.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9738,7 +9738,7 @@
     <Template>
         <Name>Misc_Pallet_1</Name>
         <File>dz\structures\industrial\misc\misc_pallet.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9771,7 +9771,7 @@
     <Template>
         <Name>Misc_Pallets1_1</Name>
         <File>dz\structures\industrial\misc\misc_pallets1.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9804,7 +9804,7 @@
     <Template>
         <Name>Misc_Pallets2_1</Name>
         <File>dz\structures\industrial\misc\misc_pallets2.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9837,7 +9837,7 @@
     <Template>
         <Name>Misc_Pallets3_1</Name>
         <File>dz\structures\industrial\misc\misc_pallets3.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -9870,7 +9870,7 @@
     <Template>
         <Name>Misc_Pipes_1</Name>
         <File>dz\structures\industrial\misc\misc_pipes.p3d</File>
-        <Date>06/17/20 17:16:34</Date>
+        <Date>06/18/20 21:58:24</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
