@@ -93,7 +93,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>4.081465</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-7.028410" Y="-1.523840" Z="-6.003790" />
         <BoundingMax X="5.759512" Y="6.639090" Z="7.734670" />
         <BoundingCenter X="-0.634449" Y="2.557625" Z="0.865440" />
@@ -390,7 +390,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>14.132013</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-12.193518" Y="-4.250111" Z="-31.954903" />
         <BoundingMax X="13.217035" Y="24.013916" Z="37.902084" />
         <BoundingCenter X="0.511759" Y="9.881903" Z="2.973591" />
@@ -423,7 +423,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>14.031505</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-11.583624" Y="-3.899290" Z="-35.518425" />
         <BoundingMax X="14.624224" Y="24.163719" Z="34.735298" />
         <BoundingCenter X="1.520300" Y="10.132215" Z="-0.391563" />
@@ -522,7 +522,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>9.733400</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-8.003942" Y="-2.727000" Z="-14.628046" />
         <BoundingMax X="10.469400" Y="16.739801" Z="13.169802" />
         <BoundingCenter X="1.232729" Y="7.006401" Z="-0.729122" />
@@ -564,7 +564,7 @@
     <Template>
         <Name>rock_monolith3</Name>
         <File>dz\rocks\rock_monolith3.p3d</File>
-        <Date>06/19/20 00:04:33</Date>
+        <Date>06/19/20 12:10:47</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -621,7 +621,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.572750</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-4.362834" Y="-1.117040" Z="-4.987741" />
         <BoundingMax X="3.507719" Y="4.028460" Z="5.595292" />
         <BoundingCenter X="-0.427558" Y="1.455710" Z="0.303776" />
@@ -687,7 +687,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>6.989588</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-7.930575" Y="-6.493745" Z="-7.486464" />
         <BoundingMax X="7.702771" Y="7.485431" Z="7.504930" />
         <BoundingCenter X="-0.113902" Y="0.495843" Z="0.009233" />
@@ -696,7 +696,7 @@
     <Template>
         <Name>rock_spike3</Name>
         <File>dz\rocks\rock_spike3.p3d</File>
-        <Date>06/19/20 00:04:33</Date>
+        <Date>06/19/20 12:10:47</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -729,7 +729,7 @@
     <Template>
         <Name>rock_wallh1</Name>
         <File>dz\rocks\rock_wallh1.p3d</File>
-        <Date>06/19/20 00:04:33</Date>
+        <Date>06/19/20 12:10:47</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -762,7 +762,7 @@
     <Template>
         <Name>rock_wallh2</Name>
         <File>dz\rocks\rock_wallh2.p3d</File>
-        <Date>06/19/20 00:04:33</Date>
+        <Date>06/19/20 12:10:47</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -795,7 +795,7 @@
     <Template>
         <Name>rock_wallh3</Name>
         <File>dz\rocks\rock_wallh3.p3d</File>
-        <Date>06/19/20 00:04:33</Date>
+        <Date>06/19/20 12:10:47</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -852,7 +852,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>39.627419</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-21.763042" Y="-17.697502" Z="-19.046007" />
         <BoundingMax X="21.763042" Y="61.557335" Z="20.141500" />
         <BoundingCenter X="0.000000" Y="21.929916" Z="0.547747" />
@@ -885,7 +885,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>1.034747</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-1.151100" Y="-0.719104" Z="-1.031640" />
         <BoundingMax X="1.699400" Y="1.350390" Z="2.160140" />
         <BoundingCenter X="0.274150" Y="0.315643" Z="0.564250" />
@@ -1026,7 +1026,7 @@
     <Template>
         <Name>stone5_Trail_B</Name>
         <File>dz\rocks\stone5_trail_b.p3d</File>
-        <Date>06/19/20 00:04:33</Date>
+        <Date>06/19/20 12:10:47</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -1059,7 +1059,7 @@
     <Template>
         <Name>stone5_Trail_G</Name>
         <File>dz\rocks\stone5_trail_g.p3d</File>
-        <Date>06/19/20 00:04:33</Date>
+        <Date>06/19/20 12:10:47</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -1092,7 +1092,7 @@
     <Template>
         <Name>stone5_Trail_R</Name>
         <File>dz\rocks\stone5_trail_r.p3d</File>
-        <Date>06/19/20 00:04:33</Date>
+        <Date>06/19/20 12:10:47</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -1182,7 +1182,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.357170</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-3.586048" Y="-0.344234" Z="-3.854021" />
         <BoundingMax X="3.647828" Y="0.370107" Z="3.937329" />
         <BoundingCenter X="0.030890" Y="0.012937" Z="0.041654" />
