@@ -267,7 +267,7 @@
     <Template>
         <Name>c_Cones</Name>
         <File>dz\plants\clutter\c_cones.p3d</File>
-        <Date>06/18/20 22:38:50</Date>
+        <Date>06/19/20 00:04:32</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-16777216</Outline>
@@ -885,7 +885,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.126246</Height>
         <BoundingMin X="-0.876729" Y="-0.010008" Z="-0.829444" />
         <BoundingMax X="1.109834" Y="0.242484" Z="0.783443" />
         <BoundingCenter X="0.116552" Y="0.116238" Z="-0.023001" />
