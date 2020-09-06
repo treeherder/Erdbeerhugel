@@ -27,7 +27,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>4.081465</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-7.028410" Y="-1.523840" Z="-6.003790" />
         <BoundingMax X="5.759512" Y="6.639090" Z="7.734670" />
         <BoundingCenter X="-0.634449" Y="2.557625" Z="0.865440" />
@@ -36,7 +36,7 @@
     <Template>
         <Name>rock_apart2</Name>
         <File>dz\rocks\rock_apart2.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -93,7 +93,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>4.081465</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-7.028410" Y="-1.523840" Z="-6.003790" />
         <BoundingMax X="5.759512" Y="6.639090" Z="7.734670" />
         <BoundingCenter X="-0.634449" Y="2.557625" Z="0.865440" />
@@ -126,7 +126,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.436627</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-4.757390" Y="-2.645352" Z="-4.214680" />
         <BoundingMax X="4.722480" Y="2.227903" Z="3.946072" />
         <BoundingCenter X="-0.017455" Y="-0.208725" Z="-0.134304" />
@@ -159,7 +159,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>9.733400</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-8.003942" Y="-2.727000" Z="-14.628046" />
         <BoundingMax X="10.469400" Y="16.739801" Z="13.169802" />
         <BoundingCenter X="1.232729" Y="7.006401" Z="-0.729122" />
@@ -192,7 +192,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>5.052037</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-5.290530" Y="-3.132760" Z="-7.163661" />
         <BoundingMax X="5.537051" Y="6.971314" Z="6.868114" />
         <BoundingCenter X="0.123260" Y="1.919277" Z="-0.147773" />
@@ -225,7 +225,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.693982</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-6.381620" Y="-1.359504" Z="-4.987741" />
         <BoundingMax X="3.507719" Y="4.028460" Z="6.026650" />
         <BoundingCenter X="-1.436951" Y="1.334478" Z="0.519454" />
@@ -258,7 +258,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.572750</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-4.362834" Y="-1.117040" Z="-4.987741" />
         <BoundingMax X="3.507719" Y="4.028460" Z="5.595292" />
         <BoundingCenter X="-0.427558" Y="1.455710" Z="0.303776" />
@@ -291,7 +291,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>13.517426</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-9.978861" Y="-6.123151" Z="-11.660513" />
         <BoundingMax X="9.647646" Y="20.911699" Z="10.294535" />
         <BoundingCenter X="-0.165607" Y="7.394274" Z="-0.682989" />
@@ -324,7 +324,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>6.989588</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-7.930575" Y="-6.493745" Z="-7.486464" />
         <BoundingMax X="7.702771" Y="7.485431" Z="7.504930" />
         <BoundingCenter X="-0.113902" Y="0.495843" Z="0.009233" />
@@ -357,7 +357,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>5.722210</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-5.292981" Y="-3.981170" Z="-5.498900" />
         <BoundingMax X="5.040870" Y="7.463250" Z="5.871341" />
         <BoundingCenter X="-0.126055" Y="1.741040" Z="0.186220" />
@@ -390,7 +390,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>14.132013</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-12.193518" Y="-4.250111" Z="-31.954903" />
         <BoundingMax X="13.217035" Y="24.013916" Z="37.902084" />
         <BoundingCenter X="0.511759" Y="9.881903" Z="2.973591" />
@@ -423,7 +423,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>14.031505</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-11.583624" Y="-3.899290" Z="-35.518425" />
         <BoundingMax X="14.624224" Y="24.163719" Z="34.735298" />
         <BoundingCenter X="1.520300" Y="10.132215" Z="-0.391563" />
@@ -456,7 +456,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>6.720395</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-13.709983" Y="-6.724610" Z="-6.356312" />
         <BoundingMax X="13.673501" Y="6.716180" Z="6.112471" />
         <BoundingCenter X="-0.018241" Y="-0.004215" Z="-0.121921" />
@@ -489,7 +489,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>39.627419</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-21.763042" Y="-17.697502" Z="-19.046007" />
         <BoundingMax X="21.763042" Y="61.557335" Z="20.141500" />
         <BoundingCenter X="0.000000" Y="21.929916" Z="0.547747" />
@@ -498,7 +498,7 @@
     <Template>
         <Name>rock_monolith1</Name>
         <File>dz\rocks\rock_monolith1.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -555,7 +555,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>5.052037</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-5.290530" Y="-3.132760" Z="-7.163661" />
         <BoundingMax X="5.537051" Y="6.971314" Z="6.868114" />
         <BoundingCenter X="0.123260" Y="1.919277" Z="-0.147773" />
@@ -564,7 +564,7 @@
     <Template>
         <Name>rock_monolith3</Name>
         <File>dz\rocks\rock_monolith3.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -621,7 +621,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>2.572750</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-4.362834" Y="-1.117040" Z="-4.987741" />
         <BoundingMax X="3.507719" Y="4.028460" Z="5.595292" />
         <BoundingCenter X="-0.427558" Y="1.455710" Z="0.303776" />
@@ -654,7 +654,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>13.517426</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-9.978861" Y="-6.123151" Z="-11.660513" />
         <BoundingMax X="9.647646" Y="20.911699" Z="10.294535" />
         <BoundingCenter X="-0.165607" Y="7.394274" Z="-0.682989" />
@@ -663,7 +663,7 @@
     <Template>
         <Name>rock_spike2</Name>
         <File>dz\rocks\rock_spike2.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -696,7 +696,7 @@
     <Template>
         <Name>rock_spike3</Name>
         <File>dz\rocks\rock_spike3.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -729,7 +729,7 @@
     <Template>
         <Name>rock_wallh1</Name>
         <File>dz\rocks\rock_wallh1.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -762,7 +762,7 @@
     <Template>
         <Name>rock_wallh2</Name>
         <File>dz\rocks\rock_wallh2.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -795,7 +795,7 @@
     <Template>
         <Name>rock_wallh3</Name>
         <File>dz\rocks\rock_wallh3.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -828,7 +828,7 @@
     <Template>
         <Name>rock_wallv</Name>
         <File>dz\rocks\rock_wallv.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -861,7 +861,7 @@
     <Template>
         <Name>stone1</Name>
         <File>dz\rocks\stone1.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -894,7 +894,7 @@
     <Template>
         <Name>stone2</Name>
         <File>dz\rocks\stone2.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -927,7 +927,7 @@
     <Template>
         <Name>stone3</Name>
         <File>dz\rocks\stone3.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -960,7 +960,7 @@
     <Template>
         <Name>stone4</Name>
         <File>dz\rocks\stone4.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -993,7 +993,7 @@
     <Template>
         <Name>stone5</Name>
         <File>dz\rocks\stone5.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -1026,7 +1026,7 @@
     <Template>
         <Name>stone5_Trail_B</Name>
         <File>dz\rocks\stone5_trail_b.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -1059,7 +1059,7 @@
     <Template>
         <Name>stone5_Trail_G</Name>
         <File>dz\rocks\stone5_trail_g.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -1092,7 +1092,7 @@
     <Template>
         <Name>stone5_Trail_R</Name>
         <File>dz\rocks\stone5_trail_r.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -1125,7 +1125,7 @@
     <Template>
         <Name>stone5_Trail_Y</Name>
         <File>dz\rocks\stone5_trail_y.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
@@ -1158,7 +1158,7 @@
     <Template>
         <Name>stones_erosion</Name>
         <File>dz\rocks\stones_erosion.p3d</File>
-        <Date>06/20/20 11:34:24</Date>
+        <Date>08/08/20 23:09:29</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
