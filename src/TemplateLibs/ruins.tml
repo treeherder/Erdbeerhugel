@@ -3,7 +3,7 @@
     <Template>
         <Name>Rubble_Bricks1</Name>
         <File>dz\structures\ruins\rubble_bricks1.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>01/23/20 07:09:37</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -21,22 +21,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>3.039990</BBRadius>
+        <BBHScale>0.794608</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.597305</Height>
+        <BoundingMin X="-2.310890" Y="-0.233483" Z="-2.952157" />
+        <BoundingMax X="2.520314" Y="0.961127" Z="3.127823" />
+        <BoundingCenter X="0.104712" Y="0.363822" Z="0.087833" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Rubble_Bricks2</Name>
         <File>dz\structures\ruins\rubble_bricks2.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -93,7 +93,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>3.559756</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-7.004691" Y="-4.055832" Z="-6.612141" />
         <BoundingMax X="6.522170" Y="3.063680" Z="5.678790" />
         <BoundingCenter X="-0.241261" Y="-0.496076" Z="-0.466675" />
@@ -102,7 +102,7 @@
     <Template>
         <Name>Rubble_Concrete1</Name>
         <File>dz\structures\ruins\rubble_concrete1.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -135,7 +135,7 @@
     <Template>
         <Name>Rubble_Concrete2</Name>
         <File>dz\structures\ruins\rubble_concrete2.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -168,7 +168,7 @@
     <Template>
         <Name>Rubble_Concrete3</Name>
         <File>dz\structures\ruins\rubble_concrete3.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>01/23/20 07:09:41</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -186,22 +186,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>0.996877</BBRadius>
+        <BBHScale>3.259055</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.235299</Height>
+        <BoundingMin X="-3.068865" Y="-0.156398" Z="-1.124951" />
+        <BoundingMax X="3.428888" Y="0.314201" Z="0.868803" />
+        <BoundingCenter X="0.180011" Y="0.078901" Z="-0.128074" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Rubble_DirtPile_Large</Name>
         <File>dz\structures\ruins\rubble_dirtpile_large.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -234,7 +234,7 @@
     <Template>
         <Name>Rubble_DirtPile_Medium1</Name>
         <File>dz\structures\ruins\rubble_dirtpile_medium1.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -300,7 +300,7 @@
     <Template>
         <Name>Rubble_DirtPile_Small</Name>
         <File>dz\structures\ruins\rubble_dirtpile_small.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>01/23/20 07:10:23</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -318,22 +318,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>1.071173</BBRadius>
+        <BBHScale>1.669626</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.132221</Height>
+        <BoundingMin X="-1.702193" Y="-0.061990" Z="-1.082164" />
+        <BoundingMax X="1.874723" Y="0.202451" Z="1.060181" />
+        <BoundingCenter X="0.086265" Y="0.070230" Z="-0.010991" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Rubble_Metal1</Name>
         <File>dz\structures\ruins\rubble_metal1.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -366,7 +366,7 @@
     <Template>
         <Name>Rubble_Metal2</Name>
         <File>dz\structures\ruins\rubble_metal2.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -399,7 +399,7 @@
     <Template>
         <Name>Rubble_Metal3</Name>
         <File>dz\structures\ruins\rubble_metal3.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -432,7 +432,7 @@
     <Template>
         <Name>Rubble_Rocks1</Name>
         <File>dz\structures\ruins\rubble_rocks1.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -489,7 +489,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.891500</Height>
+        <Height>0.000000</Height>
         <BoundingMin X="-0.745335" Y="-0.886500" Z="-0.854550" />
         <BoundingMax X="0.765335" Y="0.896500" Z="0.874550" />
         <BoundingCenter X="0.010000" Y="0.005000" Z="0.010000" />
@@ -498,7 +498,7 @@
     <Template>
         <Name>Rubble_Wood1</Name>
         <File>dz\structures\ruins\rubble_wood1.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -531,7 +531,7 @@
     <Template>
         <Name>Rubble_Wood2</Name>
         <File>dz\structures\ruins\rubble_wood2.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -564,7 +564,7 @@
     <Template>
         <Name>Rubble_Wood3</Name>
         <File>dz\structures\ruins\rubble_wood3.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -630,7 +630,7 @@
     <Template>
         <Name>Ruin_Church</Name>
         <File>dz\structures\ruins\ruin_church.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -663,7 +663,7 @@
     <Template>
         <Name>Ruin_Corner1</Name>
         <File>dz\structures\ruins\ruin_corner1.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>01/23/20 07:11:09</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -681,22 +681,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>3.043575</BBRadius>
+        <BBHScale>1.286389</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.876923</Height>
+        <BoundingMin X="-4.262320" Y="-0.803185" Z="-2.719560" />
+        <BoundingMax X="3.568120" Y="2.950660" Z="3.367590" />
+        <BoundingCenter X="-0.347100" Y="1.073737" Z="0.324015" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Ruin_Corner2</Name>
         <File>dz\structures\ruins\ruin_corner2.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>01/23/20 07:11:09</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -714,22 +714,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>3.043575</BBRadius>
+        <BBHScale>1.288094</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.865358</Height>
+        <BoundingMin X="-3.655672" Y="-0.803185" Z="-2.719560" />
+        <BoundingMax X="4.185150" Y="2.927530" Z="3.367590" />
+        <BoundingCenter X="0.264739" Y="1.062172" Z="0.324015" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Ruin_DoorWall</Name>
         <File>dz\structures\ruins\ruin_doorwall.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -762,7 +762,7 @@
     <Template>
         <Name>Ruin_HouseBlock_Corner_Total</Name>
         <File>dz\structures\ruins\ruin_houseblock_corner_total.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -795,7 +795,7 @@
     <Template>
         <Name>Ruin_HouseBlock_Half</Name>
         <File>dz\structures\ruins\ruin_houseblock_half.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -828,7 +828,7 @@
     <Template>
         <Name>Ruin_HouseBlock_Total</Name>
         <File>dz\structures\ruins\ruin_houseblock_total.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -861,7 +861,7 @@
     <Template>
         <Name>Ruin_House_Total</Name>
         <File>dz\structures\ruins\ruin_house_total.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -894,7 +894,7 @@
     <Template>
         <Name>Ruin_Rubble</Name>
         <File>dz\structures\ruins\ruin_rubble.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>01/23/20 07:11:57</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -912,22 +912,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>5.435781</BBRadius>
+        <BBHScale>1.025369</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.485505</Height>
+        <BoundingMin X="-6.389990" Y="-1.596920" Z="-4.902540" />
+        <BoundingMax X="4.757370" Y="1.374090" Z="5.969021" />
+        <BoundingCenter X="-0.816310" Y="-0.111415" Z="0.533240" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Ruin_Wall</Name>
         <File>dz\structures\ruins\ruin_wall.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>01/23/20 07:11:57</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -945,22 +945,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>0.270000</BBRadius>
+        <BBHScale>16.430578</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.117433</Height>
+        <BoundingMin X="-4.436260" Y="-0.803185" Z="-0.270000" />
+        <BoundingMax X="4.436260" Y="1.431680" Z="0.270000" />
+        <BoundingCenter X="0.000000" Y="0.314247" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Rubble_Glass_1</Name>
         <File>dz\structures\ruins\rubble_glass.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>01/23/20 07:10:23</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -978,16 +978,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>3.580977</BBRadius>
+        <BBHScale>1.061424</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.030863</Height>
+        <BoundingMin X="-3.683274" Y="-0.011872" Z="-3.481381" />
+        <BoundingMax X="3.918597" Y="0.049854" Z="3.680572" />
+        <BoundingCenter X="0.117661" Y="0.018991" Z="0.099595" />
         <Placement></Placement>
     </Template>
 </Library>

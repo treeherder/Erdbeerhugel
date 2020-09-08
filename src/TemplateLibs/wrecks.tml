@@ -3,7 +3,7 @@
     <Template>
         <Name>Wreck_C130J</Name>
         <File>dz\structures\wrecks\aircraft\wreck_c130j.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:16:36</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -21,22 +21,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>14.913265</BBRadius>
+        <BBHScale>1.337075</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.987279</Height>
+        <BoundingMin X="-20.501406" Y="-0.803141" Z="-14.841736" />
+        <BoundingMax X="19.378901" Y="11.171417" Z="14.984795" />
+        <BoundingCenter X="-0.561253" Y="5.184138" Z="0.071529" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_Mi8</Name>
         <File>dz\structures\wrecks\aircraft\wreck_mi8.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:17:53</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -54,22 +54,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>9.390121</BBRadius>
+        <BBHScale>0.451706</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.455141</Height>
+        <BoundingMin X="-4.467033" Y="-0.757200" Z="-7.246478" />
+        <BoundingMax X="4.016111" Y="4.153082" Z="11.533765" />
+        <BoundingCenter X="-0.225461" Y="1.697941" Z="2.143643" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_UH1Y</Name>
         <File>dz\structures\wrecks\aircraft\wreck_uh1y.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:18:54</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -87,22 +87,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>7.697830</BBRadius>
+        <BBHScale>0.738495</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.055678</Height>
+        <BoundingMin X="-4.803620" Y="-0.198756" Z="-6.491170" />
+        <BoundingMax X="6.566001" Y="3.912600" Z="8.904490" />
+        <BoundingCenter X="0.881190" Y="1.856922" Z="1.206660" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Boat_Small1</Name>
         <File>dz\structures\wrecks\ships\boat_small1.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -135,7 +135,7 @@
     <Template>
         <Name>Boat_Small2</Name>
         <File>dz\structures\wrecks\ships\boat_small2.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -168,7 +168,7 @@
     <Template>
         <Name>Boat_Small3</Name>
         <File>dz\structures\wrecks\ships\boat_small3.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -201,7 +201,7 @@
     <Template>
         <Name>Ship_Big_BackA</Name>
         <File>dz\structures\wrecks\ships\ship_big_backa.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -234,7 +234,7 @@
     <Template>
         <Name>Ship_Big_BackB</Name>
         <File>dz\structures\wrecks\ships\ship_big_backb.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -267,7 +267,7 @@
     <Template>
         <Name>Ship_Big_Castle</Name>
         <File>dz\structures\wrecks\ships\ship_big_castle.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -300,7 +300,7 @@
     <Template>
         <Name>Ship_Big_FrontA</Name>
         <File>dz\structures\wrecks\ships\ship_big_fronta.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -333,7 +333,7 @@
     <Template>
         <Name>Ship_Big_FrontB</Name>
         <File>dz\structures\wrecks\ships\ship_big_frontb.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -366,7 +366,7 @@
     <Template>
         <Name>Ship_Big_Lifeboat</Name>
         <File>dz\structures\wrecks\ships\ship_big_lifeboat.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -399,7 +399,7 @@
     <Template>
         <Name>Ship_Medium_Back</Name>
         <File>dz\structures\wrecks\ships\ship_medium_back.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -432,7 +432,7 @@
     <Template>
         <Name>Ship_Medium_Front</Name>
         <File>dz\structures\wrecks\ships\ship_medium_front.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -465,7 +465,7 @@
     <Template>
         <Name>Abandoned_ship_ControlPanel</Name>
         <File>dz\structures\wrecks\ships\proxy\abandoned_ship_controlpanel.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -498,7 +498,7 @@
     <Template>
         <Name>Abandoned_ship_Doors</Name>
         <File>dz\structures\wrecks\ships\proxy\abandoned_ship_doors.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -531,7 +531,7 @@
     <Template>
         <Name>Abandoned_ship_Lifebuoy</Name>
         <File>dz\structures\wrecks\ships\proxy\abandoned_ship_lifebuoy.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -564,7 +564,7 @@
     <Template>
         <Name>Abandoned_ship_Raft</Name>
         <File>dz\structures\wrecks\ships\proxy\abandoned_ship_raft.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -597,7 +597,7 @@
     <Template>
         <Name>anchor_winch</Name>
         <File>dz\structures\wrecks\ships\proxy\anchor_winch.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -630,7 +630,7 @@
     <Template>
         <Name>Aship_ArmyBed</Name>
         <File>dz\structures\wrecks\ships\proxy\aship_armybed.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -663,7 +663,7 @@
     <Template>
         <Name>AShip_Castle_doors</Name>
         <File>dz\structures\wrecks\ships\proxy\aship_castle_doors.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -696,7 +696,7 @@
     <Template>
         <Name>AShip_Int_Piping_1</Name>
         <File>dz\structures\wrecks\ships\proxy\aship_int_piping_1.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -729,7 +729,7 @@
     <Template>
         <Name>AShip_Int_Piping_2</Name>
         <File>dz\structures\wrecks\ships\proxy\aship_int_piping_2.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -762,7 +762,7 @@
     <Template>
         <Name>Beams_Back_A</Name>
         <File>dz\structures\wrecks\ships\proxy\beams_back_a.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -795,7 +795,7 @@
     <Template>
         <Name>Beams_Back_B</Name>
         <File>dz\structures\wrecks\ships\proxy\beams_back_b.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -828,7 +828,7 @@
     <Template>
         <Name>Beams_Castle</Name>
         <File>dz\structures\wrecks\ships\proxy\beams_castle.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -861,7 +861,7 @@
     <Template>
         <Name>Beams_Front_A</Name>
         <File>dz\structures\wrecks\ships\proxy\beams_front_a.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -894,7 +894,7 @@
     <Template>
         <Name>Beams_Front_B</Name>
         <File>dz\structures\wrecks\ships\proxy\beams_front_b.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -927,7 +927,7 @@
     <Template>
         <Name>Covers_Back_A</Name>
         <File>dz\structures\wrecks\ships\proxy\covers_back_a.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -960,7 +960,7 @@
     <Template>
         <Name>Covers_Front_B</Name>
         <File>dz\structures\wrecks\ships\proxy\covers_front_b.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -993,7 +993,7 @@
     <Template>
         <Name>crane_winch</Name>
         <File>dz\structures\wrecks\ships\proxy\crane_winch.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1026,7 +1026,7 @@
     <Template>
         <Name>Life_boat</Name>
         <File>dz\structures\wrecks\ships\proxy\life_boat.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1059,7 +1059,7 @@
     <Template>
         <Name>Train_742_Blue</Name>
         <File>dz\structures\wrecks\trains\train_742_blue.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1092,7 +1092,7 @@
     <Template>
         <Name>Train_742_Red</Name>
         <File>dz\structures\wrecks\trains\train_742_red.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1125,7 +1125,7 @@
     <Template>
         <Name>Train_Wagon_Box</Name>
         <File>dz\structures\wrecks\trains\train_wagon_box.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1158,7 +1158,7 @@
     <Template>
         <Name>Train_Wagon_Flat</Name>
         <File>dz\structures\wrecks\trains\train_wagon_flat.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1191,7 +1191,7 @@
     <Template>
         <Name>Train_Wagon_Tanker</Name>
         <File>dz\structures\wrecks\trains\train_wagon_tanker.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:19:22</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1209,22 +1209,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>5.667469</BBRadius>
+        <BBHScale>0.228620</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.762348</Height>
+        <BoundingMin X="-1.295695" Y="-0.002933" Z="-5.665604" />
+        <BoundingMax X="1.295695" Y="3.521763" Z="5.669334" />
+        <BoundingCenter X="0.000000" Y="1.759415" Z="0.001865" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_Baler</Name>
         <File>dz\structures\wrecks\vehicles\wreck_baler.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1257,7 +1257,7 @@
     <Template>
         <Name>Wreck_BMP1</Name>
         <File>dz\structures\wrecks\vehicles\wreck_bmp1.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:19:26</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1275,22 +1275,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>5.263237</BBRadius>
+        <BBHScale>0.495109</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.247717</Height>
+        <BoundingMin X="-1.493491" Y="-0.086195" Z="-0.531375" />
+        <BoundingMax X="3.718264" Y="2.409240" Z="9.995100" />
+        <BoundingCenter X="1.112387" Y="1.161523" Z="4.731863" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_BMP2</Name>
         <File>dz\structures\wrecks\vehicles\wreck_bmp2.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:19:27</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1308,22 +1308,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>3.773245</BBRadius>
+        <BBHScale>0.520857</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.335194</Height>
+        <BoundingMin X="-2.437230" Y="-0.502697" Z="-3.346480" />
+        <BoundingMax X="1.493413" Y="2.167690" Z="4.200009" />
+        <BoundingCenter X="-0.471908" Y="0.832497" Z="0.426764" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_BRDM</Name>
         <File>dz\structures\wrecks\vehicles\wreck_brdm.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:19:27</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1341,22 +1341,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>2.808417</BBRadius>
+        <BBHScale>0.514740</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.161559</Height>
+        <BoundingMin X="-1.522785" Y="-0.614233" Z="-2.865560" />
+        <BoundingMax X="1.368423" Y="1.708884" Z="2.751274" />
+        <BoundingCenter X="-0.077181" Y="0.547326" Z="-0.057143" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_Bulldozer</Name>
         <File>dz\structures\wrecks\vehicles\wreck_bulldozer.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:19:28</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1374,22 +1374,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>2.771483</BBRadius>
+        <BBHScale>0.668542</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.495080</Height>
+        <BoundingMin X="-1.852852" Y="0.000000" Z="-2.547000" />
+        <BoundingMax X="1.852852" Y="2.990160" Z="2.995965" />
+        <BoundingCenter X="0.000000" Y="1.495080" Z="0.224483" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_Caravan_MGreen</Name>
         <File>dz\structures\wrecks\vehicles\wreck_caravan_mgreen.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1422,7 +1422,7 @@
     <Template>
         <Name>Wreck_Caravan_MRust</Name>
         <File>dz\structures\wrecks\vehicles\wreck_caravan_mrust.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1455,7 +1455,7 @@
     <Template>
         <Name>Wreck_Caravan_WBrown</Name>
         <File>dz\structures\wrecks\vehicles\wreck_caravan_wbrown.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1488,7 +1488,7 @@
     <Template>
         <Name>Wreck_Caravan_WGreen</Name>
         <File>dz\structures\wrecks\vehicles\wreck_caravan_wgreen.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1521,7 +1521,7 @@
     <Template>
         <Name>Wreck_Decal_Big</Name>
         <File>dz\structures\wrecks\vehicles\wreck_decal_big.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:19:35</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1539,22 +1539,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>5.830340</BBRadius>
+        <BBHScale>0.335938</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.023790</Height>
+        <BoundingMin X="-3.655380" Y="0.000000" Z="-3.937650" />
+        <BoundingMax X="0.261880" Y="0.047580" Z="7.723030" />
+        <BoundingCenter X="-1.696750" Y="0.023790" Z="1.892690" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_Decal_Small1</Name>
         <File>dz\structures\wrecks\vehicles\wreck_decal_small1.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:19:35</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1572,22 +1572,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>2.551750</BBRadius>
+        <BBHScale>0.476179</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.015431</Height>
+        <BoundingMin X="-1.102970" Y="-0.000005" Z="-2.358720" />
+        <BoundingMax X="1.327210" Y="0.030857" Z="2.744780" />
+        <BoundingCenter X="0.112120" Y="0.015426" Z="0.193030" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_Decal_Small2</Name>
         <File>dz\structures\wrecks\vehicles\wreck_decal_small2.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:19:35</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1605,22 +1605,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>3.622226</BBRadius>
+        <BBHScale>0.725888</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.003000</Height>
+        <BoundingMin X="-2.667725" Y="0.000000" Z="-3.473702" />
+        <BoundingMax X="2.590934" Y="0.006000" Z="3.770749" />
+        <BoundingCenter X="-0.038396" Y="0.003000" Z="0.148524" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_Digger</Name>
         <File>dz\structures\wrecks\vehicles\wreck_digger.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1653,7 +1653,7 @@
     <Template>
         <Name>Wreck_Harverster</Name>
         <File>dz\structures\wrecks\vehicles\wreck_harverster.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1686,7 +1686,7 @@
     <Template>
         <Name>Wreck_Harvester_head_trailer</Name>
         <File>dz\structures\wrecks\vehicles\wreck_harvester_head_trailer.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1719,7 +1719,7 @@
     <Template>
         <Name>Wreck_HMMWV</Name>
         <File>dz\structures\wrecks\vehicles\wreck_hmmwv.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:19:58</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1737,22 +1737,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>2.388425</BBRadius>
+        <BBHScale>0.902932</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.092898</Height>
+        <BoundingMin X="-2.234212" Y="-0.185797" Z="-2.581750" />
+        <BoundingMax X="2.078960" Y="2.000000" Z="2.195100" />
+        <BoundingCenter X="-0.077626" Y="0.907102" Z="-0.193325" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_Ikarus</Name>
         <File>dz\structures\wrecks\vehicles\wreck_ikarus.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1785,7 +1785,7 @@
     <Template>
         <Name>Wreck_Lada_Green</Name>
         <File>dz\structures\wrecks\vehicles\wreck_lada_green.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1818,7 +1818,7 @@
     <Template>
         <Name>Wreck_Lada_Red</Name>
         <File>dz\structures\wrecks\vehicles\wreck_lada_red.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1851,7 +1851,7 @@
     <Template>
         <Name>Wreck_PowGen</Name>
         <File>dz\structures\wrecks\vehicles\wreck_powgen.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1884,7 +1884,7 @@
     <Template>
         <Name>Wreck_S1023_Beige</Name>
         <File>dz\structures\wrecks\vehicles\wreck_s1023_beige.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:20:03</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1902,16 +1902,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>2.661091</BBRadius>
+        <BBHScale>0.683347</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.041127</Height>
+        <BoundingMin X="-1.666663" Y="-0.041993" Z="-2.686712" />
+        <BoundingMax X="1.970232" Y="2.040260" Z="2.635470" />
+        <BoundingCenter X="0.151784" Y="0.999133" Z="-0.025621" />
         <Placement></Placement>
     </Template>
     <Template>
@@ -1941,7 +1941,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.041127</Height>
         <BoundingMin X="-1.666663" Y="-0.041993" Z="-2.686712" />
         <BoundingMax X="1.970232" Y="2.040260" Z="2.929724" />
         <BoundingCenter X="0.151784" Y="0.999133" Z="0.121506" />
@@ -1950,7 +1950,7 @@
     <Template>
         <Name>Wreck_S120_Red</Name>
         <File>dz\structures\wrecks\vehicles\wreck_s120_red.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:20:04</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -1968,16 +1968,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>2.101470</BBRadius>
+        <BBHScale>0.512341</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.777410</Height>
+        <BoundingMin X="-0.920957" Y="-0.194717" Z="-2.118110" />
+        <BoundingMax X="1.232380" Y="1.360104" Z="2.084830" />
+        <BoundingCenter X="0.155711" Y="0.582694" Z="-0.016640" />
         <Placement></Placement>
     </Template>
     <Template>
@@ -2007,7 +2007,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.090392</Height>
         <BoundingMin X="-3.379371" Y="-0.310270" Z="-3.249362" />
         <BoundingMax X="1.882640" Y="1.870513" Z="4.309650" />
         <BoundingCenter X="-0.748365" Y="0.780122" Z="0.530144" />
@@ -2016,7 +2016,7 @@
     <Template>
         <Name>Wreck_T72_Turret</Name>
         <File>dz\structures\wrecks\vehicles\wreck_t72_turret.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:20:42</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2034,22 +2034,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>3.866981</BBRadius>
+        <BBHScale>0.599525</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.185378</Height>
+        <BoundingMin X="-1.864402" Y="-0.368814" Z="-2.512146" />
+        <BoundingMax X="2.772303" Y="2.001941" Z="5.221817" />
+        <BoundingCenter X="0.453951" Y="0.816563" Z="1.354836" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_Trailer_Cistern</Name>
         <File>dz\structures\wrecks\vehicles\wreck_trailer_cistern.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:20:43</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2067,22 +2067,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
+        <BBRadius>1.370890</BBRadius>
+        <BBHScale>2.060603</BBHScale>
         <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.404318</Height>
+        <BoundingMin X="-2.080400" Y="-0.039977" Z="-1.323130" />
+        <BoundingMax X="3.569320" Y="2.768660" Z="1.418650" />
+        <BoundingCenter X="0.744460" Y="1.364342" Z="0.047760" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_Trailer_Closed</Name>
         <File>dz\structures\wrecks\vehicles\wreck_trailer_closed.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2115,7 +2115,7 @@
     <Template>
         <Name>Wreck_Trailer_Flat</Name>
         <File>dz\structures\wrecks\vehicles\wreck_trailer_flat.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:20:46</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2133,22 +2133,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>4.137158</BBRadius>
+        <BBHScale>0.265036</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.356905</Height>
+        <BoundingMin X="-1.047673" Y="-0.103418" Z="-2.325070" />
+        <BoundingMax X="1.145316" Y="2.610391" Z="5.949246" />
+        <BoundingCenter X="0.048822" Y="1.253486" Z="1.812088" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_Uaz</Name>
         <File>dz\structures\wrecks\vehicles\wreck_uaz.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:20:47</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2166,22 +2166,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>1.872874</BBRadius>
+        <BBHScale>0.665205</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.883084</Height>
+        <BoundingMin X="-1.504590" Y="-0.039899" Z="-1.970598" />
+        <BoundingMax X="0.987099" Y="1.726270" Z="1.775150" />
+        <BoundingCenter X="-0.258745" Y="0.843186" Z="-0.097724" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_Ural</Name>
         <File>dz\structures\wrecks\vehicles\wreck_ural.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:20:48</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2199,22 +2199,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>3.668575</BBRadius>
+        <BBHScale>0.496839</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.805305</Height>
+        <BoundingMin X="-1.808580" Y="-0.614270" Z="-3.700630" />
+        <BoundingMax X="1.836800" Y="2.996340" Z="3.636520" />
+        <BoundingCenter X="0.014110" Y="1.191035" Z="-0.032055" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_V3S</Name>
         <File>dz\structures\wrecks\vehicles\wreck_v3s.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:20:50</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2232,22 +2232,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>4.406829</BBRadius>
+        <BBHScale>0.394397</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.715744</Height>
+        <BoundingMin X="-1.776824" Y="-0.112793" Z="-3.555560" />
+        <BoundingMax X="1.699254" Y="3.318695" Z="5.258098" />
+        <BoundingCenter X="-0.038785" Y="1.602951" Z="0.851269" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_Volha_Blue</Name>
         <File>dz\structures\wrecks\vehicles\wreck_volha_blue.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>06/05/20 12:20:53</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2265,22 +2265,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BBRadius>2.402945</BBRadius>
+        <BBHScale>0.511410</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.806507</Height>
+        <BoundingMin X="-1.235978" Y="-0.069565" Z="-2.535170" />
+        <BoundingMax X="1.221802" Y="1.543450" Z="2.270720" />
+        <BoundingCenter X="-0.007088" Y="0.736943" Z="-0.132225" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>Wreck_Volha_Grey</Name>
         <File>dz\structures\wrecks\vehicles\wreck_volha_grey.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2313,7 +2313,7 @@
     <Template>
         <Name>Wreck_Volha_Police</Name>
         <File>dz\structures\wrecks\vehicles\wreck_volha_police.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2346,7 +2346,7 @@
     <Template>
         <Name>police_beacon</Name>
         <File>dz\structures\wrecks\vehicles\proxy\police_beacon.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2379,7 +2379,7 @@
     <Template>
         <Name>Wreck_Harvester_Head</Name>
         <File>dz\structures\wrecks\vehicles\proxy\wreck_harvester_head.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2412,7 +2412,7 @@
     <Template>
         <Name>Wreck_Trailer_Closed_base</Name>
         <File>dz\structures\wrecks\vehicles\proxy\wreck_trailer_closed_base.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
@@ -2445,7 +2445,7 @@
     <Template>
         <Name>Rubble_Glass_2</Name>
         <File>dz\structures\wrecks\vehicles\proxy\rubble_glass.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>

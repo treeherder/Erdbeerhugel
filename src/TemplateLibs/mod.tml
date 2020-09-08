@@ -3,7 +3,7 @@
     <Template>
         <Name>Dump_Truck</Name>
         <File>mod\wreck_haul_truck\addons\dump_truck\dump_truck.p3d</File>
-        <Date>08/08/20 23:09:29</Date>
+        <Date>09/08/20 15:07:30</Date>
         <Archive></Archive>
         <Fill>-65408</Fill>
         <Outline>-1</Outline>
@@ -30,7 +30,7 @@
         <Height>0.000000</Height>
         <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
         <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
 </Library>
